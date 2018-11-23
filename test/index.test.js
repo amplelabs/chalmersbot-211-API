@@ -5,6 +5,7 @@ test('adds 1 + 2 to equal 3', () => {
 })
 
 describe('General 2-1-1 Trial API testing', () => {
+  const TIMEOUT = 5000 // seems a bit long ...
   const listOfTopicTestMsg = 'List of Topics in English'
   test(listOfTopicTestMsg, () => {
     console.log(listOfTopicTestMsg)
@@ -24,5 +25,5 @@ describe('General 2-1-1 Trial API testing', () => {
     return common.listTopic().then((topic) => {
       expect(topic).toEqual(expectedTopics)
     })
-  })
+  }, TIMEOUT)
 })

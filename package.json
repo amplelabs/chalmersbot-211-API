@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "standard && jest",
+    "test": "standard && jest --json --outputFile=testOutput.json",
     "lint": "standard",
     "fix": "standard --fix"
   },
   "standard": {
     "env": [ "jest" ]
+  },
+  "jest": {
+    "verbose": true,
+    "bail": true
   },
   "keywords": [],
   "author": "",
