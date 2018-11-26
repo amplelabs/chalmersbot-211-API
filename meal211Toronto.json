@@ -1,0 +1,1372 @@
+[
+  {
+    "resourceID": "34339-2",
+    "resourceName": "Church of the Holy Trinity - Drop-in Program",
+    "resourceDescription": "Drop-in program * monthly Homeless Memorial, including community lunch<br><br>\r\n\r\nMember agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "<b>Summer Drop-in, July-August</b> -- Mon 1:30 pm-3 pm, Tue-Fri 11 am-3 pm, Sun 8 am-1 pm<br>\r\n<b>Drop-in, September-June</b> -- Mon-Fri 11 am-3 pm, Sun 8 am-1 pm<br>\r\nThroughout the year:  <b>Light breakfast</b> -- Sun 8 am * <b>Homeless Memorial</b> -- every 2nd Tue of each month at 12 noon, followed by community lunch at 12:45 pm",
+    "serviceArea": " Toronto Downtown Central",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-598-4521",
+    "latitude": "43.6545600",
+    "longitude": "-79.3815180",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "19 Trinity Square",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5G 1B1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34528-2",
+    "resourceName": "Law Society Foundation - Lawyers Feed the Hungry Program - Osgoode Hall Cafeteria",
+    "resourceDescription": "Hot nutritious meals",
+    "operationHours": "Throughout the year:  <b>breakfast</b> -- Thu 6:45 am-7:30 am, Sun 10 am-11 am * <b>supper</b> -- Tue-Wed 5 pm-6 pm",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-947-3412",
+    "latitude": "43.6520880",
+    "longitude": "-79.3855250",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Osgoode Hall Cafeteria; 130 Queen St W",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5H 2N6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34375-2",
+    "resourceName": "Beach Interfaith Outreach Program",
+    "resourceDescription": "Drop-in lunch program at different religious institutions in the Beach area * nutritious meal and fellowship * see branch records for details",
+    "operationHours": "Meal programs run from October (after Thanksgiving) to May (Victoria Day weekend), 11 am-1 pm * see separate entries for details",
+    "serviceArea": " Toronto Downtown East",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6532260",
+    "longitude": "-79.3831840",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34445-2",
+    "resourceName": "Out of the Cold. Meal Programs - Monday to Thursday Supper for Youth - Evergreen Centre for Street Youth",
+    "resourceDescription": "Child care may be available to youth attending supper -- call for information",
+    "operationHours": "October 2018 to May 2019 -- Mon-Thu 5 pm-6 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-929-9614",
+    "latitude": "43.6590870",
+    "longitude": "-79.3820930",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Evergreen Centre for Street Youth; 381 Yonge St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5B 1S1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34521-2",
+    "resourceName": "Yonge Street Mission - Drop-In Centre - Evergreen Centre for Street Youth",
+    "resourceDescription": "Drop-in centre * hot meals * informal and formal counselling  * shower and laundry facilities * access to emergency clothing * referrals and advocacy * legal advice * ID clinic * other specialized programs<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Office -- Mon-Fri 9 am-5 pm * appointments only Mon-Fri 9 am-12 noon * meals and programs -- Mon-Fri 12 noon-5 pm *  Out of the Cold evening meal -- October to May (see separate entry)",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-929-9614",
+    "latitude": "43.6587100",
+    "longitude": "-79.3816200",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "381 Yonge St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5B 1S1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34442-2",
+    "resourceName": "Out of the Cold. Meal Programs - Thursday Lunch - Metropolitan United Church",
+    "resourceDescription": "Meal program",
+    "operationHours": "November 1, 2018 to March 28, 2019 -- Thu 11 am-2 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-363-0331",
+    "latitude": "43.6539160",
+    "longitude": "-79.3767380",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Metropolitan United Church; 56 Queen St E",
+      "address_2": "Bsmt",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5C 2Z3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34402-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Sunday Overnight Hostel - St Patrick's Catholic Church",
+    "resourceDescription": "Capacity 80 * supper available to both those staying overnight and to members of the public * First Aid Room * information available at <a href=\"http://www.stpatrickstoronto.ca\">www.stpatrickstoronto.ca</a>",
+    "operationHours": "November 18, 2018 to March 31, 2019 -- Sun 4 pm-7 am * First Aid Room -- 4 pm-6 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-598-3269",
+    "latitude": "43.6548850",
+    "longitude": "-79.3915430",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Patrick's Catholic Church; 139 McCaul St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5T 1W3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34438-2",
+    "resourceName": "Out of the Cold. Meal Programs - Tuesday Breakfast - St Andrew's Church (Presbyterian)",
+    "resourceDescription": "Hot meal * clothing",
+    "operationHours": "Throughout the year -- Tue 7:30 am-8 am",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-593-5600 ext 220",
+    "latitude": "43.6468160",
+    "longitude": "-79.3852930",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Andrew's Church; 73 Simcoe St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5J 1W9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34439-2",
+    "resourceName": "Out of the Cold. Meal Programs - Monday Supper - St Andrew's Church (Presbyterian)",
+    "resourceDescription": "Hot meal * clothing boutique * income tax assistance in March",
+    "operationHours": "November 5, 2018 to April 1, 2019 -- Mon 6 pm-8 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-593-5600 ext 220",
+    "latitude": "43.6468160",
+    "longitude": "-79.3852930",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Andrew's Church; 73 Simcoe St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5J 1W9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34395-2",
+    "resourceName": "Haven Toronto",
+    "resourceDescription": "<b>Drop-in</b> -- emergency clothing and footwear * shower and laundry facilities * basic nursing care * meal program * dental clinic<br><br>\r\n\r\n<b>Client intervention and assistance</b> -- counselling and crisis support * friendly visiting and accompaniment * recreational activities<br><br>\r\n\r\n<b>Library</b> -- computers with free Internet access * mailing address and telephone service<br><br>\r\n\r\n<b>**All services to members only**</b><br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Mon-Sun 8 am-5 pm * <b>meal program</b> -- breakfast 8:15 am, lunch 12:15 pm, snack 3:30 pm",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-366-5377",
+    "latitude": "43.6555620",
+    "longitude": "-79.3743280",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "170 Jarvis St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5B 2B7",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34407-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel for Men, January to March - Chinese Gospel Church",
+    "resourceDescription": "<b>For men only</b> * capacity 15 * supper available to both those staying overnight and to members of the public",
+    "operationHours": "January 3, 2019 to March 28, 2019 -- Thu 6 pm-7:30 am",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-977-2530",
+    "latitude": "43.6534840",
+    "longitude": "-79.3959170",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Chinese Gospel Church; 450 Dundas St W",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5T 1G7",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34523-2",
+    "resourceName": "Fred Victor - 24-Hour Drop-in for Women - Adelaide Resource Centre for Women",
+    "resourceDescription": "Drop-in services * referrals, counselling, advocacy * case management * access to phone, showers * laundry facilities -- call for times * breakfast, lunch and supper, as well as refreshments, snacks * social and recreation activities * outings * support groups * harm reduction support and supplies<br><br>\r\n\r\nMember agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Mon-Sun 24 hours * <b>meals</b> -- breakfast 9 am, lunch 12 noon, supper 6 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-392-9292",
+    "latitude": "43.6509860",
+    "longitude": "-79.3752990",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Adelaide Resource Centre for Women; 67 Adelaide St E",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5C 1K6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34522-2",
+    "resourceName": "Fred Victor - Open House Drop-In and Support Services - Queen and Jarvis Site",
+    "resourceDescription": "Drop-in services -- information and referral, counselling, advocacy, ID clinic * access to food, clothing, phones * mental health and justice workers * harm reduction equipment and support * Fair Change Legal Clinic * seasonal income tax preparation * creative arts programs and outings * community garden<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Drop-in -- Mon-Fri 12 noon-4 pm * Support Services -- Mon-Fri 9:30 am-5:30 pm by appointment",
+    "serviceArea": " Toronto Downtown Central",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-364-8228 ext 3318",
+    "latitude": "43.6536260",
+    "longitude": "-79.3729720",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "145 Queen St E",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5A 1S1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34397-2",
+    "resourceName": "Margaret's Housing and Community Support Services - Margaret's Toronto East Drop-In",
+    "resourceDescription": "Drop-in centre * meals * assistance locating emergency accommodation, filling out forms program * housing support program * crisis intervention * expressive art therapy * visiting nurse * diabetic clinic, chiropodist * Wednesday women's program * seniors programs * recreation * Extended Respite Drop-in -- capacity 50<br><br>\r\n\r\n<b>Harm Reduction Supplies and Service</b> --  Saturday-Sunday, including clean needles, crack pipes, condoms, counselling<br><br>\r\n\r\n<b>Mental Health and Justice Program</b> -- information, referral and advocacy * accompaniment * life skills training<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Regular schedule May-Nov: Tue-Thu, Sat-Sun 7 am-12 noon * mental health and justice -- Tue-Thu 9 am-12 noon * nurse -- Thu 9 am-11:30 pm * expressive arts -- Thu, Sun 8:30 am-10:30 am<br><br>\r\n\r\n<b>Extended Drop-in Program -- Mon-Sun 24 hours</b>",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "Arabic",
+      "Italian"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "647-367-2100",
+    "latitude": "43.6584170",
+    "longitude": "-79.3702180",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "323 Dundas St E",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5A 2A2",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34511-2",
+    "resourceName": "Covenant House Toronto",
+    "resourceDescription": "Crisis intervention centre * residential, non-residential and community support services * education * pastoral ministry * runaway prevention program * day program * community youth meal programs<br><br>\r\n\r\n<b>Community Support Services, 416-204-7037</b> -- drop-in for ex-residents and non-residents * hot meal or food package (member of Daily Bread Food Bank) * clothing * hygiene necessities * showers * assessment and referrals * counselling * health care * housing help * literacy * life skills * assistance in finding and keeping a job * legal resources * recreation * street outreach * ID clinic<br><br>\r\n\r\n<b>Health Care Services</b> -- primary medical care * diagnostic services * health education * assistance in obtaining medical coverage * referrals * access to family practice doctor and psychiatrist<br><br>\r\n\r\n<b><a href=\"http://Cov4Youth.ca\">Cov4Youth.ca</a></b>, help@covenanthouse.ca -- online information, fact sheets and advice on youth issues and homelessness * searchable resource directory of services<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Emergency Intake -- Mon-Sun 24 hours<br>\r\n<b>Drop-in</b> -- Mon-Sun 11:30 pm-7 pm<br>\r\n<b>Food bank</b> -- Fri 1:15 pm-6:45 pm<br>\r\n<b>Meal programs:</b>  Lunch -- Mon-Sun 1:15 pm-4 pm * Supper -- Mon-Sun 4 pm-6:45 pm<br>\r\n<b> Health Care Services</b>:  walk-in -- Mon-Fri 8 am-12 noon, 1 pm-3 pm; also Thu 3:30 pm-7 pm * primary care providers -- Mon-Tue mornings, Wed-Fri afternoons * psychiatrist -- Tue-Wed by appointment<br>\r\n<b>ID clinic</b> -- Thu 1 pm-3 pm, sign in by 2:30 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-598-4898",
+    "latitude": "43.6596970",
+    "longitude": "-79.3813140",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "20 Gerrard St E",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5B 2P3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34520-2",
+    "resourceName": "YMCA of Greater Toronto - Youth Drop-in Program - Vanauley Street YMCA Centre",
+    "resourceDescription": "Drop-in * breakfast, lunch * substance use counselling * ID clinic * employment counselling * mental health counselling and crisis intervention * visiting nurse * housing support services * clothing available (dependent on donations<br><br>\r\n\r\nMember agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Mon-Fri 9:30 am-5 pm * program hours vary -- call for details",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-603-6366",
+    "latitude": "43.6488690",
+    "longitude": "-79.3982830",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "7 Vanauley St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5T 2A9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34526-2",
+    "resourceName": "St Felix Centre",
+    "resourceDescription": "Community centre * information and referral * general social support <br><br>\r\n\r\n<b>Adult Programs</b><br>\r\nLunch program Monday-Friday 11:30 am-1 pm * community supper Monday-Thursday 5 pm-6:30 pm * clothing bank program Monday, Wednesday, Friday 11 am-1 pm, Tuesday, Thursday 1 pm- 3 pm * computer classes Monday-Friday 10 am-2:30 pm (by appointment) * creative writing Wednesday 1 pm * Companions on the Journey (peer support group) Thursday 1:30 pm-3:30 pm<br><br>\r\n\r\n<b>24-Hour Respite Site</b> -- extended respite drop-in program * capacity 50<br><br>\r\n\r\n<b>Transitional Housing </b><br>\r\nFor women * maximum stay 1 year * capacity 14 * residents share in care of house * residents create and implement a transition plan to independent living",
+    "operationHours": "Office -- Mon-Fri 9 am-4:30 pm * call for program hours <br><br>\r\n\r\n<b>24-Hour Respite Site</b> -- Mon-Sun 24 hours",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-203-1624",
+    "latitude": "43.6489490",
+    "longitude": "-79.3998000",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "25 Augusta Ave",
+      "address_2": "(Rear Building)",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5T 2K7",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34391-2",
+    "resourceName": "Regent Park Community Health Centre - Men's Drop-in Program - Toronto - Dundas St E",
+    "resourceDescription": "Weekly socialization space<br><br>Services include:<br><ul><li>activities such as movies and outings</li><li>food</li><li>information, support and referral to services</li></ul>",
+    "operationHours": "Fri 9:30am-11:30am",
+    "serviceArea": " Toronto Downtown Central, Toronto Downtown East",
+    "languages": [
+      "English",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-364-2261",
+    "latitude": "43.6594000",
+    "longitude": "-79.3656000",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "465 Dundas St E",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5A 2B2",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34337-2",
+    "resourceName": "Seventh-Day Adventist Church - Tuesday Meal Program - St Luke United Church",
+    "resourceDescription": "Hot meal * partnership of several Seventh-Day Adventist congregations",
+    "operationHours": "Tue 6 pm-7 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-782-3449",
+    "latitude": "43.6629060",
+    "longitude": "-79.3727360",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Luke United Church; 353 Sherbourne St",
+      "address_2": "Gymnasium",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5A 2S3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34316-2",
+    "resourceName": "519 Community Centre",
+    "resourceDescription": "Multiservice centre offering social and recreation programs and group meetings for all ages * meeting place of choice for Lesbian, Gay, Bisexual, Trans, Queer (LGBTQ) communities <br><br>\r\n\r\n<b>Community meals</b> -- for LGBTTQ communities drop-in Sundays, 10 am-1 pm * for the trans community Mondays 6 pm-9 pm (on Wednesdays after a long week-end) <br><br>\r\n\r\n<b>Community Support</b> -- Community Counselling -- provides access to professionally trained and supervised volunteer counsellors * by appointment 416-392-4878 ext 4000 * Alcoholics Anonymous Sunday Group * Crystal Meth Anonymous * Sex and Love Addicts Anonymous (SLA) * <b>Wills clinics</b> -- legal services to draft wills, power of attorney and reported letters for Pro Bono lawyers * by appointment call 416-392-6878 ext 4001 * income tax clinic (March-April) <br><br>\r\n\r\n<b>Community-led -- Hassle Free Clinic</b> -- (see separate entry) <br><br>\r\n\r\n<b>Education and Training</b> -- customized training to help organizations create a LGBTQ inclusive environment <br><br>\r\n\r\n<b>Family and Children Programs</b> -- family support programming and resources for families of diverse identities and structures * <b>Family Resource Centre</b> -- program for children birth-6 years and their parents or caregivers (part of Growing Up Healthy Downtown, see separate entry) * <b>Queer Parenting Programs</b> -- educational, community-building, and family resource programs for LGBTTQ parents, prospective parents, their children and extended families * Dykes Planning Tykes * Daddies & Papas 2B * Mums the World * Daddy, Papa and Me <br><br>\r\n\r\n<b>New to Canada -- One-On-One Settlement Coordination</b> -- help with immigration forms about hearing, housing, employment, education * by appointment * weekly program designed for Convention Refugees and Permanent Residents * sessions explore issues related to settlement in Canada <br><br>\r\n\r\n<b>Older LGBTTQ Programs</b> -- drop-in Mondays 1-4 pm, information, referrals, book clubs, service provides training and arts based programs for people 50 years and older * Older LGBT Resource Centre <br><br>\r\n\r\n<b>Trans-Specific -- Meal Trans</b> -- drop-in program serving meals to lower income, street-active, homeless and sex-working trans women, trans men, genderqueer, and questioning people in a trans-only space * Trans Men FTM Support Group * transition support <br><br>\r\n\r\n<b>Youth programs -- for newcomer youth</b> 14-19 years who are Permanent Residents or Convention Refugees, residing in Canada for less than five years * <b>Youth Engagement program</b> -- focus on English practice and skills building * workshops * <b>Youth Mentorship</b> -- monthly program delivered by peer mentors * hands-on activities which explore issues that matter to youth <br><br>\r\n\r\nLocal lead agency for EarlyON Child and Family Centre<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Mon-Fri 8:30 am-10 pm, Sat 9 am-5 pm, Sun 10 am-5 pm",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-392-6874",
+    "latitude": "43.6665320",
+    "longitude": "-79.3809700",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "519 Church St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M4Y 2C9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34443-2",
+    "resourceName": "Out of the Cold. Meal Programs - Tuesday Lunch - St Basil's Catholic Church, University of St Michael's College",
+    "resourceDescription": "Meal program",
+    "operationHours": "Throughout the year:  <b>hot lunch</b> -- Tue 10:30 am-12 noon * <b>bagged lunch</b> -- Sun  2:30 pm-3:30 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-926-7110",
+    "latitude": "43.6662730",
+    "longitude": "-79.3897180",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Basil's Catholic Church, University of St Michael's College; 50 St Joseph St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5S 1J4",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34434-2",
+    "resourceName": "St Stephen's Community House - Community Services - Augusta Centre",
+    "resourceDescription": "<b>Corner Drop-In</b> -- serves individuals who are homeless, who have low incomes and/or who are socially isolated * breakfast, lunch * showers, laundry, phones, mail services and computers * housing referral and support * Housing Connections Community Partner * voluntary trusteeship <br><br> \r\n\r\n<b>Health</b> -- mental health and harm reduction case management * safer drug use supplies * public health nurse Monday-Tuesday, Thursday-Friday * primary care Doctor for individuals who do not have primary health care, Wednesday * assessment and support of ODSP applications * information and referral for issues related to HIV/Hep C, legal, treatment and housing * relapse prevention group Tuesday <br><br> \r\n\r\n<b>Acudetox</b>, social action, mindfulness meditation and wellness group * <b> Social activities</b> -- Sunday afternoon movie * peer supports * social, recreational and volunteering opportunities <br><br> \r\n\r\n<b>L L Odette Place</b> -- supportive housing for chronically homeless men * application through CASH",
+    "operationHours": "Mon-Fri 9 am-5 pm * <b>Corner Drop-In</b> -- Mon-Fri 7:30 am-11:30 am, Sun 8 am-11:30 am",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-925-2103 ext 2240",
+    "latitude": "43.6564800",
+    "longitude": "-79.4029960",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "260 Augusta Ave",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5T 2L9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34462-2",
+    "resourceName": "Church of the Redeemer - Weekday Meal Program",
+    "resourceDescription": "Hot meals * health clinic * housing and employment assistance * counselling * workshops * art studio and book club<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Meal program -- Mon-Fri 8 am-11:45 am * health clinic -- Mon, Thu 9 am-11:45 am * all other services -- call for details * closed holidays, July to mid-September and 2 weeks over Christmas season",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-922-4948",
+    "latitude": "43.6690630",
+    "longitude": "-79.3940240",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "162 Bloor St W",
+      "address_2": "",
+      "community": "Toronto Downtown North",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5S 1M4",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34353-2",
+    "resourceName": "Good Shepherd Ministries - Good Shepherd Centre",
+    "resourceDescription": "Services for the homeless and disadvantaged \r\n<br><br>\r\n<b>Meal program</b> for persons who are homeless or disadvantaged Monday-Sunday 2-4 pm * <b>Drop-In Program</b> Monday-Sunday 9-11 am * coffee and meal * <b>men's clothing</b> distributed 9-11 am Monday-Friday -- hours may vary, call for details<br> <br> \r\n\r\n<b>Medical clinic</b> for persons who are homeless * Monday-Friday -- hours vary, call for details<br> <br> <b>Overnight shelter</b> for men 18 years and older * registration/intake Monday-Sunday 5:30-5:45 pm * capacity 96 * must vacate premises during the day * call for admission and discharge criteria<br> <br> \r\n\r\n<b>Housing workers/resettlement/crisis intervention counselling</b> -- Monday-Friday, by appointment only<br> <br> \r\n\r\n<b>AApricot (Addiction Assessment Psychotherapy Referral in Community of Toronto) program</b>, 416-869-3619 ext 238 -- assess, motivate and refer underserved substance users to appropriate services * Wednesdays 9 am-6 pm * operates in partnership with Fred Victor (see separate entry) and community physicians<br><br>\r\n\r\n<b>CATCH (Co-ordinated Access to Care for the Homeless)</b> --for persons who are homeless and not connected to services, with or without mental health or addiction problems * referrals through Medical clinic -- call for details<br><br>\r\n\r\n<b>DARE (Drug and Alcohol Recovery Enrichment) Program</b> -- for homeless adult men waiting to enter or who have completed a substance abuse rehabilitation program * referral by detox, rehabilitation centre or social service agency preferred * abstinence-based program<br> <br>\r\n\r\n<b>Gambling Addiction Program</b>, 416-869-3619 ext 245 or 260 -- case management and support groups for adults struggling with both homelessness and problem or pathological gambling<br><br>\r\n\r\n<b>Transition Services for Veterans</b> -- intensive case management for veterans who are homeless or at risk of homelessness * contact Veterans' Transition Worker at 416-896-3619 ex 276 for information<br><br>\r\n \r\n<b>Pastoral Care Program</b> -- counselling and support to meet spiritual needs * Monday-Friday 9-5<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-869-3619",
+    "latitude": "43.6561510",
+    "longitude": "-79.3625220",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "412 Queen St E",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5A 1T3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34354-2",
+    "resourceName": "CRC - 40 Oaks",
+    "resourceDescription": "Community centre, including <b>Regent Park Community Food Centre</b> (in partnership with Community Food Centres Canada) * drop-in and community meal programs * food action programs such as food skills community kitchen, community garden * housing support and affordable housing advocacy * community advocacy training and support * community development and social enterprise partnerships<br><br>\r\n\r\n<b>Drop-in and community meal programs</b> -- breakfast, lunch and supper (see hours of service for schedule) * clothing program * shower and laundry facilities * information and referral * food skills workshops * life skills * recreation and social opportunities * telephone for local calls<br><br>\r\n\r\n<b>Housing programs</b> -- housing supports include assistance in finding and maintaining affordable housing * tenant and landlord relationship assistance * information and referral * 40 Oaks Housing affordable housing residence * Housing Connections (see separate entry) Community Partner, assistance with housing search and application process -- appointment required<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Program hours vary * <b>drop-in</b> -- Mon-Fri 9 am-3 pm * <b>breakfast</b> -- Mon, Fri 9 am-10 am * <b>lunch</b> -- Mon-Tue, Thu-Fri 12 noon-1 pm, and Sun 11:30 am-1 pm (in partnership with Muslim Welfare Centre) * <b>supper</b> -- Sat 5 pm-7 pm (in partnership with Church in Regent Park/Church in the City) * <b>clothing program</b> -- Mon-Tue, Thu-Fri 9 am-12 noon, by appointment * <b>laundry facilities</b> -- Mon-Fri 9 am-12 noon, by appointment * <b>showers</b> -- Mon-Fri 9 am-12 noon on first come, first served basis",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-363-4234",
+    "latitude": "43.6614020",
+    "longitude": "-79.3652560",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "40 Oak St",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5A 2C6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34341-2",
+    "resourceName": "Church of St Stephen-in-the-Fields - Meal Programs",
+    "resourceDescription": "Meal programs",
+    "operationHours": "<b>Saturday and Sunday breakfast</b> -- throughout the year, Saturday 7:30 am-9 am, Sunday 6:30 am-8 am",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-921-6350",
+    "latitude": "43.6568970",
+    "longitude": "-79.4042660",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "103 Bellevue Ave",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5T 2N8",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34433-2",
+    "resourceName": "Evangel Hall Mission",
+    "resourceDescription": "<b>Adult drop-in</b> -- community suppers *  breakfast, lunch (see hours of service for schedule)* form filling * housing help * shower and laundry facilities * Friday clothing bank * voluntary trusteeships for local residents * client support, including budgeting and addictions referral * Downtown Legal Services -- call for date and time, ext 240 * ID Clinic, Monday mornings <br><br>\r\n\r\n<b>Health services</b> -- nursing services -- Tue, Thu 10 am-12 noon * dental clinic -- call for eligibility criteria and appointment, ext 290 * Alcoholics Anonymous Sun 2:30 pm, Narcotics Anonymous Mon-Fri, statutory holidays at noon <br><br>\r\n\r\n<b>Spiritual Care</b> - Out of the Cold Program - Every Tuesday, November 6, 2018 to March 26, 2019 (ticket given out at 1:00 pm on Tuesday) <br><br>\r\n\r\nMember agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Administration -- Mon-Fri 9 am-5 pm<br><br>\r\n\r\n<b>Adult drop-in</b> -- Mon-Fri 9 am-12:30 pm, Sat and statutory holidays 9 am-1 pm * <b>breakfast</b> -- Mon-Fri 9 am * <b>lunch</b> -- Mon-Fri 10:30 am-11:45 pm * <b>community supper</b> --  Sunday 5:30 pm-6:15 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-504-3563",
+    "latitude": "43.6454500",
+    "longitude": "-79.4024300",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "552 Adelaide St W",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5V 3W8",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34519-2",
+    "resourceName": "Scott Mission",
+    "resourceDescription": "Faith-based street mission, includes support and provisions such as meal programs, food bank, overnight shelter, ID clinic, men's and women's ministries, recreation programs, and child care<br> <br>\r\n\r\n<b>Food programs</b> -- hot meal * also bag lunches<br> <br> \r\n\r\n<b>Children and youth</b> -- after school clubs * summer camp at Caledon * licensed child care centre -- see separate entry<br> <br> \r\n\r\n<b>Men's Ministry</b> 416-923-8872 ext 232  -- overnight shelter, including supper and breakfast * clothing * counselling * support groups * laundry and shower facilities -- call for times * seasonal income tax clinic available upon request * films, outings, games * Bible discussion group -- call for times<br> <br> \r\n\r\n<b>Women and Family Ministry</b> 416-923-3916 -- food and clothing bank by appointment * for women and their families or single fathers with custody of children * baby food and formula * member of Daily Bread Food Bank * layettes for newborns * household items, bedding * supportive counselling and referrals * Christmas grocery and toy program<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Mon-Fri 9 am-5 pm, Sat 8 am-12 noon * some programs after hours * program hours vary<br>\r\n<b>Food programs</b> -- hot meal Mon-Sat at 10:30 am and 11:30 am * bag lunches Mon-Fri 4 pm, Sun 8:45 am-9:45 am<br>\r\n<b>ID clinic</b> -- Thu 9:30 am-11 am * sign in by 10:30 am<br>\r\n<b>Men''s Ministry overnight shelter</b> -- Mon-Sun 7 pm-7 am * Registration Mon-Fri 4 pm, weekends/holidays 7 pm * Drop-in Mon-Sat 8 am-11:45 am<br>\r\n<b>Women and Family Ministry food and clothing bank</b> -- by appointment Mon-Fri 9:30 am-11:30 am; Mon-Tue, Thu-Fri 1:30 pm-3:30 pm * closed Wed afternoon, weekends and statutory holidays",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6586300",
+    "longitude": "-79.4007400",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "502 Spadina Ave",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5S 2H1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34447-2",
+    "resourceName": "Out of the Cold. Meal Programs - Tuesday Supper and Food Bank for Youth - Knox Presbyterian Church",
+    "resourceDescription": "<b>Winter drop-in for youth 16-25 years only</b> * supper * food bank * clothing and household items exchange",
+    "operationHours": "November 6, 2018 to April 30, 2019 -- Tue 6:30 pm-9 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "Church 416-921-8993",
+    "latitude": "43.6624480",
+    "longitude": "-79.4025560",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Knox Presbyterian Church; 630 Spadina Ave",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5S 2H4",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34437-2",
+    "resourceName": "Out of the Cold. Meal Programs - Friday Supper - St Thomas Anglican Church",
+    "resourceDescription": "Hot meals October to April, sandwiches May to September",
+    "operationHours": "Throughout the year -- Fri 5 pm-7 pm",
+    "serviceArea": " Toronto Downtown Central",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-979-2323",
+    "latitude": "43.6659260",
+    "longitude": "-79.4007450",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Thomas Anglican Church, Parish Hall; 383 Huron St",
+      "address_2": "",
+      "community": "Toronto Downtown Central",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5S 2G5",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34448-2",
+    "resourceName": "Winter Welcome Table - Monday Supper",
+    "resourceDescription": "Hot meal, social activities * clothing when available * in partnership with St Joan of Arc Catholic Church",
+    "operationHours": "November 5, 2018 to April 15, 2019 -- Mon 5 pm-9 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-534-4219",
+    "latitude": "43.6656350",
+    "longitude": "-79.4125090",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Peter's Church, Parish Hall; 659 Markham St",
+      "address_2": "",
+      "community": "Toronto Downtown North",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6G 2M1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34317-2",
+    "resourceName": "Caribbean Canadian Catholic Centre - Soup Kitchen",
+    "resourceDescription": "Soup kitchen * member of Daily Bread Food Bank<br>\r\n<br>\r\nCounselling -- marriage, pastoral and family problems * information and referral -- education, employment * cultural activities * friendly visiting * Sister Kathleen Jackman scholarship award program",
+    "operationHours": "Soup kitchen -- Wed 9 am-1 pm * Church office -- Mon-Tue, Thu-Fri 9 am-12 noon, 2 pm-4:30 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-534-1145",
+    "latitude": "43.6540210",
+    "longitude": "-79.4238250",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Our Lady of Good Counsel; 867 College St",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6H 1A1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34404-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Friday Overnight Hostel, Eastminster United Church - Eastminster United Church",
+    "resourceDescription": "Capacity 45 * visiting nurse * supper and breakfast available to both those staying overnight and to members of the public",
+    "operationHours": "November 9, 2018 to March 29, 2019 -- Fri 5 pm-8 am",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6775160",
+    "longitude": "-79.3537280",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Eastminster United Church; 310 Danforth Ave",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M4K 1N6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34525-2",
+    "resourceName": "Sistering - Drop-In Centre Bloor Street - Bloor Street Office",
+    "resourceDescription": "<b>Drop-In and Services</b> --  free coffee and daily meals * Sisters Kitchen * showers, laundry facilities * clothing and footwear * access to phone, internet and mailing address * pet friendly <br><br>\r\n\r\n<b>Support services</b> -- individual counselling * support groups * information and referral * advocacy, referrals and accompaniment to legal, housing, employment, education, emergency and social services * harm reduction support and supplies * income and education support * support groups including for older Cantonese, Mandarin and Spanish-speaking women * access to settlement worker <br><br>\r\n\r\n<b>Housing support</b> -- assistance applying for subsidized or market-rent housing * Housing Connections (see separate entry) Community Partner <br><br>\r\n\r\n<b>Health and wellness programs</b> -- trauma informed counselling * nurse * medical clinic * dental referral in partnership with Queen West Community Health Centre at the University of Toronto Dental Clinic * accompaniment to medical appointment <br><br>\r\n\r\nSocial and recreation activities * volunteer opportunities * speakers <br><br>\r\n\r\nMember agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Drop in-- Mon-Sun 24 hours * Meals -- breakfast, 9:30 am, lunch 12 noon, supper 8:30 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English",
+      "Spanish",
+      "Cantonese",
+      "Italian",
+      "Mandarin",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-926-1946",
+    "latitude": "43.6615870",
+    "longitude": "-79.4288730",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "962 Bloor St W",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6H 1L6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34441-2",
+    "resourceName": "Out of the Cold. Meal Programs - Saturday Breakfast and Lunch - Holy Rosary Church",
+    "resourceDescription": "Meal program",
+    "operationHours": "November 10, 2018 to April 6, 2019 -- Sat 9 am-2 pm * light breakfast 9 am, hot lunch 12 noon * closed December 22 and 29, 2018",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-923-8471",
+    "latitude": "43.6845090",
+    "longitude": "-79.4139090",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Holy Rosary Church, Parish Hall; 354 St Clair Ave W",
+      "address_2": "",
+      "community": "Toronto Downtown North",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5P 1N4",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34444-2",
+    "resourceName": "Out of the Cold. Meal Programs - Tuesday Supper - Calvary Church",
+    "resourceDescription": "Meal program",
+    "operationHours": "November 6, 2018 to March 26, 2019 -- Tue 6 pm-8 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-466-3040",
+    "latitude": "43.6805020",
+    "longitude": "-79.3458820",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Calvary Church; 746 Pape Ave",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M4K 3S7",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34460-2",
+    "resourceName": "Bloor Lansdowne Christian Fellowship Church - BLCF Cafe Community Dinner",
+    "resourceDescription": "Community meal",
+    "operationHours": "Wed 6 pm-8 pm",
+    "serviceArea": " Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-535-9578",
+    "latitude": "43.6580220",
+    "longitude": "-79.4435390",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "1307 Bloor St W",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6H 1P1",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34440-2",
+    "resourceName": "Out of the Cold. Meal Programs - Sunday Lunch - St Michael and All Angels Church",
+    "resourceDescription": "Meal program * packed lunches can be provided at the entrance for people using mobility devices",
+    "operationHours": "October 14, 2018 to April 28, 2019 -- Sun 9:30 am -3 pm * coffee and snacks available at 9:30 * lunch served between 12:30 pm and 1 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6819730",
+    "longitude": "-79.4229370",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Michael and All Angels Church; 611 St Clair Ave W",
+      "address_2": "Basement",
+      "community": "Toronto Downtown North",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6C 1A3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34334-2",
+    "resourceName": "Wychwood Open Door - Drop-In Centre",
+    "resourceDescription": "Drop-in * breakfast, lunch * clothing * social and recreational programs * life skills * community and health information * peer advocates provide help with social assistance, housing and legal issues <br><br>\r\n\r\nMember agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "<b>Summer Hours (Apr-Oct):</b> Mon, Wed, Fri 9 am-3 pm * <b>Winter Hours (Nov-Mar)</b>: Mon, Wed, Fri 8:30 am-3 pm <br><br>\r\n<b>Meals:</b> Cold Breakfast 9 am * Hot Breakfast 10 am * Hot Soup 12:30 pm * Hot Lunch 1 pm",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West, York",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "647-352-3513",
+    "latitude": "43.6812060",
+    "longitude": "-79.4273340",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Matthew's United Church; 729 St Clair Ave W",
+      "address_2": "Bsmt",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6C 1B2",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34414-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel, First Interfaith / St Matthew's United Church - First Interfaith / St Matthew's United Church",
+    "resourceDescription": "Shelter -- capacity 60 * visiting nurse * foot care * clothing * bag lunches * recreation * supper available to both those staying overnight and to members of the public",
+    "operationHours": "November 1, 2018 to March 28, 2019 -- Thu 4 pm-8 am * tickets distributed at 4 pm on first come, first served basis",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6812060",
+    "longitude": "-79.4273340",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Matthew's United Church; 729 St Clair Ave W",
+      "address_2": "Bsmt",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6C 1B2",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34406-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Monday Overnight Hostel, St Brigid's Annex / St Catherine of Siena - St Brigid's Annex / St Catherine of Siena",
+    "resourceDescription": "Capacity 70 * visiting nurse * supper and breakfast available to both those staying overnight and to members of the public",
+    "operationHours": "November 19, 2018 to April 22, 2019 -- Mon 4 pm-8 am",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6806690",
+    "longitude": "-79.3348500",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "St Catherine of Siena Church; 1099 Danforth Ave",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M4J 1M5",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34340-2",
+    "resourceName": "Dale Ministries - Monday Lunch - Bonar Parkdale Presbyterian Church",
+    "resourceDescription": "Drop-in program * meal",
+    "operationHours": "Mon 10 am-3 pm * coffee 10 am * lunch 1 pm",
+    "serviceArea": " Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "647-926-6352",
+    "latitude": "43.6401170",
+    "longitude": "-79.4345030",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "250 Dunn Ave",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6K 2R9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34524-2",
+    "resourceName": "Sistering - Parkdale Drop-In Centre and Outreach Program - Masaryk-Cowan Community Centre",
+    "resourceDescription": "Morning drop-in * free coffee and lunch * social and recreation programs * access to phone, clothing * harm reduction program * advocacy and referrals to medical, legal, housing and social services * volunteer opportunities",
+    "operationHours": "Mon-Fri 9 am-1 pm",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English",
+      "Spanish",
+      "Cantonese",
+      "Mandarin",
+      "Punjabi",
+      "Other"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-588-3939",
+    "latitude": "43.6407670",
+    "longitude": "-79.4332470",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Masaryk-Cowan Community Centre; 220 Cowan Ave",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6K 2N6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34355-2",
+    "resourceName": "West Neighbourhood House - Parkdale Meeting Place",
+    "resourceDescription": "Light meal * social and recreational activities * information and referral<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "operationHours": "Tue, Thu, Fri-Sat 10 am-4 pm; Wed 11:10 am-6 pm (first Wed of the month 11:30 am-4 pm)",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-891-3616",
+    "latitude": "43.6395740",
+    "longitude": "-79.4405270",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Parkdale Activity-Recreation Centre; 1499 Queen St W",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6R 1A3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34399-2",
+    "resourceName": "Parkdale Activity-Recreation Centre",
+    "resourceDescription": "<b>Drop-In</b> -- community centre * activity and recreation program * housing and   crisis intervention referrals * breakfast Monday-Thursday 9:15 am, Saturday-Sunday 11:15 am, lunch Monday-Thursday 11:30 am, Friday-Sunday 1 pm * primary care nurse -- Tuesday and Thursday 10 am-12 noon, Friday 2 pm-4 pm * telephone * showers * mailing address for members * internet<br> \r\n<br>\r\n<b>Case Management Program</b> -- one on one support for people experiencing mental health and/or addiction concerns * supports include accompaniment, referrals, advocacy, and skills building<br> \r\n<br>\r\n<b>Community Peer Program</b> -- offers accompaniment and advocacy services to people accessing the health care, mental health care, housing and legal systems<br> \r\n<br>\r\n<b>Supportive Housing</b> -- permanent supportive housing for psychiatric survivors who have experienced homelessness * 39 units<br> \r\n<br>Member agency of Toronto Drop-in Network (TDIN) * lead agency for the FoodReach program",
+    "operationHours": "Office -- Mon- Fri 9 am-5 pm<br><br>\r\nDrop-in -- Mon-Thu 9 am-1 pm; Fri 12:30 pm-4:30 pm, 6 pm-9 pm; Sat-Sun 11 am-3 pm",
+    "serviceArea": " Toronto Downtown, Toronto Downtown Central, Toronto Downtown East, Toronto Downtown North, Toronto Downtown West",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-537-2262",
+    "latitude": "43.6395740",
+    "longitude": "-79.4405270",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "1499 Queen St W",
+      "address_2": "",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6R 1A3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34408-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel, Holy Blossom Temple - Holy Blossom Temple",
+    "resourceDescription": "Capacity 45 * visiting nurse * breakfast for overnight guests only, bag lunches at departure * supper available to both those staying overnight and to members of the public * TTC token * emergency clothing",
+    "operationHours": "November 1, 2018 to March 29, 2019 -- Thu 6:30 pm-7 am * visiting nurse -- Thu 6:30 pm-8 pm",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6982680",
+    "longitude": "-79.4251780",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Holy Blossom Temple; 1950 Bathurst St",
+      "address_2": "",
+      "community": "York",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M5P 3K9",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34376-2",
+    "resourceName": "Beach Interfaith Outreach Program - Monday Lunch, Corpus Christi Catholic Church",
+    "resourceDescription": "Lunch program",
+    "operationHours": "October 15, 2018 to May 13, 2019 -- Mon 11 am-1 pm",
+    "serviceArea": " Toronto Downtown East",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-694-0382",
+    "latitude": "43.6684990",
+    "longitude": "-79.3094450",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Corpus Christi Catholic Church, Parish Hall; 16 Lockwood Rd",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M4L 3T8",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34338-2",
+    "resourceName": "Grant AME Church - Soup Kitchen",
+    "resourceDescription": "Hot meal * food bank * member of Daily Bread Food Bank",
+    "operationHours": "Food Bank and hot meal every Friday 5 pm-8 pm * Hot meal -- 1st Saturday of each month, 3 pm-6 pm",
+    "serviceArea": " East York, Toronto Downtown East",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-690-5169",
+    "latitude": "43.6816900",
+    "longitude": "-79.3084370",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Fellowship Hall; 2029 Gerrard St E",
+      "address_2": "",
+      "community": "Toronto Downtown East",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M4E 2B3",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34411-2",
+    "resourceName": "Out of the Cold. Overnight Shelters - Tuesday Overnight Hostel, January to March - Beth Sholom Synagogue",
+    "resourceDescription": "Capacity 60 * supper and breakfast available to both those staying overnight and to members of the public",
+    "operationHours": "January 1, 2019 to March 19, 2019 -- Tue 5:15 pm-7 am",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": null,
+    "latitude": "43.6981150",
+    "longitude": "-79.4377310",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Beth Sholom Synagogue; 1445 Eglinton Ave W",
+      "address_2": "",
+      "community": "York",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6C 2E6",
+      "country": "Canada"
+    }
+  },
+  {
+    "resourceID": "34388-2",
+    "resourceName": "Roncesvalles United Church - Sunday Lunch and Supper",
+    "resourceDescription": "Drop-in lunch and supper * guests are required to bring their own container to take food away * vegetarian meal available on request",
+    "operationHours": "Lunch -- Sun 1 pm-3:30 pm * Supper -- Sun 5:30 pm-6 pm (last meal served at 6 pm)",
+    "serviceArea": " Toronto",
+    "languages": [
+      "English"
+    ],
+    "ageBand": {
+      "lowerBoundAge": 0,
+      "upperBoundAge": 0
+    },
+    "phone": "416-536-1755",
+    "latitude": "43.6453950",
+    "longitude": "-79.4489470",
+    "wheelchairAccess": false,
+    "physicalAddressDetail": {
+      "address": "Roncesvalles United Church; 214 Wright Ave",
+      "address_2": "Bsmt",
+      "community": "Toronto Downtown West",
+      "city": "Toronto",
+      "state_code": "ON",
+      "zip_code": "M6R 1L3",
+      "country": "Canada"
+    }
+  }
+]

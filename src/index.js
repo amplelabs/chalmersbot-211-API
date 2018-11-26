@@ -1,6 +1,8 @@
 require('dotenv').config()
 const fs = require('fs')
-const common = require('../lib/common')
+const common = require('../lib/external')
+
+// TODO: put an express server here
 
 console.log('2-1-1 trial api testing')
 async function listAllTopics () {
@@ -37,19 +39,25 @@ async function searchMeals () {
     maxDistanceInKilometers: 10.5,
     requireWheelchairAccess: false
   }
-  console.log('moo');
   const results = await common.searchMeals(param)
-    .catch(err => console.error(err))
-  console.log(results)
+    .catch(err => console.error(err.code)) // log the whole err
+  // console.log(results)
+  const json = JSON.stringify(results)
+  fs.writeFile('meal211Toronto.json', json, function (err) {
+    if (err) {
+      console.log(err)
+    }
+  })
+  console.log('saved!')
 }
 
 async function getResourceInfo() {
   const result = await common.getResourceInfo('34388-2')
-    .catch(err => console.error(err))
+    .catch(err => console.error(err.code))
   console.log(result)
 }
 
 // const main = listAllTopics
-const main = searchMeals
-// const main = getResourceInfo
+// const main = searchMeals
+const main = getResourceInfo
 main()

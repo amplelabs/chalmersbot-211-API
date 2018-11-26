@@ -1,8 +1,4 @@
-const common = require('../lib/common')
-
-test('adds 1 + 2 to equal 3', () => {
-  expect(common.sum(1, 2)).toBe(3)
-})
+const common = require('../lib/external')
 
 describe('General 2-1-1 Trial API testing', () => {
   const TIMEOUT = 5000 // seems a bit long ...
