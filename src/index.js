@@ -61,7 +61,7 @@ async function searchMeals() {
   // console.log(results)
   const json = JSON.stringify(results)
   // const json = results;
-  fs.writeFile('2_meal211Toronto_1.json', json, function (err) {
+  fs.writeFile('meal211Toronto.json', json, function (err) {
     if (err) {
       console.log(err)
     }
