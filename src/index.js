@@ -5,9 +5,11 @@ const mealTransformer = require('../lib/meal-transformer');
 
 // TODO: put an express server here
 
-console.log('2-1-1 trial api testing')
+console.log('2-1-1 trial api testing');
+
 async function listAllTopics() {
   console.log('Get all topics and subtopics from 2-1-1 API.')
+
   try {
     const topics = await common.listTopic().catch(err => console.error(err))
     const fullList = await Promise.all(topics.map(async (x) => {
