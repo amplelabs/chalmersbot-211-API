@@ -1,0 +1,56 @@
+[
+  {
+     "id_cioc": "OXF0043",
+    "id_program": "51098864",
+    "agency_name": "STICH Supper Club",
+    "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
+    "desc_program": "Weekly hot meal for anyone in the community and beyond.",
+    "hours": "Thu 4:30 pm-6 pm",
+    "eligibilty": "No restrictions"
+  },
+  {
+    "id_cioc": "KGN2863",
+    "id_program": "57684440",
+    "agency_name": "St Paul's Anglican Church",
+    "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
+    "desc_program": "Nutritious meals served to the Kingston community",
+    "hours": "Office Wed, Thu 9 am-1 pm * Meals Tue, Thu 4:30 pm-7 pm",
+    "eligibilty": "No restrictions"
+  },
+  {
+    "id_cioc": "ORI0080",
+    "id_program": "57998662",
+    "agency_name": "Gravenhurst Farmers Market",
+    "category": "Free / Low-cost meals",
+    "desc_program": "Farmers' market held weekly on Wednesday mornings * outdoor vendors * Lunch available * Free coffee (or by donation)",
+    "hours": "Wed 9 am-2 pm\nDates: May-Oct (2018)",
+    "eligibilty": "No smoking * Obedient dogs welcome"
+  },
+  {
+    "id_cioc": "CHK0462",
+    "id_program": "58231603",
+    "agency_name": "Christ Anglican Church",
+    "category": "Free / Low Cost Meals;Free / Low-cost meals;Meals for seniors / people with disabilities",
+    "desc_program": "Hot meal Mondays 11 am - 12:15 pm (closed July-August and Statutory Holidays)",
+    "hours": "Mondays 11 am - 12:15 pm",
+    "eligibilty": "no restrictions"
+  },
+  {
+    "id_cioc": "OXF0078",
+    "id_program": "58344798",
+    "agency_name": "Oasis Cafe",
+    "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
+    "desc_program": "Adult outreach program in the form of a café, offering luncheon and an opportunity to connect and feel cared about.",
+    "hours": "Fri 10 am-12:30 pm",
+    "eligibilty": "Age Requirements: Ages: 18 year(s) and up;"
+  },
+  {
+    "id_cioc": "SIM0213",
+    "id_program": "60939258",
+    "agency_name": "Dunnville Word of Faith Fellowship",
+    "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
+    "desc_program": "Soup kitchen",
+    "hours": "Wed 11:30 am-1 pm in the church basement",
+    "eligibilty": "No restrictions"
+  }
+]
