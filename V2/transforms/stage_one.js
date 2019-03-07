@@ -30,9 +30,14 @@ const stageOneParser = async (raw211Data) => {
     const destructuredData = _.map(selectedData, (record) => {
         record['ampl_hours_details'] = destructure(_.get(record, 'hours'));
         record['ampl_program_detials'] = destructure(_.get(record, 'desc_program'));
+        return record;
     })
 
 };
+
+const destructure = (complexString) => {
+    _.split(complexString, /\n|*|<br\s*/?)
+}
 
 export default [
     stageOneParser
