@@ -2,6 +2,8 @@
 const fs = require('fs');
 const express = require('express');
 
+const stageOne = require('./transforms/stageOne');
+
 
 
 // configure express server
@@ -19,6 +21,19 @@ app.get('/', async (req, res) => {
         res.send(error).status(500);
     }
 });
+
+app.get('/test', async (req, res) => {
+    console.log(`/test`);
+    try {
+        const rawData = fs.readFileSync('./data/211OntarioData.json');
+        const data = JSON.parse(rawData);
+        console.log(`parsed data ${data.length}`)
+        const stageOneData = await stageOne.stageOneParser(data);
+        res.send(stageOneData);
+    } catch (error) {
+        res.send(error).status(500);
+    }
+})
 
 const getMeals = async () => {
     return new Promise((resolve, reject) => {
