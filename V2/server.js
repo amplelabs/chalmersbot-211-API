@@ -25,10 +25,11 @@ app.get('/', async (req, res) => {
 app.get('/test', async (req, res) => {
     console.log(`/test`);
     try {
+        // res.send(stageOne.destructure("Mon (closed) * Tue-Fri 8 am-6 pm * Sat 7 am-4 pm * Sun 10 am-3 pm"));
+
         const rawData = fs.readFileSync('./data/211OntarioData.json');
-        const data = JSON.parse(rawData);
-        console.log(`parsed data ${data.length}`)
-        const stageOneData = await stageOne.stageOneParser(data);
+        const stageOneData = await stageOne.stageOneParser(JSON.parse(rawData));
+        fs.writeFileSync('./data/tmp/stageOne.json', JSON.stringify(stageOneData));
         res.send(stageOneData);
     } catch (error) {
         res.send(error).status(500);
