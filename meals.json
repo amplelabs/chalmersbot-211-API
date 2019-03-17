@@ -1,6 +1,6 @@
 [
   {
-    "address": "Osgoode Hall Cafeteria; 130 Queen St W, , Toronto, M5H 2N6",
+    "address": "Osgoode Hall Cafeteria; 130 Queen St W, Toronto, M5H 2N6",
     "organizationName": "Law Society Foundation - Lawyers Feed the Hungry Program - Osgoode Hall Cafeteria",
     "program": "",
     "phone_number": "416-947-3412",
@@ -9,14 +9,36 @@
     "meals": [
       {
         "startTime": "06:45",
+        "endTime": "7:30",
+        "dayOfWeek": [
+          "Thu"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "17:00",
         "endTime": "18:00",
         "dayOfWeek": [
-          "Thu",
-          "Sun",
           "Tue",
           "Wed"
         ],
-        "type": "",
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -38,7 +60,7 @@
         "dayOfWeek": [
           "Thu"
         ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -47,29 +69,7 @@
     ]
   },
   {
-    "address": "St Patrick's Catholic Church; 139 McCaul St, , Toronto, M5T 1W3",
-    "organizationName": "Out of the Cold. Overnight Shelters - Sunday Overnight Hostel - St Patrick's Catholic Church",
-    "program": "",
-    "phone_number": "416-598-3269",
-    "latitude": 43.654885,
-    "longitude": -79.391543,
-    "meals": [
-      {
-        "startTime": "16:00",
-        "endTime": "18:00",
-        "dayOfWeek": [
-          "Sun"
-        ],
-        "type": "",
-        "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
-      }
-    ]
-  },
-  {
-    "address": "St Andrew's Church; 73 Simcoe St, , Toronto, M5J 1W9",
+    "address": "St Andrew's Church; 73 Simcoe St, Toronto, M5J 1W9",
     "organizationName": "Out of the Cold. Meal Programs - Monday Supper - St Andrew's Church (Presbyterian)",
     "program": "",
     "phone_number": "416-593-5600 ext 220",
@@ -77,12 +77,12 @@
     "longitude": -79.385293,
     "meals": [
       {
-        "startTime": "18:00",
-        "endTime": "20:00",
+        "startTime": "7:30",
+        "endTime": "8:00",
         "dayOfWeek": [
-          "Mon"
+          "Tue"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "address": "170 Jarvis St, , Toronto, M5B 2B7",
+    "address": "170 Jarvis St, Toronto, M5B 2B7",
     "organizationName": "Haven Toronto",
     "program": "",
     "phone_number": "416-366-5377",
@@ -100,34 +100,50 @@
     "meals": [
       {
         "startTime": "08:15",
-        "endTime": "15:30",
+        "endTime": "",
         "dayOfWeek": [
           "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
           "Sun"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
         "race": []
-      }
-    ]
-  },
-  {
-    "address": "Chinese Gospel Church; 450 Dundas St W, , Toronto, M5T 1G7",
-    "organizationName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel for Men, January to March - Chinese Gospel Church",
-    "program": "",
-    "phone_number": "416-977-2530",
-    "latitude": 43.653484,
-    "longitude": -79.395917,
-    "meals": [
+      },
       {
-        "startTime": "18:00",
-        "endTime": "07:30",
+        "startTime": "12:15",
+        "endTime": "",
         "dayOfWeek": [
-          "Thu"
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sun"
         ],
-        "type": "",
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "15:30",
+        "endTime": "",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sun"
+        ],
+        "type": "Snack",
         "notes": "",
         "gender": "",
         "age": "",
@@ -136,7 +152,7 @@
     ]
   },
   {
-    "address": "Adelaide Resource Centre for Women; 67 Adelaide St E, , Toronto, M5C 1K6",
+    "address": "Adelaide Resource Centre for Women; 67 Adelaide St E, Toronto, M5C 1K6",
     "organizationName": "Fred Victor - 24-Hour Drop-in for Women - Adelaide Resource Centre for Women",
     "program": "",
     "phone_number": "416-392-9292",
@@ -144,22 +160,60 @@
     "longitude": -79.375299,
     "meals": [
       {
-        "startTime": "00:00",
-        "endTime": "18:00",
+        "startTime": "09:00",
+        "endTime": "",
         "dayOfWeek": [
           "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
           "Sun"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
-        "gender": "",
+        "gender": "Women",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sun"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "Women",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "18:00",
+        "endTime": "",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sun"
+        ],
+        "type": "Dinner",
+        "notes": "",
+        "gender": "Women",
         "age": "",
         "race": []
       }
     ]
   },
   {
-    "address": "145 Queen St E, , Toronto, M5A 1S1",
+    "address": "145 Queen St E, Toronto, M5A 1S1",
     "organizationName": "Fred Victor - Open House Drop-In and Support Services - Queen and Jarvis Site",
     "program": "",
     "phone_number": "416-364-8228 ext 3318",
@@ -167,15 +221,16 @@
     "longitude": -79.372972,
     "meals": [
       {
-        "startTime": "21:30",
-        "endTime": "17:30",
+        "startTime": "12:00",
+        "endTime": "16:00",
         "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
           "Fri"
         ],
-        "type": "",
+        "type": "Snack",
         "notes": "",
         "gender": "",
         "age": "",
@@ -184,7 +239,7 @@
     ]
   },
   {
-    "address": "19 Trinity Square, , Toronto, M5G 1B1",
+    "address": "19 Trinity Square, Toronto, M5G 1B1",
     "organizationName": "Church of the Holy Trinity - Drop-in Program",
     "program": "",
     "phone_number": "416-598-4521",
@@ -192,20 +247,12 @@
     "longitude": -79.381518,
     "meals": [
       {
-        "startTime": "13:30",
-        "endTime": "12:45",
+        "startTime": "08:00",
+        "endTime": "",
         "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Fri",
-          "Sun",
-          "Mon",
-          "Fri",
-          "Sun",
-          "Sun",
-          "Tue"
+          "Sun"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
@@ -214,7 +261,7 @@
     ]
   },
   {
-    "address": "323 Dundas St E, , Toronto, M5A 2A2",
+    "address": "323 Dundas St E, Toronto, M5A 2A2",
     "organizationName": "Margaret's Housing and Community Support Services - Margaret's Toronto East Drop-In",
     "program": "",
     "phone_number": "647-367-2100 ; Central Intake 416-338-4766",
@@ -222,19 +269,13 @@
     "longitude": -79.370218,
     "meals": [
       {
-        "startTime": "09:00",
-        "endTime": "10:30",
+        "startTime": "07:00",
+        "endTime": "12:00",
         "dayOfWeek": [
           "Tue",
+          "Web",
           "Thu",
           "Sat",
-          "Sun",
-          "Tue",
-          "Thu",
-          "Thu",
-          "Thu",
-          "Sun",
-          "Mon",
           "Sun"
         ],
         "type": "",
@@ -246,7 +287,7 @@
     ]
   },
   {
-    "address": "20 Gerrard St E, , Toronto, M5B 2P3",
+    "address": "20 Gerrard St E, Toronto, M5B 2P3",
     "organizationName": "Covenant House Toronto",
     "program": "",
     "phone_number": "416-598-4898",
@@ -254,30 +295,36 @@
     "longitude": -79.381314,
     "meals": [
       {
-        "startTime": "23:30",
-        "endTime": "14:30",
-        "dayOfWeek": [
+        "startTime": "13:15",
+        "endTime": "16:00",
+        "dayfWeek": [
           "Mon",
-          "Sun",
-          "Mon",
-          "Sun",
-          "Fri",
-          "Mon",
-          "Sun",
-          "Mon",
-          "Sun",
-          "Mon",
-          "Fri",
+          "Tue",
+          "Wed",
           "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "18:45",
+        "dayfWeek": [
           "Mon",
           "Tue",
           "Wed",
+          "Thu",
           "Fri",
-          "Tue",
-          "Wed",
-          "Thu"
+          "Sat",
+          "Sun"
         ],
-        "type": "",
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -286,7 +333,7 @@
     ]
   },
   {
-    "address": "365 Spadina Ave, , Toronto, M5T 2G3",
+    "address": "365 Spadina Ave, Toronto, M5T 2G3",
     "organizationName": "Yonge Street Mission - Drop-In Centre - Evergreen Centre for Street Youth",
     "program": "",
     "phone_number": "416-929-9614",
@@ -294,17 +341,15 @@
     "longitude": -79.398639,
     "meals": [
       {
-        "startTime": "09:00",
-        "endTime": "17:00",
+        "startTime": "17:00",
+        "endTime": "18:00",
         "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Mon",
-          "Fri",
-          "Mon",
-          "Fri"
+          "Tue",
+          "Wed",
+          "Thu"
         ],
-        "type": "",
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -321,26 +366,54 @@
     "longitude": -79.3998,
     "meals": [
       {
-        "startTime": "04:30",
-        "endTime": "15:00",
+        "startTime": "07:00",
+        "endTime": "08:00",
         "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Mon",
-          "Sun",
-          "Mon",
-          "Sun",
-          "Mon",
-          "Sun",
-          "Mon",
-          "Wed",
-          "Fri",
           "Tue",
+          "Wed",
           "Thu",
-          "Mon",
+          "Fri",
+          "Sat",
           "Sun"
         ],
-        "type": "",
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -349,7 +422,7 @@
     ]
   },
   {
-    "address": "519 Church St, , Toronto, M4Y 2C9",
+    "address": "519 Church St, Toronto, M4Y 2C9",
     "organizationName": "519 Community Centre",
     "program": "",
     "phone_number": "416-392-6874",
@@ -357,17 +430,12 @@
     "longitude": -79.381005,
     "meals": [
       {
-        "startTime": "08:30",
-        "endTime": "16:00",
+        "startTime": "18:00",
+        "endTime": "21:00",
         "dayOfWeek": [
-          "Mon",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Mon",
           "Mon"
         ],
-        "type": "",
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -376,7 +444,7 @@
     ]
   },
   {
-    "address": "St Basil's Catholic Church, University of St Michael's College; 50 St Joseph St, , Toronto, M5S 1J4",
+    "address": "St Basil's Catholic Church, University of St Michael's College; 50 St Joseph St, Toronto, M5S 1J4",
     "organizationName": "Out of the Cold. Meal Programs - Tuesday Lunch - St Basil's Catholic Church, University of St Michael's College",
     "program": "",
     "phone_number": "416-926-7110",
@@ -385,12 +453,23 @@
     "meals": [
       {
         "startTime": "10:30",
+        "endTime": "12:00",
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "14:30",
         "endTime": "15:30",
         "dayOfWeek": [
-          "Tue",
           "Sun"
         ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -399,7 +478,7 @@
     ]
   },
   {
-    "address": "40 Oak St, , Toronto, M5A 2C6",
+    "address": "40 Oak St, Toronto, M5A 2C6",
     "organizationName": "CRC - 40 Oaks",
     "program": "",
     "phone_number": "416-363-4234",
@@ -408,54 +487,49 @@
     "meals": [
       {
         "startTime": "09:00",
-        "endTime": "00:00",
+        "endTime": "10:00",
         "dayOfWeek": [
-          "Mon",
-          "Fri",
-          "Mon",
-          "Fri",
-          "Mon",
-          "Tue",
-          "Thu",
-          "Fri",
-          "Sun",
-          "Sat",
-          "Mon",
-          "Tue",
-          "Thu",
-          "Fri",
-          "Mon",
-          "Fri",
           "Mon",
           "Fri"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
         "race": []
-      }
-    ]
-  },
-  {
-    "address": "260 Augusta Ave, , Toronto, M5T 2L9",
-    "organizationName": "St Stephen's Community House - Community Services - Augusta Centre",
-    "program": "",
-    "phone_number": "416-925-2103 ext 2240",
-    "latitude": 43.65648,
-    "longitude": -79.402996,
-    "meals": [
+      },
       {
-        "startTime": "07:30",
-        "endTime": "11:30",
+        "startTime": "12:00",
+        "endTime": "13:00",
         "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Mon",
-          "Fri",
+          "Tue"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "dayOfWeek": [
           "Sun"
         ],
-        "type": "",
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "dayOfWeek": [
+          "Sat"
+        ],
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -464,7 +538,7 @@
     ]
   },
   {
-    "address": "552 Adelaide St W, , Toronto, M5V 3W8",
+    "address": "552 Adelaide St W, Toronto, M5V 3W8",
     "organizationName": "Evangel Hall Mission",
     "program": "",
     "phone_number": "416-504-3563",
@@ -473,20 +547,43 @@
     "meals": [
       {
         "startTime": "09:00",
-        "endTime": "18:15",
+        "endTime": "",
         "dayOfWeek": [
           "Mon",
-          "Fri",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "11:45",
+        "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Sat",
-          "Mon",
-          "Fri",
-          "Mon",
-          "Fri",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "17:30",
+        "endTime": "18:15",
+        "dayOfWeek": [
           "Sun"
         ],
-        "type": "",
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -495,7 +592,7 @@
     ]
   },
   {
-    "address": "162 Bloor St W, , Toronto, M5S 1M4",
+    "address": "162 Bloor St W, Toronto, M5S 1M4",
     "organizationName": "Church of the Redeemer - Weekday Meal Program",
     "program": "",
     "phone_number": "416-922-4948",
@@ -503,15 +600,16 @@
     "longitude": -79.394024,
     "meals": [
       {
-        "startTime": "11:45",
-        "endTime": "02:00",
+        "startTime": "08:005",
+        "endTime": "11:45",
         "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Mon",
-          "Thu"
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
@@ -520,7 +618,7 @@
     ]
   },
   {
-    "address": "103 Bellevue Ave, , Toronto, M5T 2N8",
+    "address": "103 Bellevue Ave, Toronto, M5T 2N8",
     "organizationName": "Church of St Stephen-in-the-Fields - Meal Programs",
     "program": "",
     "phone_number": "416-921-6350",
@@ -529,13 +627,23 @@
     "meals": [
       {
         "startTime": "07:30",
-        "endTime": "06:30",
+        "endTime": "09:00",
         "dayOfWeek": [
-          "Sun",
-          "Sat",
+          "Sat"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "06:00",
+        "endTime": "8:00",
+        "dayOfWeek": [
           "Sun"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
@@ -544,41 +652,53 @@
     ]
   },
   {
-    "address": "502 Spadina Ave, , Toronto, M5S 2H1",
+    "address": "502 Spadina Ave, Toronto, M5S 2H1",
     "organizationName": "Scott Mission",
     "program": "",
-    "phone_number": null,
+    "phone_number": "",
     "latitude": 43.65863,
     "longitude": -79.40074,
     "meals": [
       {
-        "startTime": "08:00",
-        "endTime": "15:30",
+        "startTime": "10:30",
+        "endTime": "11:00",
         "dayOfWeek": [
           "Mon",
-          "Fri",
-          "Sat",
-          "Mon",
-          "Sat",
-          "Mon",
-          "Fri",
-          "Sun",
+          "Tue",
+          "Wed",
           "Thu",
-          "Mon",
-          "Sun",
-          "Mon",
           "Fri",
-          "Mon",
-          "Sat",
-          "Mon",
-          "Fri",
+          "Sat"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "",
+        "dayOfWeek": [
           "Mon",
           "Tue",
+          "Wed",
           "Thu",
-          "Fri",
-          "Wed"
+          "Fri"
         ],
-        "type": "",
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "08:45",
+        "endTime": "09:45",
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
@@ -587,7 +707,7 @@
     ]
   },
   {
-    "address": "Knox Presbyterian Church; 630 Spadina Ave, , Toronto, M5S 2H4",
+    "address": "Knox Presbyterian Church; 630 Spadina Ave, Toronto, M5S 2H4",
     "organizationName": "Out of the Cold. Meal Programs - Tuesday Supper and Food Bank for Youth - Knox Presbyterian Church",
     "program": "",
     "phone_number": "Church 416-921-8993",
@@ -603,13 +723,13 @@
         "type": "",
         "notes": "",
         "gender": "",
-        "age": "",
+        "age": "16-25",
         "race": []
       }
     ]
   },
   {
-    "address": "St Peter's Church, Parish Hall; 659 Markham St, , Toronto, M6G 2M1",
+    "address": "St Peter's Church, Parish Hall; 659 Markham St, Toronto, M6G 2M1",
     "organizationName": "Winter Welcome Table - Monday Supper",
     "program": "",
     "phone_number": "416-534-4219",
@@ -631,7 +751,7 @@
     ]
   },
   {
-    "address": "Our Lady of Good Counsel; 867 College St, , Toronto, M6H 1A1",
+    "address": "Our Lady of Good Counsel; 867 College St, Toronto, M6H 1A1",
     "organizationName": "Caribbean Canadian Catholic Centre - Soup Kitchen",
     "program": "",
     "phone_number": "416-534-1145",
@@ -640,15 +760,11 @@
     "meals": [
       {
         "startTime": "09:00",
-        "endTime": "16:30",
+        "endTime": "13:00",
         "dayOfWeek": [
-          "Wed",
-          "Mon",
-          "Tue",
-          "Thu",
-          "Fri"
+          "Wed"
         ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -657,29 +773,7 @@
     ]
   },
   {
-    "address": "Eastminster United Church; 310 Danforth Ave, , Toronto, M4K 1N6",
-    "organizationName": "Out of the Cold. Overnight Shelters - Friday Overnight Hostel, Eastminster United Church - Eastminster United Church",
-    "program": "",
-    "phone_number": null,
-    "latitude": 43.677516,
-    "longitude": -79.353728,
-    "meals": [
-      {
-        "startTime": "17:00",
-        "endTime": "08:00",
-        "dayOfWeek": [
-          "Fri"
-        ],
-        "type": "",
-        "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
-      }
-    ]
-  },
-  {
-    "address": "962 Bloor St W, , Toronto, M6H 1L6",
+    "address": "962 Bloor St W, Toronto, M6H 1L6",
     "organizationName": "Sistering - Drop-In Centre Bloor Street - Bloor Street Office",
     "program": "",
     "phone_number": "416-926-1946",
@@ -688,12 +782,53 @@
     "meals": [
       {
         "startTime": "09:30",
-        "endTime": "20:30",
+        "endTime": "",
         "dayOfWeek": [
           "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
           "Sun"
         ],
-        "type": "",
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "20:30",
+        "endTime": "",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -702,7 +837,7 @@
     ]
   },
   {
-    "address": "Holy Rosary Church, Parish Hall; 354 St Clair Ave W, , Toronto, M5P 1N4",
+    "address": "Holy Rosary Church, Parish Hall; 354 St Clair Ave W, Toronto, M5P 1N4",
     "organizationName": "Out of the Cold. Meal Programs - Saturday Breakfast and Lunch - Holy Rosary Church",
     "program": "",
     "phone_number": "416-923-8471",
@@ -710,12 +845,24 @@
     "longitude": -79.413909,
     "meals": [
       {
-        "startTime": "10:00",
-        "endTime": "00:00",
+        "startTime": "09:00",
+        "endTime": "",
         "dayOfWeek": [
           "Sat"
         ],
-        "type": "",
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "",
+        "dayOfWeek": [
+          "Sat"
+        ],
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -724,7 +871,7 @@
     ]
   },
   {
-    "address": "Calvary Church; 746 Pape Ave, , Toronto, M4K 3S7",
+    "address": "Calvary Church; 746 Pape Ave, Toronto, M4K 3S7",
     "organizationName": "Out of the Cold. Meal Programs - Tuesday Supper - Calvary Church",
     "program": "",
     "phone_number": "416-466-3040",
@@ -737,7 +884,7 @@
         "dayOfWeek": [
           "Tue"
         ],
-        "type": "",
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -749,17 +896,29 @@
     "address": "St Michael and All Angels Church; 611 St Clair Ave W, Basement, Toronto, M6C 1A3",
     "organizationName": "Out of the Cold. Meal Programs - Sunday Lunch - St Michael and All Angels Church",
     "program": "",
-    "phone_number": null,
+    "phone_number": "",
     "latitude": 43.681973,
     "longitude": -79.422937,
     "meals": [
       {
         "startTime": "09:30",
+        "endTime": "12:30",
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "12:30",
         "endTime": "13:00",
         "dayOfWeek": [
           "Sun"
         ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -768,78 +927,7 @@
     ]
   },
   {
-    "address": "St Matthew's United Church; 729 St Clair Ave W, Bsmt, Toronto, M6C 1B2",
-    "organizationName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel, First Interfaith / St Matthew's United Church - First Interfaith / St Matthew's United Church",
-    "program": "",
-    "phone_number": null,
-    "latitude": 43.681206,
-    "longitude": -79.427334,
-    "meals": [
-      {
-        "startTime": "16:00",
-        "endTime": "16:00",
-        "dayOfWeek": [
-          "Thu"
-        ],
-        "type": "",
-        "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
-      }
-    ]
-  },
-  {
-    "address": "St Matthew's United Church; 729 St Clair Ave W, Bsmt, Toronto, M6C 1B2",
-    "organizationName": "Wychwood Open Door - Drop-In Centre",
-    "program": "",
-    "phone_number": "647-352-3513",
-    "latitude": 43.681206,
-    "longitude": -79.427334,
-    "meals": [
-      {
-        "startTime": "08:30",
-        "endTime": "13:00",
-        "dayOfWeek": [
-          "Mon",
-          "Wed",
-          "Fri",
-          "Mon",
-          "Wed",
-          "Fri"
-        ],
-        "type": "",
-        "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
-      }
-    ]
-  },
-  {
-    "address": "St Catherine of Siena Church; 1099 Danforth Ave, , Toronto, M4J 1M5",
-    "organizationName": "Out of the Cold. Overnight Shelters - Monday Overnight Hostel, St Brigid's Annex / St Catherine of Siena - St Brigid's Annex / St Catherine of Siena",
-    "program": "",
-    "phone_number": null,
-    "latitude": 43.680669,
-    "longitude": -79.33485,
-    "meals": [
-      {
-        "startTime": "16:00",
-        "endTime": "08:00",
-        "dayOfWeek": [
-          "Mon"
-        ],
-        "type": "",
-        "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
-      }
-    ]
-  },
-  {
-    "address": "250 Dunn Ave, , Toronto, M6K 2R9",
+    "address": "250 Dunn Ave, Toronto, M6K 2R9",
     "organizationName": "Dale Ministries - Monday Lunch - Bonar Parkdale Presbyterian Church",
     "program": "",
     "phone_number": "647-926-6352",
@@ -848,47 +936,31 @@
     "meals": [
       {
         "startTime": "10:00",
-        "endTime": "22:00",
+        "endTime": "",
         "dayOfWeek": [
           "Mon"
         ],
-        "type": "",
+        "type": "Breakfast",
         "notes": "",
         "gender": "",
         "age": "",
         "race": []
-      }
-    ]
-  },
-  {
-    "address": "Parkdale Activity-Recreation Centre; 1499 Queen St W, , Toronto, M6R 1A3",
-    "organizationName": "West Neighbourhood House - Parkdale Meeting Place",
-    "program": "",
-    "phone_number": "416-891-3616",
-    "latitude": 43.639574,
-    "longitude": -79.440527,
-    "meals": [
+      },
       {
-        "startTime": "10:00",
-        "endTime": "04:00",
+        "startTime": "13:00",
+        "endTime": "",
         "dayOfWeek": [
-          "Tue",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Wed",
-          "Wed"
+          "Mon"
         ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
         "race": []
-      }
     ]
   },
   {
-    "address": "1499 Queen St W, , Toronto, M6R 1A3",
+    "address": "1499 Queen St W, Toronto, M6R 1A3",
     "organizationName": "Parkdale Activity-Recreation Centre",
     "program": "",
     "phone_number": "416-537-2262",
@@ -896,18 +968,57 @@
     "longitude": -79.440527,
     "meals": [
       {
-        "startTime": "09:00",
-        "endTime": "15:00",
+        "startTime": "09:15",
+        "endTime": "",
         "dayOfWeek": [
           "Mon",
-          "Fri",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "11:15",
+        "endTime": "",
+        "dayOfWeek": [
+          "Sat",
+          "Sun"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "11:30",
+        "endTime": "",
+        "dayOfWeek": [
           "Mon",
-          "Thu",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "13:00",
+        "endTime": "",
+        "dayOfWeek": [
           "Fri",
           "Sat",
           "Sun"
         ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -916,7 +1027,7 @@
     ]
   },
   {
-    "address": "Holy Blossom Temple; 1950 Bathurst St, , Toronto, M5P 3K9",
+    "address": "Holy Blossom Temple; 1950 Bathurst St, Toronto, M5P 3K9",
     "organizationName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel, Holy Blossom Temple - Holy Blossom Temple",
     "program": "",
     "phone_number": null,
@@ -924,13 +1035,57 @@
     "longitude": -79.425178,
     "meals": [
       {
-        "startTime": "18:30",
-        "endTime": "20:00",
+        "startTime": "09:15",
+        "endTime": "",
         "dayOfWeek": [
-          "Thu",
+          "Mon",
+          "Tue",
+          "Wed",
           "Thu"
         ],
-        "type": "",
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "11:15",
+        "endTime": "",
+        "dayOfWeek": [
+          "Sat",
+          "Sun"
+        ],
+        "type": "Breakfast",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "11:30",
+        "endTime": "",
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "13:00",
+        "endTime": "",
+        "dayOfWeek": [
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -939,7 +1094,7 @@
     ]
   },
   {
-    "address": "Corpus Christi Catholic Church, Parish Hall; 16 Lockwood Rd, , Toronto, M4L 3T8",
+    "address": "Corpus Christi Catholic Church, Parish Hall; 16 Lockwood Rd, Toronto, M4L 3T8",
     "organizationName": "Beach Interfaith Outreach Program - Monday Lunch, Corpus Christi Catholic Church",
     "program": "",
     "phone_number": "416-694-0382",
@@ -952,29 +1107,7 @@
         "dayOfWeek": [
           "Mon"
         ],
-        "type": "",
-        "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
-      }
-    ]
-  },
-  {
-    "address": "Beth Sholom Synagogue; 1445 Eglinton Ave W, , Toronto, M6C 2E6",
-    "organizationName": "Out of the Cold. Overnight Shelters - Tuesday Overnight Hostel, January to March - Beth Sholom Synagogue",
-    "program": "",
-    "phone_number": null,
-    "latitude": 43.698115,
-    "longitude": -79.437731,
-    "meals": [
-      {
-        "startTime": "17:15",
-        "endTime": "07:00",
-        "dayOfWeek": [
-          "Tue"
-        ],
-        "type": "",
+        "type": "Lunch",
         "notes": "",
         "gender": "",
         "age": "",
@@ -991,13 +1124,24 @@
     "longitude": -79.448947,
     "meals": [
       {
-        "startTime": "15:30",
+        "startTime": "13:00",
+        "endTime": "15:30",
+        "dayOfWeek": [
+          "Sun"
+        ,
+        "type": "Lunch",
+        "notes": "",
+        "gender": "",
+        "age": "",
+        "race": []
+      },
+      {
+        "startTime": "17:30",
         "endTime": "18:00",
         "dayOfWeek": [
-          "Sun",
           "Sun"
-        ],
-        "type": "",
+        ,
+        "type": "Dinner",
         "notes": "",
         "gender": "",
         "age": "",
@@ -1006,7 +1150,7 @@
     ]
   },
   {
-    "address": "Fellowship Hall; 2029 Gerrard St E, , Toronto, M4E 2B3",
+    "address": "Fellowship Hall; 2029 Gerrard St E, Toronto, M4E 2B3",
     "organizationName": "Grant AME Church - Soup Kitchen",
     "program": "",
     "phone_number": "416-690-5169",
@@ -1014,11 +1158,10 @@
     "longitude": -79.308437,
     "meals": [
       {
-        "startTime": "15:00",
-        "endTime": "18:00",
+        "startTime": "17:00",
+        "endTime": "20:00",
         "dayOfWeek": [
-          "Fri",
-          "Sat"
+          "Fri"
         ],
         "type": "",
         "notes": "",

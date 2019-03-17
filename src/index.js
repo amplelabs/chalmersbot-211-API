@@ -37,7 +37,7 @@ async function searchMeals() {
     locationText: 'Toronto',
     latitude: 45.1510532655634,
     longitude: -79.398193359375,
-    maxDistanceInKilometers: 10.5,
+    maxDistanceInKilometers: 20.5,
     requireWheelchairAccess: false
   }
 
@@ -46,7 +46,7 @@ async function searchMeals() {
   try {
     results = await common.searchMeals(param);
     const meals = mealTransformer.resourcesToMeal(results);
-    fs.writeFile('meals.json', JSON.stringify(meals, null, 2), (err) => {
+    fs.writeFile('meals2.json', JSON.stringify(meals, null, 2), (err) => {
       if (err) {
         console.error(err);
       }
