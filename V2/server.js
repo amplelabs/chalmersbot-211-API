@@ -1,8 +1,11 @@
+'use strict';
 // http server for meal api
-const fs = require('fs');
+const _ = require('lodash');
 const express = require('express');
+const fs = require('fs');
 
 const stageOne = require('./transforms/stageOne');
+const stageTwo = require('./transforms/stageTwo');
 
 
 
@@ -30,7 +33,10 @@ app.get('/test', async (req, res) => {
         const rawData = fs.readFileSync('./data/211OntarioData.json');
         const stageOneData = await stageOne.stageOneParser(JSON.parse(rawData));
         fs.writeFileSync('./data/tmp/stageOne.json', JSON.stringify(stageOneData));
-        res.send(stageOneData);
+
+        const stageTwoData = stageTwo.cleanup(stageOneData);
+        fs.writeFileSync('./data/tmp/stageTwo.json', JSON.stringify(stageTwoData));
+        res.send(stageTwoData);
     } catch (error) {
         res.send(error).status(500);
     }

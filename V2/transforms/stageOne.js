@@ -1,4 +1,6 @@
+'use strict';
 const _ = require('lodash');
+
 /**
  * Converts 211 new (v2) data format into a simpler form where
  * only attributes of interest are selected
@@ -34,21 +36,17 @@ stageOne.stageOneParser = async (raw211Data) => {
     });
 
     const destructuredData = _.map(selectedData, (record) => {
-        console.log(`Parsing ${record['id_cioc']}`);
+        // console.log(`Parsing ${record['id_cioc']}`);
         record['ampl_hours_details'] = stageOne.destructure(_.get(record, 'hours'));
         record['ampl_program_details'] = stageOne.destructure(_.get(record, 'desc_program'));
         record['ampl_eligibilty'] = stageOne.destructure(_.get(record, 'eligibilty'));
         return record;
     });
 
-    return destructuredData;
+    return stageOne.getTorontoDataOnly(destructuredData);
 };
 
-// TODO: remove after debug
-stageOne.destructureCount = 0;
-
 stageOne.destructure = (complexString) => {
-    stageOne.destructureCount += 1;
 
     if (_.isEmpty(complexString)) {
         return [];
@@ -69,16 +67,21 @@ stageOne.destructure = (complexString) => {
             .filter((x) => !_.isEmpty(x))
             .value();
 
-        parts = _.filter(parts, (part) => _.isEmpty);
+        parts = _.filter(parts, (part) => !_.isEmpty(part));
     } catch (error) {
         console.log(`failed to parse ${complexString}, error: ${error}`);
     }
 
-    console.log(`${stageOne.destructureCount / 3} records parsed `);
-
-
     return parts;
 };
+
+
+stageOne.getTorontoDataOnly = (destructuredData) => {
+    return _.filter(destructuredData, (record) => {
+        // MET prefix is used for Toronto Metropolitan 
+        return _.get(record, 'id_cioc', '').match(/MET/i);
+    });
+}
 
 
 module.exports = stageOne;
