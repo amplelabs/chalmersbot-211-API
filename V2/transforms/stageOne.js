@@ -30,7 +30,8 @@ stageOne.stageOneParser = async (raw211Data) => {
                 'phone_tollfree',
                 'phone_tty',
                 'fax',
-                'website'
+                'website',
+                'last_verified_date'
             ]
         );
     });

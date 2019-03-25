@@ -6,6 +6,7 @@ const fs = require('fs');
 
 const stageOne = require('./transforms/stageOne');
 const stageTwo = require('./transforms/stageTwo');
+const stageThree = require('./transforms/stageThree');
 
 
 
@@ -28,15 +29,17 @@ app.get('/', async (req, res) => {
 app.get('/test', async (req, res) => {
     console.log(`/test`);
     try {
-        // res.send(stageOne.destructure("Mon (closed) * Tue-Fri 8 am-6 pm * Sat 7 am-4 pm * Sun 10 am-3 pm"));
 
         const rawData = fs.readFileSync('./data/211OntarioData.json');
         const stageOneData = await stageOne.stageOneParser(JSON.parse(rawData));
-        fs.writeFileSync('./data/tmp/stageOne.json', JSON.stringify(stageOneData));
+        fs.writeFileSync('./data/tmp/stageOne.json', JSON.stringify(stageOneData, null, 2));
 
         const stageTwoData = stageTwo.cleanup(stageOneData);
-        fs.writeFileSync('./data/tmp/stageTwo.json', JSON.stringify(stageTwoData));
-        res.send(stageTwoData);
+        fs.writeFileSync('./data/tmp/stageTwo.json', JSON.stringify(stageTwoData, null, 2));
+
+        const stageThreeData = stageThree.createAmpleData(stageTwoData);
+        fs.writeFileSync('./data/tmp/stageThree.json', JSON.stringify(stageThreeData, null, 2));
+        res.send(stageThreeData);
     } catch (error) {
         res.send(error).status(500);
     }
