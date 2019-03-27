@@ -36,7 +36,7 @@ app.get('/test', async (req, res) => {
 
         const stageTwoData = stageTwo.cleanup(stageOneData);
         fs.writeFileSync('./data/tmp/stageTwo.json', JSON.stringify(stageTwoData, null, 2));
-
+        
         const stageThreeData = stageThree.createAmpleData(stageTwoData);
         fs.writeFileSync('./data/tmp/stageThree.json', JSON.stringify(stageThreeData, null, 2));
         res.send(stageThreeData);
