@@ -61,7 +61,7 @@ stageTwo.getHoursOfInterest = (hourDetails) => {
     }
 
     hourDetails = _.filter(hourDetails, (hours) => {
-        return hours.match(/meal|food|dinner|lunch|snack|breakfast|kitchen|box/ig);
+        return hours.match(/meal|dinner|lunch|snack|breakfast|kitchen|box|supper/ig);
     });
 
     return hourDetails;

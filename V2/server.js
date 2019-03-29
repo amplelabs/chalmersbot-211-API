@@ -43,7 +43,7 @@ app.get('/test', async (req, res) => {
     } catch (error) {
         res.send(error).status(500);
     }
-})
+});
 
 const getMeals = async () => {
     return new Promise((resolve, reject) => {
@@ -55,3 +55,4 @@ const getMeals = async () => {
         });
     });
 }
+

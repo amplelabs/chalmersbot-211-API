@@ -62,9 +62,9 @@ stageThree.createMeals = (record) => {
         console.log(`creating meals for ${hour}`);
         const meal = stageThree.createMeal(hour);
         meals.push(meal);
-    })
+    });
 
-    return meals;
+    return stageThree.filterMealsWithInvalidDates(meals);
 }
 
 stageThree.removeUnusableRecords = (destructuredData) => {
@@ -131,7 +131,7 @@ stageThree.createMeal = (hour) => {
 
             if (isPeriod) {
                 console.log(`is Period, ${additionalToken}`);
-                if (startPeriod) {
+                if (!startPeriod) {
                     startPeriod = isPeriod;
                 } else {
                     endPeriod = isPeriod;
@@ -155,7 +155,7 @@ stageThree.createMeal = (hour) => {
     let endDate = moment(`${endTime} ${endPeriod}`, 'LT');
 
     // Set end to  start + hour when not given
-    if (endDate === 'Invalid Date') {
+    if (endDate === 'Invalid date') {
        endDate =  moment(startDate).add(1, 'hours');
     }
 
@@ -190,8 +190,46 @@ stageThree.getDaysForRange = (dayRange) => {
 }
 
 
+stageThree.filterMealsWithInvalidDates = (meals) => {
+    return _.filter(meals, (meal) => {
+        return meal.startTime !== 'Invalid date' && meal.endTime !== 'Invalid date';
+    });
+}
+
+// These records have minor inconsistencies which can be fixed later on
 stageThree.badRecords = [
-    'MET0886'
+    'MET0886',
+    'MET7783',
+    'MET1229',
+    'MET1022',
+    'MET1476',
+    'MET5235',
+    'MET0710',
+    'MET2818',
+    'MET1062',
+    'MET4356',
+    'MET1062',
+    'MET0347',
+    'MET3058',
+    'MET3542',
+    'MET3615',
+    'MET4426',
+    'MET4662',
+    'MET4872',
+    'MET5024',
+    'MET3193',
+    'MET4078',
+    'MET5294',
+    'MET5606',
+    'MET8276',
+    'MET0002',
+    'MET0086',
+    'MET0345',
+    'MET0743',
+    'MET1219',
+    'MET4852',
+    'MET1219',
+    'MET7504'
 ]
 
 module.exports = stageThree;
