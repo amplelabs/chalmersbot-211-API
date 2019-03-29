@@ -1,0 +1,1642 @@
+[
+  {
+    "organizationName": "Caribbean Canadian Catholic Centre",
+    "program": "MET0212",
+    "phone_number": "416-534-1145",
+    "latitude": 43.654021,
+    "longitude": -79.423825,
+    "website": "",
+    "address": "Our Lady of Good Counsel; 867 College St,Toronto,ON,Canada,M6H 1A1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed"
+        ],
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Agincourt Pentecostal Church",
+    "program": "MET0071",
+    "phone_number": "416-291-9575",
+    "latitude": 43.802633,
+    "longitude": -79.296849,
+    "website": "agincourt.church",
+    "address": "Agincourt Church; 2885 Kennedy Rd,Toronto,ON,Canada,M1V 1S8",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Thu"
+        ],
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Seventh-Day Adventist Church",
+    "program": "MET0755",
+    "phone_number": "416-782-3449",
+    "latitude": 43.662906,
+    "longitude": -79.372736,
+    "website": "",
+    "address": "St Luke United Church; 353 Sherbourne St,Toronto,ON,Canada,M5A 2S3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Church of the Holy Trinity",
+    "program": "MET1220",
+    "phone_number": "416-598-4521",
+    "latitude": 43.65456,
+    "longitude": -79.381518,
+    "website": "www.holytrinitytoronto.org",
+    "address": "19 Trinity Square,Toronto,ON,Canada,M5G 1B1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Muslim Welfare Centre",
+    "program": "MET5615",
+    "phone_number": "",
+    "latitude": 43.801467,
+    "longitude": -79.236568,
+    "website": "www.muslimwelfarecentre.com",
+    "address": "100 McLevin Ave,Toronto,ON,Canada,M1B 5K1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Sat"
+        ],
+        "startTime": "11:00",
+        "endTime": "16:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "St Bartholomew's Anglican Church",
+    "program": "MET2370",
+    "phone_number": "416-368-9180",
+    "latitude": 43.659656,
+    "longitude": -79.364024,
+    "website": "www.stbartstoronto.ca",
+    "address": "509 Dundas St E,Toronto,ON,Canada,M5A 3V3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Thu"
+        ],
+        "startTime": "06:00",
+        "endTime": "08:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Haven on the Queensway",
+    "program": "MET5530",
+    "phone_number": "416-640-2005",
+    "latitude": 43.618343,
+    "longitude": -79.537117,
+    "website": "www.havenontheq.com",
+    "address": "1533 The Queensway,Toronto,ON,Canada,M8Z 1T8",
+    "meals": []
+  },
+  {
+    "organizationName": "Roncesvalles United Church",
+    "program": "MET8077",
+    "phone_number": "416-536-1755",
+    "latitude": 43.645395,
+    "longitude": -79.448947,
+    "website": "roncesvallesuc.com",
+    "address": "Roncesvalles United Church; 214 Wright Ave,Toronto,ON,Canada,M6R 1L3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "startTime": "13:00",
+        "endTime": "15:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Mount Olive Food Bank",
+    "program": "MET0790",
+    "phone_number": "416-741-1682",
+    "latitude": 43.736941,
+    "longitude": -79.563514,
+    "website": "",
+    "address": "Mount Olive Seventh-Day Adventist Church; 1030 Albion Rd,Toronto,ON,Canada,M9V 1A7",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed"
+        ],
+        "startTime": "15:00",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Winter Welcome Table",
+    "program": "MET3057",
+    "phone_number": "416-534-4219",
+    "latitude": 43.665635,
+    "longitude": -79.412509,
+    "website": "stpeterstoronto.ca/main/index.php/about-st-peters-church/winter-welcome-table",
+    "address": "St Peter's Church, Parish Hall; 659 Markham St,Toronto,ON,Canada,M6G 2M1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon"
+        ],
+        "startTime": "17:00",
+        "endTime": "21:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Bloor Lansdowne Christian Fellowship Church",
+    "program": "MET2392",
+    "phone_number": "416-535-9578",
+    "latitude": 43.658022,
+    "longitude": -79.443539,
+    "website": "www.blcfchurch.ca",
+    "address": "1307 Bloor St W,Toronto,ON,Canada,M6H 1P1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed"
+        ],
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Church of the Redeemer",
+    "program": "MET4625",
+    "phone_number": "416-922-4948",
+    "latitude": 43.669063,
+    "longitude": -79.394024,
+    "website": "www.theredeemer.ca",
+    "address": "162 Bloor St W,Toronto,ON,Canada,M5S 1M4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "08:00",
+        "endTime": "11:45",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Cummer Avenue United Church and Taiwanese United Church",
+    "program": "MET4400",
+    "phone_number": "",
+    "latitude": 43.77842,
+    "longitude": -79.414209,
+    "website": "",
+    "address": "Willowdale Baptist Church; 15 Olive Ave,Toronto,ON,Canada,M2M 4N4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed"
+        ],
+        "startTime": "08:00",
+        "endTime": "14:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Fort York Food Bank",
+    "program": "MET4222",
+    "phone_number": "416-203-3011",
+    "latitude": 43.657304,
+    "longitude": -79.405135,
+    "website": "www.fyfb.com",
+    "address": "380 College St,Toronto,ON,Canada,M5T 1S6",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat"
+        ],
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "CRC",
+    "program": "MET1134",
+    "phone_number": "416-363-4234",
+    "latitude": 43.661402,
+    "longitude": -79.365256,
+    "website": "www.tcrc.ca",
+    "address": "40 Oak St,Toronto,ON,Canada,M5A 2C6",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Fri"
+        ],
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Thu",
+          "Fri",
+          "Sun"
+        ],
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Sat"
+        ],
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Friends of Jesus Christ",
+    "program": "MET0468",
+    "phone_number": "416-335-8829",
+    "latitude": 43.715492,
+    "longitude": -79.304698,
+    "website": "www.friendsofjesuschrist.com",
+    "address": "Recreation Room; 5 Wakunda Place,Toronto,ON,Canada,M4A 1A2",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Capuchin Outreach",
+    "program": "MET1073",
+    "phone_number": "416-532-4172",
+    "latitude": 43.641771,
+    "longitude": -79.431361,
+    "website": "www.capuchinoutreach.org",
+    "address": "1322 Queen St W,Toronto,ON,Canada,M6K 1L4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sun"
+        ],
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "startTime": "16:30",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "St John the Compassionate Mission",
+    "program": "MET1077",
+    "phone_number": "416-466-1357",
+    "latitude": 43.660472,
+    "longitude": -79.350328,
+    "website": "www.stjohnsmission.org",
+    "address": "155 Broadview Ave,Toronto,ON,Canada,M4M 2E9",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat"
+        ],
+        "startTime": "05:00",
+        "endTime": "09:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Thu",
+          "Fri",
+          "Sat"
+        ],
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Wed",
+          "Sun"
+        ],
+        "startTime": "16:30",
+        "endTime": "16:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "St John the Compassionate Mission",
+    "program": "MET1626",
+    "phone_number": "647-358-4105",
+    "latitude": 43.74365,
+    "longitude": -79.218796,
+    "website": "goodneighboursmission.org",
+    "address": "193 Markham Rd,Toronto,ON,Canada,M1J 3C3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET0137",
+    "phone_number": "416-694-1138 ext 164",
+    "latitude": 43.6972,
+    "longitude": -79.286647,
+    "website": "www.wardenwoods.com",
+    "address": "Warden Woods Community Centre; 40 Teesdale Place,Toronto,ON,Canada,M1L 1L3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon"
+        ],
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET0442",
+    "phone_number": "416-488-1156",
+    "latitude": 43.719843,
+    "longitude": -79.401657,
+    "website": "www.glenviewchurch.ca",
+    "address": "Glenview Presbyterian Church; 1 Glenview Ave,Toronto,ON,Canada,M4R 1P5",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "startTime": "16:00",
+        "endTime": "19:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET0683",
+    "phone_number": "416-979-2323",
+    "latitude": 43.665926,
+    "longitude": -79.400745,
+    "website": "stthomas.on.ca",
+    "address": "St Thomas Anglican Church, Parish Hall; 383 Huron St,Toronto,ON,Canada,M5S 2G5",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Fri"
+        ],
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET0126",
+    "phone_number": "416-593-5600 ext 220",
+    "latitude": 43.646816,
+    "longitude": -79.385293,
+    "website": "www.standrewstoronto.org",
+    "address": "St Andrew's Church; 73 Simcoe St,Toronto,ON,Canada,M5J 1W9",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "07:30",
+        "endTime": "08:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET3049",
+    "phone_number": "416-593-5600 ext 220",
+    "latitude": 43.646816,
+    "longitude": -79.385293,
+    "website": "www.standrewstoronto.org",
+    "address": "St Andrew's Church; 73 Simcoe St,Toronto,ON,Canada,M5J 1W9",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon"
+        ],
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET3053",
+    "phone_number": "",
+    "latitude": 43.681973,
+    "longitude": -79.422937,
+    "website": "stmichaelonstclair.com",
+    "address": "St Michael and All Angels Church; 611 St Clair Ave W,Toronto,ON,Canada,M6C 1A3",
+    "meals": [
+      {
+        "dayOfWeek": [],
+        "startTime": "12:30",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET3059",
+    "phone_number": "416-923-8471",
+    "latitude": 43.684509,
+    "longitude": -79.413909,
+    "website": "www.holyrosary.ca",
+    "address": "Holy Rosary Church, Parish Hall; 354 St Clair Ave W,Toronto,ON,Canada,M5P 1N4",
+    "meals": [
+      {
+        "dayOfWeek": [],
+        "startTime": "09:00",
+        "endTime": "12:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET3536",
+    "phone_number": "416-363-0331",
+    "latitude": 43.653916,
+    "longitude": -79.376738,
+    "website": "www.metunited.org",
+    "address": "Metropolitan United Church; 56 Queen St E,Toronto,ON,Canada,M5C 2Z3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Thu"
+        ],
+        "startTime": "01:00",
+        "endTime": "14:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET3543",
+    "phone_number": "416-926-7110",
+    "latitude": 43.666273,
+    "longitude": -79.389718,
+    "website": "www.stbasiltoronto.org",
+    "address": "St Basil's Catholic Church, University of St Michael's College; 50 St Joseph St,Toronto,ON,Canada,M5S 1J4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "10:30",
+        "endTime": "12:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET3708",
+    "phone_number": "416-466-3040",
+    "latitude": 43.680502,
+    "longitude": -79.345882,
+    "website": "www.calvarychurch.ca",
+    "address": "Calvary Church; 746 Pape Ave,Toronto,ON,Canada,M4K 3S7",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET4410",
+    "phone_number": "416-929-9614",
+    "latitude": 43.655789,
+    "longitude": -79.398639,
+    "website": "www.ysm.ca",
+    "address": "365 Spadina Ave,Toronto,ON,Canada,M5T 2G3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET4879",
+    "phone_number": "416-483-6664",
+    "latitude": 43.712858,
+    "longitude": -79.402028,
+    "website": "www.stclements-church.org",
+    "address": "Anglican Church of St Clement; 70 St Clements Ave,Toronto,ON,Canada,M4R 1H2",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed"
+        ],
+        "startTime": "09:30",
+        "endTime": "12:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Meal Programs",
+    "program": "MET5487",
+    "phone_number": "Church 416-921-8993",
+    "latitude": 43.662448,
+    "longitude": -79.402556,
+    "website": "www.knoxtoronto.org",
+    "address": "Knox Presbyterian Church; 630 Spadina Ave,Toronto,ON,Canada,M5S 2H4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "18:00",
+        "endTime": "21:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Beach Interfaith Outreach Program",
+    "program": "MET0128",
+    "phone_number": "",
+    "latitude": 43.653226,
+    "longitude": -79.383184,
+    "website": "",
+    "address": ",Toronto,ON,Canada,",
+    "meals": [
+      {
+        "dayOfWeek": [],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Beach Interfaith Outreach Program",
+    "program": "MET1663",
+    "phone_number": "416-694-0382",
+    "latitude": 43.668499,
+    "longitude": -79.309445,
+    "website": "www.corpuschristichurch.ca",
+    "address": "Corpus Christi Catholic Church, Parish Hall; 16 Lockwood Rd,Toronto,ON,Canada,M4L 3T8",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon"
+        ],
+        "startTime": "15:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Beach Interfaith Outreach Program",
+    "program": "MET2120",
+    "phone_number": "416-694-7942",
+    "latitude": 43.669317,
+    "longitude": -79.301463,
+    "website": "www.beachhebrewinstitute.ca",
+    "address": "Beach Hebrew Institute; 109 Kenilworth Ave,Toronto,ON,Canada,M4L 3S4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Wed"
+        ],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Beach Interfaith Outreach Program",
+    "program": "MET2124",
+    "phone_number": "416-691-8082 ext 0",
+    "latitude": 43.671598,
+    "longitude": -79.296377,
+    "website": "www.beachunitedchurch.com/food/interfaith-lunch-program",
+    "address": "Beach United Church; 140 Wineva Ave,Toronto,ON,Canada,M4E 2T4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Thu"
+        ],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Beach Interfaith Outreach Program",
+    "program": "MET2129",
+    "phone_number": "416-699-6091",
+    "latitude": 43.680319,
+    "longitude": -79.286735,
+    "website": "www.kruc.ca",
+    "address": "Kingston Road United Church; 975 Kingston Rd,Toronto,ON,Canada,M4E 1T1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Fri"
+        ],
+        "startTime": "00:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Evangel Hall Mission",
+    "program": "MET0411",
+    "phone_number": "416-504-3563",
+    "latitude": 43.64545,
+    "longitude": -79.40243,
+    "website": "www.evangelhall.ca",
+    "address": "552 Adelaide St W,Toronto,ON,Canada,M5V 3W8",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "10:30",
+        "endTime": "23:45",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Sun"
+        ],
+        "startTime": "17:30",
+        "endTime": "18:15",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Haven Toronto",
+    "program": "MET0464",
+    "phone_number": "416-366-5377",
+    "latitude": 43.655562,
+    "longitude": -79.374328,
+    "website": "www.haventoronto.ca",
+    "address": "170 Jarvis St,Toronto,ON,Canada,M5B 2B7",
+    "meals": [
+      {
+        "dayOfWeek": [],
+        "startTime": "08:15",
+        "endTime": "15:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Parkdale Activity-Recreation Centre",
+    "program": "MET0900",
+    "phone_number": "416-537-2262",
+    "latitude": 43.639574,
+    "longitude": -79.440527,
+    "website": "parc.on.ca",
+    "address": "1499 Queen St W,Toronto,ON,Canada,M6R 1A3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "startTime": "09:00",
+        "endTime": "15:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Toronto Alliance Church",
+    "program": "MET1251",
+    "phone_number": "416-703-8211",
+    "latitude": 43.647299,
+    "longitude": -79.404705,
+    "website": "www.torontoalliancechurch.ca",
+    "address": "602 Queen St W,Toronto,ON,Canada,M6J 1E3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Sat"
+        ],
+        "startTime": "17:30",
+        "endTime": "19:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Toronto Council Fire Native Cultural Centre",
+    "program": "MET0315",
+    "phone_number": "416-360-4350",
+    "latitude": 43.659154,
+    "longitude": -79.366179,
+    "website": "www.councilfire.ca",
+    "address": "439 Dundas St E,Toronto,ON,Canada,M5A 2B1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Fri",
+          "Sat",
+          "Sun",
+          "Thu"
+        ],
+        "startTime": "09:00",
+        "endTime": "13:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu"
+        ],
+        "startTime": "15:40",
+        "endTime": "16:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Covenant House Toronto",
+    "program": "MET0320",
+    "phone_number": "416-598-4898",
+    "latitude": 43.659697,
+    "longitude": -79.381314,
+    "website": "www.covenanthousetoronto.ca",
+    "address": "20 Gerrard St E,Toronto,ON,Canada,M5B 2P3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "startTime": "13:15",
+        "endTime": "16:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "startTime": "16:00",
+        "endTime": "18:45",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Native Women's Resource Centre of Toronto",
+    "program": "MET0712",
+    "phone_number": "416-963-9963",
+    "latitude": 43.660901,
+    "longitude": -79.372558,
+    "website": "www.nwrct.ca",
+    "address": "191 Gerrard St E,Toronto,ON,Canada,M5A 2E5",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "12:30",
+        "endTime": "13:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Grant AME Church",
+    "program": "MET1158",
+    "phone_number": "416-690-5169",
+    "latitude": 43.68169,
+    "longitude": -79.308437,
+    "website": "www.grantame.com",
+    "address": "Fellowship Hall; 2029 Gerrard St E,Toronto,ON,Canada,M4E 2B3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Fri"
+        ],
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Sat"
+        ],
+        "startTime": "15:00",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Yonge Street Mission",
+    "program": "MET1586",
+    "phone_number": "416-929-9614",
+    "latitude": 43.662294,
+    "longitude": -79.368323,
+    "website": "www.ysm.ca",
+    "address": "270 Gerrard St E,Toronto,ON,Canada,M5A 2G4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue",
+          "Thu"
+        ],
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "11:00",
+        "endTime": "15:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Yonge Street Mission",
+    "program": "MET1587",
+    "phone_number": "416-929-9614",
+    "latitude": 43.655789,
+    "longitude": -79.398639,
+    "website": "www.ysm.ca",
+    "address": "365 Spadina Ave,Toronto,ON,Canada,M5T 2G3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "12:00",
+        "endTime": "17:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Overnight Shelters",
+    "program": "MET0445",
+    "phone_number": "",
+    "latitude": 43.786791,
+    "longitude": -79.278633,
+    "website": "www.dixonhall.org/housingservices",
+    "address": "Knox United Church, Christian Education Centre; 2575 Midland Ave,Toronto,ON,Canada,M1S 1R3",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Fri"
+        ],
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Out of the Cold. Overnight Shelters",
+    "program": "MET3701",
+    "phone_number": "416-233-1125",
+    "latitude": 43.649066,
+    "longitude": -79.505055,
+    "website": "www.dixonhall.org/housingservices",
+    "address": "All Saints' (Kingsway) Anglican Church; 2850 Bloor St W,Toronto,ON,Canada,M8X 1B2",
+    "meals": []
+  },
+  {
+    "organizationName": "Sistering",
+    "program": "MET1311",
+    "phone_number": "416-588-3939",
+    "latitude": 43.640767,
+    "longitude": -79.433247,
+    "website": "www.sistering.org",
+    "address": "Masaryk-Cowan Community Centre; 220 Cowan Ave,Toronto,ON,Canada,M6K 2N6",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Sistering",
+    "program": "MET1047",
+    "phone_number": "416-926-1946",
+    "latitude": 43.661587,
+    "longitude": -79.428873,
+    "website": "www.sistering.org",
+    "address": "962 Bloor St W,Toronto,ON,Canada,M6H 1L6",
+    "meals": [
+      {
+        "dayOfWeek": [],
+        "startTime": "09:30",
+        "endTime": "20:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Davenport-Perth Neighbourhood and Community Health Centre",
+    "program": "MET0331",
+    "phone_number": "416-656-8025",
+    "latitude": 0,
+    "longitude": 0,
+    "website": "www.dpnchc.com",
+    "address": ",Toronto,ON,Canada,",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Wed"
+        ],
+        "startTime": "16:30",
+        "endTime": "18:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Dixon Hall Neighbourhood Services",
+    "program": "MET0685",
+    "phone_number": "416-863-0499",
+    "latitude": 43.663899,
+    "longitude": -79.371327,
+    "website": "www.dixonhall.org",
+    "address": "192 Carlton St,Toronto,ON,Canada,M5A 2K8",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Sat",
+          "Sun"
+        ],
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Islington Seniors' Centre",
+    "program": "MET0546",
+    "phone_number": "416-231-3431",
+    "latitude": 43.647619,
+    "longitude": -79.530007,
+    "website": "islingtonseniors.ca",
+    "address": "4968 Dundas St W,Toronto,ON,Canada,M9A 1B7",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "09:00",
+        "endTime": "16:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Syme Woolner Neighbourhood and Family Centre",
+    "program": "MET4665",
+    "phone_number": "416-766-4634",
+    "latitude": 43.691929,
+    "longitude": -79.468411,
+    "website": "www.symewoolner.org",
+    "address": "2468 Eglinton Ave W,Toronto,ON,Canada,M6M 5E2",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Sat",
+          "Sun"
+        ],
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Salvation Army",
+    "program": "MET1182",
+    "phone_number": "Food bank --416-766-1361 ext 1",
+    "latitude": 43.685951,
+    "longitude": -79.487875,
+    "website": "www.sayorkcc.com",
+    "address": "The Salvation Army York Community Church; 1100 Weston Rd,Toronto,ON,Canada,M6N 3S4",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon"
+        ],
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Salvation Army",
+    "program": "MET1600",
+    "phone_number": "416-251-8372",
+    "latitude": 43.595902,
+    "longitude": -79.529606,
+    "website": "www.salakeshore.com",
+    "address": "5 Thirtieth St,Toronto,ON,Canada,M8W 3B7",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Wed"
+        ],
+        "startTime": "10:30",
+        "endTime": "14:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Salvation Army",
+    "program": "MET5237",
+    "phone_number": "416-467-7664",
+    "latitude": 43.687206,
+    "longitude": -79.311038,
+    "website": "www.salvationarmy.ca",
+    "address": "107 Cedarvale Ave,Toronto,ON,Canada,M4C 4J9",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Thu",
+          "Wed"
+        ],
+        "startTime": "12:00",
+        "endTime": "12:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "SPRINT Senior Care",
+    "program": "MET1065",
+    "phone_number": "416-481-6411",
+    "latitude": 43.69746,
+    "longitude": -79.391825,
+    "website": "www.sprintseniorcare.org",
+    "address": "140 Merton St,Toronto,ON,Canada,M4S 1A1",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "09:00",
+        "endTime": "17:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Stop Community Food Centre, The",
+    "program": "MET1092",
+    "phone_number": "416-652-7867",
+    "latitude": 43.670859,
+    "longitude": -79.45382,
+    "website": "www.thestop.org",
+    "address": "1884 Davenport Rd,Toronto,ON,Canada,M6N 4Y2",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      },
+      {
+        "dayOfWeek": [
+          "Mon",
+          "Tue",
+          "Thu",
+          "Fri"
+        ],
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "organizationName": "Oasis Dufferin Community Centre",
+    "program": "MET3498",
+    "phone_number": "416-536-4431",
+    "latitude": 43.66609,
+    "longitude": -79.437696,
+    "website": "www.oasisdufferin.org",
+    "address": "1219 Dufferin St,Toronto,ON,Canada,M6H 4C2",
+    "meals": [
+      {
+        "dayOfWeek": [
+          "Tue"
+        ],
+        "startTime": "16:00",
+        "endTime": "17:30",
+        "type": "",
+        "notes": "",
+        "age": [],
+        "race": [],
+        "gender": ""
+      }
+    ]
+  }
+]
