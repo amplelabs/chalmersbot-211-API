@@ -16,9 +16,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -39,9 +41,11 @@
         "endTime": "20:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -62,9 +66,11 @@
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -85,9 +91,11 @@
         "endTime": "12:45",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -112,9 +120,11 @@
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -135,21 +145,13 @@
         "endTime": "08:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
-  },
-  {
-    "organizationName": "Haven on the Queensway",
-    "program": "MET5530",
-    "phone_number": "416-640-2005",
-    "latitude": 43.618343,
-    "longitude": -79.537117,
-    "website": "www.havenontheq.com",
-    "address": "1533 The Queensway,Toronto,ON,Canada,M8Z 1T8",
-    "meals": []
   },
   {
     "organizationName": "Roncesvalles United Church",
@@ -168,9 +170,11 @@
         "endTime": "15:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -180,9 +184,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -203,9 +209,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -226,9 +234,11 @@
         "endTime": "21:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -249,9 +259,11 @@
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -276,9 +288,11 @@
         "endTime": "11:45",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -299,9 +313,11 @@
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -326,9 +342,11 @@
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -350,9 +368,11 @@
         "endTime": "10:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -366,9 +386,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -378,9 +400,11 @@
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -401,9 +425,11 @@
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -428,9 +454,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -443,9 +471,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -470,9 +500,11 @@
         "endTime": "09:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -484,9 +516,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -497,9 +531,11 @@
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -522,9 +558,11 @@
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -545,9 +583,11 @@
         "endTime": "13:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -568,9 +608,11 @@
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -591,9 +633,11 @@
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -614,9 +658,11 @@
         "endTime": "08:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -637,9 +683,11 @@
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          16,
+          150
+        ]
       }
     ]
   },
@@ -658,9 +706,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -679,9 +729,11 @@
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -702,9 +754,11 @@
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -725,9 +779,11 @@
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -737,9 +793,11 @@
         "endTime": "15:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -760,9 +818,11 @@
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -786,9 +846,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -809,9 +871,11 @@
         "endTime": "12:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -832,9 +896,11 @@
         "endTime": "21:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -853,9 +919,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -876,9 +944,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -899,9 +969,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -922,9 +994,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -945,9 +1019,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -972,9 +1048,11 @@
         "endTime": "23:45",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -984,9 +1062,11 @@
         "endTime": "18:15",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1005,9 +1085,11 @@
         "endTime": "15:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          50,
+          150
+        ]
       }
     ]
   },
@@ -1034,9 +1116,11 @@
         "endTime": "15:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          18,
+          150
+        ]
       }
     ]
   },
@@ -1057,9 +1141,11 @@
         "endTime": "19:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1086,9 +1172,11 @@
         "endTime": "13:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -1101,9 +1189,11 @@
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1130,9 +1220,11 @@
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -1148,9 +1240,11 @@
         "endTime": "18:45",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1175,9 +1269,11 @@
         "endTime": "13:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1198,9 +1294,11 @@
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -1210,9 +1308,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1234,9 +1334,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          21,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -1246,9 +1348,11 @@
         "endTime": "15:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          21,
+          150
+        ]
       }
     ]
   },
@@ -1273,9 +1377,11 @@
         "endTime": "17:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1296,9 +1402,11 @@
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1333,9 +1441,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          18,
+          150
+        ]
       }
     ]
   },
@@ -1354,9 +1464,11 @@
         "endTime": "20:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          16,
+          150
+        ]
       }
     ]
   },
@@ -1378,9 +1490,11 @@
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1402,9 +1516,11 @@
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1429,9 +1545,11 @@
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          55,
+          150
+        ]
       }
     ]
   },
@@ -1458,9 +1576,11 @@
         "endTime": "11:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -1471,9 +1591,11 @@
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1494,9 +1616,11 @@
         "endTime": "13:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1518,9 +1642,11 @@
         "endTime": "14:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1542,9 +1668,11 @@
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1569,9 +1697,11 @@
         "endTime": "17:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1595,9 +1725,11 @@
         "endTime": "10:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       },
       {
         "dayOfWeek": [
@@ -1610,9 +1742,11 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "not specified",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   },
@@ -1633,9 +1767,11 @@
         "endTime": "17:30",
         "type": "",
         "notes": "",
-        "age": [],
-        "race": [],
-        "gender": ""
+        "gender": "mix",
+        "age": [
+          0,
+          150
+        ]
       }
     ]
   }
