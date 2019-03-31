@@ -9,7 +9,7 @@
     "meals": [
       {
         "startTime": "06:45",
-        "endTime": "7:30",
+        "endTime": "07:30",
         "dayOfWeek": [
           "Thu"
         ],
@@ -77,8 +77,8 @@
     "longitude": -79.385293,
     "meals": [
       {
-        "startTime": "7:30",
-        "endTime": "8:00",
+        "startTime": "07:30",
+        "endTime": "08:00",
         "dayOfWeek": [
           "Tue"
         ],
@@ -100,7 +100,7 @@
     "meals": [
       {
         "startTime": "08:15",
-        "endTime": "",
+        "endTime": "09:15",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -117,7 +117,7 @@
       },
       {
         "startTime": "12:15",
-        "endTime": "",
+        "endTime": "13:15",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -134,7 +134,7 @@
       },
       {
         "startTime": "15:30",
-        "endTime": "",
+        "endTime": "14:30",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -161,7 +161,7 @@
     "meals": [
       {
         "startTime": "09:00",
-        "endTime": "",
+        "endTime": "10:00",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -172,13 +172,13 @@
         ],
         "type": "Breakfast",
         "notes": "",
-        "gender": "Women",
+        "gender": "female",
         "age": "",
         "race": []
       },
       {
         "startTime": "12:00",
-        "endTime": "",
+        "endTime": "13:00",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -189,13 +189,13 @@
         ],
         "type": "Lunch",
         "notes": "",
-        "gender": "Women",
+        "gender": "female",
         "age": "",
         "race": []
       },
       {
         "startTime": "18:00",
-        "endTime": "",
+        "endTime": "17:00",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -206,7 +206,7 @@
         ],
         "type": "Dinner",
         "notes": "",
-        "gender": "Women",
+        "gender": "female",
         "age": "",
         "race": []
       }
@@ -248,7 +248,7 @@
     "meals": [
       {
         "startTime": "08:00",
-        "endTime": "",
+        "endTime": "09:00",
         "dayOfWeek": [
           "Sun"
         ],
@@ -547,7 +547,7 @@
     "meals": [
       {
         "startTime": "09:00",
-        "endTime": "",
+        "endTime": "10:00",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -678,7 +678,7 @@
       },
       {
         "startTime": "16:00",
-        "endTime": "",
+        "endTime": "17:00",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -723,7 +723,7 @@
         "type": "",
         "notes": "",
         "gender": "",
-        "age": "16-25",
+        "age": [16, 25],
         "race": []
       }
     ]
@@ -782,7 +782,7 @@
     "meals": [
       {
         "startTime": "09:30",
-        "endTime": "",
+        "endTime": "10:30",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -800,7 +800,7 @@
       },
       {
         "startTime": "12:00",
-        "endTime": "",
+        "endTime": "13:00",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -818,7 +818,7 @@
       },
       {
         "startTime": "20:30",
-        "endTime": "",
+        "endTime": "21:30",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -846,7 +846,7 @@
     "meals": [
       {
         "startTime": "09:00",
-        "endTime": "",
+        "endTime": "10:00",
         "dayOfWeek": [
           "Sat"
         ],
@@ -858,7 +858,7 @@
       },
       {
         "startTime": "12:00",
-        "endTime": "",
+        "endTime": "13:00",
         "dayOfWeek": [
           "Sat"
         ],
@@ -936,7 +936,7 @@
     "meals": [
       {
         "startTime": "10:00",
-        "endTime": "",
+        "endTime": "11:00",
         "dayOfWeek": [
           "Mon"
         ],
@@ -948,7 +948,7 @@
       },
       {
         "startTime": "13:00",
-        "endTime": "",
+        "endTime": "14:00",
         "dayOfWeek": [
           "Mon"
         ],
@@ -969,7 +969,7 @@
     "meals": [
       {
         "startTime": "09:15",
-        "endTime": "",
+        "endTime": "10:15",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -984,7 +984,7 @@
       },
       {
         "startTime": "11:15",
-        "endTime": "",
+        "endTime": "12:15",
         "dayOfWeek": [
           "Sat",
           "Sun"
@@ -997,7 +997,7 @@
       },
       {
         "startTime": "11:30",
-        "endTime": "",
+        "endTime": "12:30",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -1012,7 +1012,7 @@
       },
       {
         "startTime": "13:00",
-        "endTime": "",
+        "endTime": "14:00",
         "dayOfWeek": [
           "Fri",
           "Sat",
@@ -1036,7 +1036,7 @@
     "meals": [
       {
         "startTime": "09:15",
-        "endTime": "",
+        "endTime": "10:!5",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -1051,7 +1051,7 @@
       },
       {
         "startTime": "11:15",
-        "endTime": "",
+        "endTime": "12:15",
         "dayOfWeek": [
           "Sat",
           "Sun"
@@ -1064,7 +1064,7 @@
       },
       {
         "startTime": "11:30",
-        "endTime": "",
+        "endTime": "12:30",
         "dayOfWeek": [
           "Mon",
           "Tue",
@@ -1079,7 +1079,7 @@
       },
       {
         "startTime": "13:00",
-        "endTime": "",
+        "endTime": "14:00",
         "dayOfWeek": [
           "Fri",
           "Sat",
