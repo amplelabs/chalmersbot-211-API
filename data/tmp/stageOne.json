@@ -13,6 +13,7 @@
     "site_longitude": "-79.423825",
     "category": "Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Soup kitchen * member of Daily Bread Food Bank<br>\n<br>\nCounselling -- marriage, pastoral and family problems * information and referral -- education, employment * cultural activities * friendly visiting * Sister Kathleen Jackman scholarship award program",
+    "eligibilty": "Open to all",
     "hours": "Soup kitchen -- Wed 9 am-1 pm * Church office -- Mon-Tue, Thu-Fri 9 am-12 noon, 2 pm-4:30 pm",
     "phone_office": "416-534-1145",
     "phone_tollfree": "",
@@ -33,7 +34,9 @@
       "friendly visiting",
       "Sister Kathleen Jackman scholarship award program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all"
+    ]
   },
   {
     "id_program": "57555227",
@@ -49,6 +52,7 @@
     "site_longitude": "-79.42302",
     "category": "Children's Programs;Family Support Centres;Free / Low Cost Meals;Free / Low-cost meals;Parent / Child programs;Parent Education",
     "desc_program": "Drop-in * low cost lunch and supper * child development information * parent/caregiver and child activities",
+    "eligibilty": "Parents, caregivers, family members with children birth-6 years<br /><br />Age Requirements: Ages: 6 year(s) and under; <br /><br />Residency Requirements: City of Toronto",
     "hours": "<b>Fall/Winter</b> (mid October to end of April) -- Tue, Thu 9 am-6 pm; Wed 9 am-3 pm; Fri 9 am-2 pm<br><br>\n\n<b>Spring/Summer</b> (May to mid October) -- Tue-Thu 9 am-3 pm, Fri 9 am-2 pm<br><br>\n\nClosed Monday and holidays * hours may vary -- visit website for monthly calendar",
     "phone_office": "416-531-8151",
     "phone_tollfree": "",
@@ -68,7 +72,11 @@
       "child development information",
       "parent/caregiver and child activities"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Parents, caregivers, family members with children birth-6 years",
+      "Age Requirements: Ages: 6 year(s) and under;",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "57558985",
@@ -84,6 +92,7 @@
     "site_longitude": "-79.433581",
     "category": "Community Mental Health Centres;Day programs;Free / Low Cost Meals;Free / Low-cost meals;Mental health;Recreation and leisure;Support groups;Therapy and Counselling;Transition and Future Planning",
     "desc_program": "Drop-in social and recreation programs -- see website for complete list of daily activities and outings * supper program, snacks * peer mental health discussion group<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Individuals 18 years and older who are living with mental health issues<br /><br />Age Requirements: Ages: 18 year(s) and up; <br /><br />Residency Requirements: Greater Toronto Area",
     "hours": "Tue-Sat 2 pm-8:15 pm * community meal -- Tue-Fri 5 pm-6 pm * summer hours may vary -- call for details",
     "phone_office": "416-598-2919",
     "phone_tollfree": "",
@@ -102,7 +111,11 @@
       "peer mental health discussion group",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals 18 years and older who are living with mental health issues",
+      "Age Requirements: Ages: 18 year(s) and up;",
+      "Residency Requirements: Greater Toronto Area"
+    ]
   },
   {
     "id_program": "58332903",
@@ -118,6 +131,7 @@
     "site_longitude": "-79.296849",
     "category": "Clothing;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks",
     "desc_program": "Food bank, clothes, household items and meal program * member of Daily Bread Food Bank",
+    "eligibilty": "Residency Requirements: Hwy 401 (north) to St Clair Ave E (south), Victoria Park Ave (west) to Midland Ave (east)",
     "hours": "Food bank -- Tue, Thu 6:30 pm-8:30 pm<br><br>\nMeal -- Thu 6:30 pm-8:30 pm",
     "phone_office": "416-291-9575",
     "phone_tollfree": "",
@@ -133,7 +147,9 @@
       "Food bank, clothes, household items and meal program",
       "member of Daily Bread Food Bank"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: Hwy 401 (north) to St Clair Ave E (south), Victoria Park Ave (west) to Midland Ave (east)"
+    ]
   },
   {
     "id_program": "58333572",
@@ -149,6 +165,7 @@
     "site_longitude": "-79.372736",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal * partnership of several Seventh-Day Adventist congregations",
+    "eligibilty": "Open to anyone in need, particularly those who are homeless or disadvantaged",
     "hours": "Tue 6 pm-7 pm",
     "phone_office": "416-782-3449",
     "phone_tollfree": "",
@@ -163,7 +180,9 @@
       "Hot meal",
       "partnership of several Seventh-Day Adventist congregations"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to anyone in need, particularly those who are homeless or disadvantaged"
+    ]
   },
   {
     "id_program": "58335688",
@@ -179,6 +198,7 @@
     "site_longitude": "-79.381518",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Drop-in program * monthly Homeless Memorial, including community lunch<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: Downtown Toronto",
     "hours": "<b>Summer Drop-in, July-August</b> -- Mon 1:30 pm-3 pm, Tue-Fri 11 am-3 pm, Sun 8 am-1 pm<br>\n<b>Drop-in, September-June</b> -- Mon-Fri 11 am-3 pm, Sun 8 am-1 pm<br>\nThroughout the year:  <b>Light breakfast</b> -- Sun 8 am * <b>Homeless Memorial</b> -- every 2nd Tue of each month at 12 noon, followed by community lunch at 12:45 pm",
     "phone_office": "416-598-4521",
     "phone_tollfree": "",
@@ -197,7 +217,10 @@
       "monthly Homeless Memorial, including community lunch",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: Downtown Toronto"
+    ]
   },
   {
     "id_program": "58337339",
@@ -213,6 +236,7 @@
     "site_longitude": "-79.236568",
     "category": "Clothing;Community Health Centres;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Test - Food Banks",
     "desc_program": "Multiservice agency<br><br>\n\n<b>Halal Food and Essential Items Bank</b> -- includes groceries, clothing and household items * <b>Free Medical Clinic</b> -- no Ontario Health Insurance required, call for appointment<br><br>\n\n<b>Meals on Wheels</b> -- distribution of bagged lunch in downtown Toronto area each Saturday for individuals who are homeless or in need * distribution of winter coats, gloves, and clothing in winter <br><br>\n\nEmergency shelter located in Whitby at Muslim Welfare Home for Needy Women and Children 905-665-0424",
+    "eligibilty": "<b>Halal Food and Essential Items Bank</b> -- individuals or families, including refugees and new immigrants, who are unemployed or receiving social assistance or employment insurance * <b>Free Medical Clinic</b> -- individuals and families not covered by Ontario Health Insurance, particularly refugees, new immigrants, visitors and students<br /><br />Residency Requirements: City of Toronto and surrounding area",
     "hours": "Office -- Mon-Sun 9 am-5:30 pm * <b>Halal Food Bank</b> -- Mon-Thu, Sat 11 am-4 pm by appointment only",
     "phone_office": "",
     "phone_tollfree": "1-866-754-3111",
@@ -232,7 +256,11 @@
       "distribution of winter coats, gloves, and clothing in winter",
       "Emergency shelter located in Whitby at Muslim Welfare Home for Needy Women and Children 905-665-0424"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "<b>Halal Food and Essential Items Bank</b> -- individuals or families, including refugees and new immigrants, who are unemployed or receiving social assistance or employment insurance",
+      "<b>Free Medical Clinic</b> -- individuals and families not covered by Ontario Health Insurance, particularly refugees, new immigrants, visitors and students",
+      "Residency Requirements: City of Toronto and surrounding area"
+    ]
   },
   {
     "id_program": "58337489",
@@ -248,6 +276,7 @@
     "site_longitude": "-79.396135",
     "category": "Free / Low Cost Meals;Free / Low-cost meals",
     "desc_program": "Community breakfast",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: City of Toronto",
     "hours": "Throughout the year -- second Saturday of each month, 8 am-9:30 am",
     "phone_office": "416-923-9030",
     "phone_tollfree": "",
@@ -261,7 +290,10 @@
     "ampl_program_details": [
       "Community breakfast"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "58404278",
@@ -277,6 +309,7 @@
     "site_longitude": "-79.482171",
     "category": "Clothing;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Test - Food Banks",
     "desc_program": "Food bank * clothing, including children's clothing * meals * Christian environment",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: City of Toronto",
     "hours": "Food and clothing bank -- Thu 9:30 am-11 am, 6:30 pm-8 pm * meal program -- breakfast 10 am, supper 7 pm * meals follow Christian message and prayer",
     "phone_office": "416-762-3322",
     "phone_tollfree": "",
@@ -295,7 +328,10 @@
       "meals",
       "Christian environment"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "58501163",
@@ -311,6 +347,7 @@
     "site_longitude": "-79.364024",
     "category": "Camps;Child Care;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Test - Food Banks",
     "desc_program": "Breakfast program and food bank * year round tax clinic * Christmas assistance * associated with NeighbourLink Downtown Toronto * member of Daily Bread Food Bank * religious services<br> \n<br> \nChildren's Centre, 416-368-6375, fax 416-368-4817 --  after school, March break and summer day programs * also child care centre (see separate entry)",
+    "eligibilty": "Breakfast program for all ages<br /><br />Residency Requirements: <b>Food bank (families, couples, single women)</b> -- Dundas St E (north) to Lake Ontario (south), Jarvis St (west) to Sherbourne St (east)<br><br>\n\n<b>Food bank (single men)</b> -- Dundas St E (north) to Lake Ontario (south), Jarvis St (west) to Parliament St (east)",
     "hours": "<b>Breakfast program</b> -- Throughout the year, Thu 6 am-8 am<br><br>\n\n<b>Food Bank</b> -- Mon, Thu 10 am-11:30 am, <b>closed first Monday or Thursday of the month</b>, whichever comes first * <b>summer closure July and August</b>",
     "phone_office": "416-368-9180",
     "phone_tollfree": "",
@@ -333,7 +370,11 @@
       "Children's Centre, 416-368-6375, fax 416-368-4817 --  after school, March break and summer day programs",
       "also child care centre (see separate entry)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Breakfast program for all ages",
+      "Residency Requirements: <b>Food bank (families, couples, single women)</b> -- Dundas St E (north) to Lake Ontario (south), Jarvis St (west) to Sherbourne St (east)",
+      "<b>Food bank (single men)</b> -- Dundas St E (north) to Lake Ontario (south), Jarvis St (west) to Parliament St (east)"
+    ]
   },
   {
     "id_program": "58867669",
@@ -349,6 +390,7 @@
     "site_longitude": "-79.537117",
     "category": "Addiction Supports;Baby items;Clothing;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Household Goods / Furniture;Household Goods Donations;Infant formula / Baby food;Life and social skills training;Support Groups;Test - Food Banks",
     "desc_program": "Multiservice agency * Food bank -- member of Daily Bread Food Bank * clothing boutique * emergency diapers and baby food * books and videos for children * pregnancy, post-abortion support * support groups including Alcoholics Anonymous * confidential<br>\n<br>\n<b>Haven Lakeside Dinner</b> -- hot supper at The Branch Church, 85 Thirty First St, Toronto M8W 3G1<br>\n<br>\n<b>Stepping Out</b>, 416-640-2006, confidential@havenontheq.com -- alternatives for individuals currently or formerly involved in the sex trade * confidential",
+    "eligibilty": "Residency Requirements: Food bank only -- Dundas St W (north) to Lake Ontario (south), Etobicoke Creek (west) to Royal York Rd (east); also Bloor St W (north) to Lake Ontario (south), Royal York Rd (west) to Humber River (east)",
     "hours": "Mon-Thu 8:30 am-4 pm * <b>food bank</b> -- Wed 10:30 am-4 pm * <b>clothing boutique</b> -- drop in Mon-Tue, Thu 10 am-3 pm * evening programs including Alcoholics Anonymous -- Wed, Fri 7:30 pm<br><br>\n\n<b>Haven Lakeside Dinner</b> at The Branch Church -- 4th Sat of each month, 4:30pm",
     "phone_office": "416-640-2005",
     "phone_tollfree": "",
@@ -376,7 +418,9 @@
       "<b>Stepping Out</b>, 416-640-2006, confidential@havenontheq.com -- alternatives for individuals currently or formerly involved in the sex trade",
       "confidential"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: Food bank only -- Dundas St W (north) to Lake Ontario (south), Etobicoke Creek (west) to Royal York Rd (east); also Bloor St W (north) to Lake Ontario (south), Royal York Rd (west) to Humber River (east)"
+    ]
   },
   {
     "id_program": "59068984",
@@ -392,6 +436,7 @@
     "site_longitude": "-79.448947",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Drop-in lunch and supper * guests are required to bring their own container to take food away * vegetarian meal available on request",
+    "eligibilty": "Open to all in need<br /><br />Residency Requirements: City of Toronto",
     "hours": "Lunch -- Sun 1 pm-3:30 pm * Supper -- Sun 5:30 pm-6 pm (last meal served at 6 pm)",
     "phone_office": "416-536-1755",
     "phone_tollfree": "",
@@ -408,7 +453,10 @@
       "guests are required to bring their own container to take food away",
       "vegetarian meal available on request"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all in need",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "59231809",
@@ -424,6 +472,7 @@
     "site_longitude": "-79.563514",
     "category": "Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks",
     "desc_program": "Food bank * member of Daily Bread Food Bank and Second Harvest Food Support Committee * Soup Kitchen -- hot meal * nursing and dietician services",
+    "eligibilty": "Residency Requirements: Steeles Ave W (north) to Dixon Rd (south), Islington Ave/Hwy 401 (west) to Weston Rd/St Phillips Rd (east)",
     "hours": "Food Bank -- Wed 3 pm-6 pm * Soup Kitchen -- 1st and 3rd Wednesday of each month, 3 pm-6 pm",
     "phone_office": "416-741-1682",
     "phone_tollfree": "",
@@ -441,7 +490,9 @@
       "Soup Kitchen -- hot meal",
       "nursing and dietician services"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: Steeles Ave W (north) to Dixon Rd (south), Islington Ave/Hwy 401 (west) to Weston Rd/St Phillips Rd (east)"
+    ]
   },
   {
     "id_program": "59316456",
@@ -457,6 +508,7 @@
     "site_longitude": "-79.412509",
     "category": "Clothing;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal, social activities * clothing when available * in partnership with St Joan of Arc Catholic Church",
+    "eligibilty": "Homeless or socially isolated persons",
     "hours": "November 5, 2018 to April 15, 2019 -- Mon 5 pm-9 pm",
     "phone_office": "416-534-4219",
     "phone_tollfree": "",
@@ -472,7 +524,9 @@
       "clothing when available",
       "in partnership with St Joan of Arc Catholic Church"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Homeless or socially isolated persons"
+    ]
   },
   {
     "id_program": "59425174",
@@ -488,6 +542,7 @@
     "site_longitude": "-79.443539",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Community meal",
+    "eligibilty": "Open to all * focus on individuals with low income or who are homeless",
     "hours": "Wed 6 pm-8 pm",
     "phone_office": "416-535-9578",
     "phone_tollfree": "",
@@ -501,7 +556,10 @@
     "ampl_program_details": [
       "Community meal"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "focus on individuals with low income or who are homeless"
+    ]
   },
   {
     "id_program": "59425235",
@@ -517,6 +575,7 @@
     "site_longitude": "-79.394024",
     "category": "Community Health Centres;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance",
     "desc_program": "Hot meals * health clinic * housing and employment assistance * counselling * workshops * art studio and book club<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Anyone in need, particularly those who are homeless, under housed, or socially isolated",
     "hours": "Meal program -- Mon-Fri 8 am-11:45 am * health clinic -- Mon, Thu 9 am-11:45 am * all other services -- call for details * closed holidays, July to mid-September and 2 weeks over Christmas season",
     "phone_office": "416-922-4948",
     "phone_tollfree": "",
@@ -539,7 +598,9 @@
       "art studio and book club",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Anyone in need, particularly those who are homeless, under housed, or socially isolated"
+    ]
   },
   {
     "id_program": "59580386",
@@ -555,6 +616,7 @@
     "site_longitude": "-79.414209",
     "category": "Clothing;Community Health Centres;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Street outreach",
     "desc_program": "Breakfast, lunch * visiting nurse * access to clothing bank and telephone * assistance in obtaining identification, housing, legal help * information about Ontario Works (OW) and Ontario Disability Support Program (ODSP) * community outreach",
+    "eligibilty": "Individuals who are homeless and marginalized<br /><br />Residency Requirements: Primarily North York",
     "hours": "Throughout the year -- Wed 8 am-2 pm",
     "phone_office": "",
     "phone_tollfree": "",
@@ -573,7 +635,10 @@
       "information about Ontario Works (OW) and Ontario Disability Support Program (ODSP)",
       "community outreach"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals who are homeless and marginalized",
+      "Residency Requirements: Primarily North York"
+    ]
   },
   {
     "id_program": "59580485",
@@ -589,6 +654,7 @@
     "site_longitude": "-79.385525",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot nutritious meals",
+    "eligibilty": "Those who are hungry and in need of a meal<br /><br />Residency Requirements: Downtown Toronto",
     "hours": "Throughout the year:  <b>breakfast</b> -- Thu 6:45 am-7:30 am, Sun 10 am-11 am * <b>supper</b> -- Tue-Wed 5 pm-6 pm",
     "phone_office": "416-947-3412",
     "phone_tollfree": "1-800-668-7380 ext 3412",
@@ -603,7 +669,10 @@
     "ampl_program_details": [
       "Hot nutritious meals"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Those who are hungry and in need of a meal",
+      "Residency Requirements: Downtown Toronto"
+    ]
   },
   {
     "id_program": "60196429",
@@ -619,6 +688,7 @@
     "site_longitude": "-79.40074",
     "category": "Baby Items;Camps;Child Care;Clothing;Counselling / Therapy;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Household Goods / Furniture;ID (identification);Infant formula / Baby food;Tax Services;Test - Food Banks",
     "desc_program": "Faith-based street mission, includes support and provisions such as meal programs, food bank, overnight shelter, ID clinic, men's and women's ministries, recreation programs, and child care<br> <br>\n\n<b>Food programs</b> -- hot meal * also bag lunches<br> <br> \n\n<b>Children and youth</b> -- after school clubs * summer camp at Caledon * licensed child care centre -- see separate entry<br> <br> \n\n<b>Men's Ministry</b> 416-923-8872 ext 232  -- overnight shelter, including supper and breakfast * clothing * counselling * support groups * laundry and shower facilities -- call for times * seasonal income tax clinic available upon request * films, outings, games * Bible discussion group -- call for times<br> <br> \n\n<b>Women and Family Ministry</b> 416-923-3916 -- food and clothing bank by appointment * for women and their families or single fathers with custody of children * baby food and formula * member of Daily Bread Food Bank * layettes for newborns * household items, bedding * supportive counselling and referrals * Christmas grocery and toy program<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Men and women 16 years and older who are homeless, families with low-income, children and youth * varies for different programs<br /><br />Age Requirements: Ages: 16 year(s) and up; <br /><br />Residency Requirements: City of Toronto",
     "hours": "Mon-Fri 9 am-5 pm, Sat 8 am-12 noon * some programs after hours * program hours vary<br>\n<b>Food programs</b> -- hot meal Mon-Sat at 10:30 am and 11:30 am * bag lunches Mon-Fri 4 pm, Sun 8:45 am-9:45 am<br>\n<b>ID clinic</b> -- Thu 9:30 am-11 am * sign in by 10:30 am<br>\n<b>Men''s Ministry overnight shelter</b> -- Mon-Sun 7 pm-7 am * Registration Mon-Fri 4 pm, weekends/holidays 7 pm * Drop-in Mon-Sat 8 am-11:45 am<br>\n<b>Women and Family Ministry food and clothing bank</b> -- by appointment Mon-Fri 9:30 am-11:30 am; Mon-Tue, Thu-Fri 1:30 pm-3:30 pm * closed Wed afternoon, weekends and statutory holidays",
     "phone_office": "",
     "phone_tollfree": "",
@@ -665,7 +735,12 @@
       "Christmas grocery and toy program",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Men and women 16 years and older who are homeless, families with low-income, children and youth",
+      "varies for different programs",
+      "Age Requirements: Ages: 16 year(s) and up;",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60197392",
@@ -681,6 +756,7 @@
     "site_longitude": "-79.434503",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Drop-in program * meal",
+    "eligibilty": "People who are homeless, underhoused or street involved",
     "hours": "Mon 10 am-3 pm * coffee 10 am * lunch 1 pm",
     "phone_office": "647-926-6352",
     "phone_tollfree": "",
@@ -697,7 +773,9 @@
       "Drop-in program",
       "meal"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "People who are homeless, underhoused or street involved"
+    ]
   },
   {
     "id_program": "60197613",
@@ -713,6 +791,7 @@
     "site_longitude": "-79.405135",
     "category": "Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Test - Food Banks",
     "desc_program": "Food bank -- 3 day supply of groceries * hot meal * referrals * advocacy * member of Daily Bread Food Bank and Second Harvest Food Support Committee",
+    "eligibilty": "Residency Requirements: Bloor St W (north) to Lake Ontario (south), Dovercourt Rd (west) to Yonge St (east) * out of area clients allowed one visit per month",
     "hours": "<b>Food Bank</b> -- Tue, Fri, Sat 9 am--2 pm, Thu 9 am-11:30 am * <b>Meal program</b> Tue-Sat 12 noon-2 pm",
     "phone_office": "416-203-3011",
     "phone_tollfree": "",
@@ -731,7 +810,10 @@
       "advocacy",
       "member of Daily Bread Food Bank and Second Harvest Food Support Committee"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: Bloor St W (north) to Lake Ontario (south), Dovercourt Rd (west) to Yonge St (east)",
+      "out of area clients allowed one visit per month"
+    ]
   },
   {
     "id_program": "60295459",
@@ -747,6 +829,7 @@
     "site_longitude": "-79.365256",
     "category": "Clothing;Community information;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing / Assisted Living;Housing Search Assistance ;Low Income Housing;Low-cost/Subsidized Housing",
     "desc_program": "Community centre, including <b>Regent Park Community Food Centre</b> (in partnership with Community Food Centres Canada) * drop-in and community meal programs * food action programs such as food skills community kitchen, community garden * housing support and affordable housing advocacy * community advocacy training and support * community development and social enterprise partnerships<br><br>\n\n<b>Drop-in and community meal programs</b> -- breakfast, lunch and supper (see hours of service for schedule) * clothing program * shower and laundry facilities * information and referral * food skills workshops * life skills * recreation and social opportunities * telephone for local calls<br><br>\n\n<b>Housing programs</b> -- housing supports include assistance in finding and maintaining affordable housing * tenant and landlord relationship assistance * information and referral * 40 Oaks Housing affordable housing residence * Housing Connections (see separate entry) Community Partner, assistance with housing search and application process -- appointment required<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Open to all, with focus on individuals who are socially isolated, homeless or under housed, or who have low income<br /><br />Residency Requirements: City of Toronto",
     "hours": "Program hours vary * <b>drop-in</b> -- Mon-Fri 9 am-3 pm * <b>breakfast</b> -- Mon, Fri 9 am-10 am * <b>lunch</b> -- Mon-Tue, Thu-Fri 12 noon-1 pm, and Sun 11:30 am-1 pm (in partnership with Muslim Welfare Centre) * <b>supper</b> -- Sat 5 pm-7 pm (in partnership with Church in Regent Park/Church in the City) * <b>clothing program</b> -- Mon-Tue, Thu-Fri 9 am-12 noon, by appointment * <b>laundry facilities</b> -- Mon-Fri 9 am-12 noon, by appointment * <b>showers</b> -- Mon-Fri 9 am-12 noon on first come, first served basis",
     "phone_office": "416-363-4234",
     "phone_tollfree": "",
@@ -786,7 +869,10 @@
       "Housing Connections (see separate entry) Community Partner, assistance with housing search and application process -- appointment required",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all, with focus on individuals who are socially isolated, homeless or under housed, or who have low income",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60453109",
@@ -802,6 +888,7 @@
     "site_longitude": "-79.304698",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Tax Services",
     "desc_program": "Food programs * information and referral * seniors exercise program * seasonal programs include free income tax clinic and Christmas toy distribution -- call for details<br><br>\n\n<b>Community Dinner</b> -- bible study followed by dinner<br><br>\n\n<b>Food bank</b> -- see separate entry",
+    "eligibilty": "Individuals and families with low income<br /><br />Residency Requirements: Community dinner and other programs -- East York and southeast area of North York",
     "hours": "Office -- Mon-Fri 9 am-5 pm * <b>Community Dinner</b> Tue 6 pm-7 pm * Seniors Exercise -- Tue 10 am-12 noon",
     "phone_office": "416-335-8829",
     "phone_tollfree": "",
@@ -822,7 +909,10 @@
       "<b>Community Dinner</b> -- bible study followed by dinner",
       "<b>Food bank</b> -- see separate entry"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals and families with low income",
+      "Residency Requirements: Community dinner and other programs -- East York and southeast area of North York"
+    ]
   },
   {
     "id_program": "60453168",
@@ -838,6 +928,7 @@
     "site_longitude": "-79.370218",
     "category": "Addiction Supports;Alternative Therapies;Crisis intervention and prevention;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;In-Person Crisis Intervention;In-person crisis services;Justice and mental health programs;Mental health",
     "desc_program": "Drop-in centre * meals * assistance locating emergency accommodation, filling out forms program * housing support program * crisis intervention * expressive art therapy * visiting nurse * diabetic clinic, chiropodist * Wednesday women's program * seniors programs * recreation * Extended Respite Drop-in -- capacity 50<br><br>\n\n<b>Harm Reduction Supplies and Service</b> --  Saturday-Sunday, including clean needles, crack pipes, condoms, counselling<br><br>\n\n<b>Mental Health and Justice Program</b> -- information, referral and advocacy * accompaniment * life skills training<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Women and men 16 years and older, who are homeless, under housed or street involved<br /><br />Age Requirements: Ages: 16 year(s) and up; <br /><br />Residency Requirements: City of Toronto",
     "hours": "Regular schedule May-Nov: Tue-Thu, Sat-Sun 7 am-12 noon * mental health and justice -- Tue-Thu 9 am-12 noon * nurse -- Thu 9 am-11:30 pm * expressive arts -- Thu, Sun 8:30 am-10:30 am<br><br>\n\n<b>Extended Drop-in Program -- Mon-Sun 24 hours</b>",
     "phone_office": "647-367-2100 ; Central Intake 416-338-4766",
     "phone_tollfree": "",
@@ -871,7 +962,11 @@
       "life skills training",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Women and men 16 years and older, who are homeless, under housed or street involved",
+      "Age Requirements: Ages: 16 year(s) and up;",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455091",
@@ -887,6 +982,7 @@
     "site_longitude": "-79.431361",
     "category": "Free / Low Cost Meals;Free / Low-cost meals",
     "desc_program": "<b>St Francis Table</b> -- restaurant providing community and low-cost lunch and supper in a dignified manner to those in need * service provided by volunteers * donations of food and supplies accepted * operated by the Capuchin-Franciscan Friars<br> <br> <b>St Clare Centre</b> -- drop-in coffee lounge * community events",
+    "eligibilty": "Residency Requirements: Parkdale and surrounding areas",
     "hours": "Lunch -- Tue-Fri 12 noon-1 pm, Sun 12 noon-1 pm * supper -- Mon-Thu 4:30 pm-6 pm * <b>closed on long weekends and the first Monday of each month</b> * <b>Closed August 4 to September 3, 2018</b>",
     "phone_office": "416-532-4172",
     "phone_tollfree": "",
@@ -908,7 +1004,9 @@
       "<b>St Clare Centre</b> -- drop-in coffee lounge",
       "community events"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: Parkdale and surrounding areas"
+    ]
   },
   {
     "id_program": "60455095",
@@ -924,6 +1022,7 @@
     "site_longitude": "-79.350328",
     "category": "Clothing;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Household Goods / Furniture;Household Goods Donations;Job Placement and Training;Volunteer Opportunities;Work experience",
     "desc_program": "<b>Community drop-in</b> -- free coffee, snacks * friendly visiting * spiritual counselling * visits to prison and assistance to ex-inmates * training in nonprofit bakery * thrift shop * volunteer opportunities\n <br><br>\n<b>Meal programs</b> -- see Hours for details<br><br>\n\nAffiliated with Ecumenical Patriarchate of Constantinople, Carpatho-Russian Orthodox Diocese<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Residency Requirements: Greater Toronto Area",
     "hours": "<b>Community drop-in </b>-- hours vary, but usually Wed 1 pm-4:30 pm, Thu 8 am-4 pm, Fri 8:30 am-4 pm * call to confirm<br><br>\n<b>Breakfast</b> -- Tue-Sat 5 am-9 am<br><br>\n<b>Lunch</b> -- Thu and Fri 11:30 am-2 pm, Sat 11 am-1 pm<br><br>\n<b>Supper</b> -- Wed 4:30 pm, Sun 4 pm",
     "phone_office": "416-466-1357",
     "phone_tollfree": "",
@@ -950,7 +1049,9 @@
       "Affiliated with Ecumenical Patriarchate of Constantinople, Carpatho-Russian Orthodox Diocese",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: Greater Toronto Area"
+    ]
   },
   {
     "id_program": "60455098",
@@ -966,6 +1067,7 @@
     "site_longitude": "-79.218796",
     "category": "Baby Items;Camps;Children's Programs;Clothing;Counselling / Therapy;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Infant formula / Baby food;Parent / Child programs;Test - Food Banks",
     "desc_program": "Meals -- breakfast 10 am-11 am, lunch 12:30 pm-1:30 pm, food available through the day for anyone who is hungry * Wednesday supper 5 pm-7 pm -- evening service followed by supper and Bible study, limited space, please call ahead<br><br>\n\nKids program -- Saturday 2 pm-4 pm * cooking classes -- must register<br><br>\n\nMoms and Tots program -- Thursday 9 am-11 am * drop in for mothers with children birth-3 years<br><br>\n\nEmergency food, clothing, diapers and formula -- call ahead for availability<br><br>\n\nCounselling, recreational arts, summer camp for children, retreat for adults",
+    "eligibilty": "Serving homeless people, refugees and newcomers with a focus on families and children<br /><br />Residency Requirements: Greater Toronto Area",
     "hours": "Wed-Fri 10 am-4 pm",
     "phone_office": "647-358-4105",
     "phone_tollfree": "",
@@ -986,7 +1088,10 @@
       "Emergency food, clothing, diapers and formula -- call ahead for availability",
       "Counselling, recreational arts, summer camp for children, retreat for adults"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Serving homeless people, refugees and newcomers with a focus on families and children",
+      "Residency Requirements: Greater Toronto Area"
+    ]
   },
   {
     "id_program": "60455584",
@@ -1002,6 +1107,7 @@
     "site_longitude": "-79.286647",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal",
+    "eligibilty": "Open to all * children must be accompanied by parent/caregiver<br /><br />Residency Requirements: Eglinton Ave E (north) to Lake Ontario (south), Victoria Park Ave (west) to Kennedy Rd (east)",
     "hours": "November to March -- Mon 12 noon-1:30 pm",
     "phone_office": "416-694-1138 ext 164",
     "phone_tollfree": "",
@@ -1015,7 +1121,11 @@
     "ampl_program_details": [
       "Hot meal"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "children must be accompanied by parent/caregiver",
+      "Residency Requirements: Eglinton Ave E (north) to Lake Ontario (south), Victoria Park Ave (west) to Kennedy Rd (east)"
+    ]
   },
   {
     "id_program": "60455588",
@@ -1031,6 +1141,7 @@
     "site_longitude": "-79.401657",
     "category": "Clothing;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal * clothing * $10 grocery store gift card, first come, first served",
+    "eligibilty": "Anyone in need",
     "hours": "November 4, 2018 to March 31, 2019<br>\n<b>Supper</b> -- Sun 4 pm-7 pm<br>\n<b>Grocery gift card</b> -- first Tue and Wed of each month, 9:30 am-12 noon (Jan 2019 second Tue and Wed)",
     "phone_office": "416-488-1156",
     "phone_tollfree": "",
@@ -1048,7 +1159,9 @@
       "clothing",
       "$10 grocery store gift card, first come, first served"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Anyone in need"
+    ]
   },
   {
     "id_program": "60455591",
@@ -1064,6 +1177,7 @@
     "site_longitude": "-79.400745",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meals October to April, sandwiches May to September",
+    "eligibilty": "Individuals who are homeless or marginally housed<br /><br />Residency Requirements: Downtown Toronto",
     "hours": "Throughout the year -- Fri 5 pm-7 pm",
     "phone_office": "416-979-2323",
     "phone_tollfree": "",
@@ -1077,7 +1191,10 @@
     "ampl_program_details": [
       "Hot meals October to April, sandwiches May to September"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals who are homeless or marginally housed",
+      "Residency Requirements: Downtown Toronto"
+    ]
   },
   {
     "id_program": "60455594",
@@ -1093,6 +1210,7 @@
     "site_longitude": "-79.385293",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal * clothing",
+    "eligibilty": "Adults 16 years and older<br /><br />Residency Requirements: City of Toronto",
     "hours": "Throughout the year -- Tue 7:30 am-8 am",
     "phone_office": "416-593-5600 ext 220",
     "phone_tollfree": "",
@@ -1107,7 +1225,10 @@
       "Hot meal",
       "clothing"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 16 years and older",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455596",
@@ -1123,6 +1244,7 @@
     "site_longitude": "-79.385293",
     "category": "Clothing;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal * clothing boutique * income tax assistance in March",
+    "eligibilty": "Adults 16 years and older<br /><br />Age Requirements: Ages: 16 year(s) and up; <br /><br />Residency Requirements: City of Toronto",
     "hours": "November 5, 2018 to April 1, 2019 -- Mon 6 pm-8 pm",
     "phone_office": "416-593-5600 ext 220",
     "phone_tollfree": "",
@@ -1138,7 +1260,11 @@
       "clothing boutique",
       "income tax assistance in March"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 16 years and older",
+      "Age Requirements: Ages: 16 year(s) and up;",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455599",
@@ -1154,6 +1280,7 @@
     "site_longitude": "-79.422937",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Meal program * packed lunches can be provided at the entrance for people using mobility devices",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "October 14, 2018 to April 28, 2019 -- Sun 9:30 am -3 pm * coffee and snacks available at 9:30 * lunch served between 12:30 pm and 1 pm",
     "phone_office": "",
     "phone_tollfree": "",
@@ -1170,7 +1297,9 @@
       "Meal program",
       "packed lunches can be provided at the entrance for people using mobility devices"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455602",
@@ -1186,6 +1315,7 @@
     "site_longitude": "-79.413909",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Meal program",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 10, 2018 to April 6, 2019 -- Sat 9 am-2 pm * light breakfast 9 am, hot lunch 12 noon",
     "phone_office": "416-923-8471",
     "phone_tollfree": "",
@@ -1200,7 +1330,9 @@
     "ampl_program_details": [
       "Meal program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455605",
@@ -1216,6 +1348,7 @@
     "site_longitude": "-79.376738",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Meal program",
+    "eligibilty": "Individuals who are homeless",
     "hours": "November 1, 2018 to March 28, 2019 -- Thu 11 am-2 pm",
     "phone_office": "416-363-0331",
     "phone_tollfree": "",
@@ -1229,7 +1362,9 @@
     "ampl_program_details": [
       "Meal program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals who are homeless"
+    ]
   },
   {
     "id_program": "60455608",
@@ -1245,6 +1380,7 @@
     "site_longitude": "-79.389718",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Meal program",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "Throughout the year:  <b>hot lunch</b> -- Tue 10:30 am-12 noon * <b>bagged lunch</b> -- Sun  2:30 pm-3:30 pm",
     "phone_office": "416-926-7110",
     "phone_tollfree": "",
@@ -1259,7 +1395,9 @@
     "ampl_program_details": [
       "Meal program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455612",
@@ -1275,6 +1413,7 @@
     "site_longitude": "-79.345882",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Meal program",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 6, 2018 to March 26, 2019 -- Tue 6 pm-8 pm",
     "phone_office": "416-466-3040",
     "phone_tollfree": "",
@@ -1288,7 +1427,9 @@
     "ampl_program_details": [
       "Meal program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455615",
@@ -1304,6 +1445,7 @@
     "site_longitude": "-79.398639",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Child care may be available to youth attending supper -- call for information",
+    "eligibilty": "<b>Youth 16-24 years only</b>",
     "hours": "October 2018 to May 2019 -- Mon-Thu 5 pm-6 pm",
     "phone_office": "416-929-9614",
     "phone_tollfree": "",
@@ -1317,7 +1459,9 @@
     "ampl_program_details": [
       "Child care may be available to youth attending supper -- call for information"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "<b>Youth 16-24 years only</b>"
+    ]
   },
   {
     "id_program": "60455618",
@@ -1333,6 +1477,7 @@
     "site_longitude": "-79.402028",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Hot meal * information and referral",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "Throughout the year -- Wed 9:30 am-12:30 pm",
     "phone_office": "416-483-6664",
     "phone_tollfree": "",
@@ -1347,7 +1492,9 @@
       "Hot meal",
       "information and referral"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60455621",
@@ -1363,6 +1510,7 @@
     "site_longitude": "-79.402556",
     "category": "Clothing;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks",
     "desc_program": "<b>Winter drop-in for youth 16-25 years only</b> * supper * food bank * clothing and household items exchange",
+    "eligibilty": "Youth 16-25 years",
     "hours": "November 6, 2018 to April 30, 2019 -- Tue 6:30 pm-9 pm",
     "phone_office": "Church 416-921-8993",
     "phone_tollfree": "",
@@ -1379,7 +1527,9 @@
       "food bank",
       "clothing and household items exchange"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Youth 16-25 years"
+    ]
   },
   {
     "id_program": "60476999",
@@ -1395,6 +1545,7 @@
     "site_longitude": "-79.285218",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Lunch program",
+    "eligibilty": "Adults 18 years and older",
     "hours": "<b>Fall/Winter 2018-2019 dates</b>:<br>\nOct 16, 30<br>\nNov 13, 27<br>\nDec 11, 25<br>\nJan 8, 22<br>\nFeb 5, 19<br>\nMar 5<br>\n<br>\nTue 11 am-1 pm -- alternates Tuesday with St Nicholas Anglican Church (see separate entry for specific dates or call for details)",
     "phone_office": "416-691-2222",
     "phone_tollfree": "",
@@ -1415,7 +1566,9 @@
     "ampl_program_details": [
       "Lunch program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477002",
@@ -1431,6 +1584,7 @@
     "site_longitude": "-79.383184",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Drop-in lunch program at different religious institutions in the Beach area * nutritious meal and fellowship * see branch records for details",
+    "eligibilty": "Adults 18 years and older",
     "hours": "Meal programs run from October (after Thanksgiving) to May (Victoria Day weekend), 11 am-1 pm * see separate entries for details",
     "phone_office": "",
     "phone_tollfree": "",
@@ -1447,7 +1601,9 @@
       "nutritious meal and fellowship",
       "see branch records for details"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477005",
@@ -1463,6 +1619,7 @@
     "site_longitude": "-79.309445",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Lunch program",
+    "eligibilty": "Adults 18 years and older",
     "hours": "October 15, 2018 to May 13, 2019 -- Mon 11 am-1 pm",
     "phone_office": "416-694-0382",
     "phone_tollfree": "",
@@ -1476,7 +1633,9 @@
     "ampl_program_details": [
       "Lunch program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477008",
@@ -1492,6 +1651,7 @@
     "site_longitude": "-79.301463",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Lunch program",
+    "eligibilty": "Adults 18 years and older",
     "hours": "Mid-October to mid-May -- Wed 11 am-1 pm",
     "phone_office": "416-694-7942",
     "phone_tollfree": "",
@@ -1505,7 +1665,9 @@
     "ampl_program_details": [
       "Lunch program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477011",
@@ -1521,6 +1683,7 @@
     "site_longitude": "-79.296377",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Lunch program",
+    "eligibilty": "Adults 18 years and older",
     "hours": "October 11, 2018 to May 16, 2019 -- Thu 11 am-1 pm",
     "phone_office": "416-691-8082 ext 0",
     "phone_tollfree": "",
@@ -1534,7 +1697,9 @@
     "ampl_program_details": [
       "Lunch program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477014",
@@ -1550,6 +1715,7 @@
     "site_longitude": "-79.286735",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Lunch program",
+    "eligibilty": "Adults 18 years and older",
     "hours": "October 12, 2018 to May 16, 2019 -- Fri 11 am-1 pm",
     "phone_office": "416-699-6091",
     "phone_tollfree": "",
@@ -1563,7 +1729,9 @@
     "ampl_program_details": [
       "Lunch program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477017",
@@ -1579,6 +1747,7 @@
     "site_longitude": "-79.269139",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Lunch program",
+    "eligibilty": "Adults 18 years and older",
     "hours": "<b>Fall/Winter 2018--2019 dates</b>: <br>\nOct 9, 23<br>\nNov 6, 20<br>\nDec 4, 18 <br>\nJan 15, 29 (closed January 1)<br>\nFeb 12, 26<br>\nMar 12, 19, 26<br>\nApr 2, 9, 16, 23, 30<br>\nMay 7, 14<br><br>\nTue 11 am-1 pm -- alternates Tuesday with St Aidan Anglican Church (see separate entry for specific dates or call for details)",
     "phone_office": "416-691-0449",
     "phone_tollfree": "",
@@ -1601,7 +1770,9 @@
     "ampl_program_details": [
       "Lunch program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older"
+    ]
   },
   {
     "id_program": "60477497",
@@ -1617,6 +1788,7 @@
     "site_longitude": "-79.40243",
     "category": "Addiction Supports;Clothing;Community Health Centres;Community legal services;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;ID (identification);Support Groups;Transition and Future Planning",
     "desc_program": "<b>Adult drop-in</b> -- community suppers *  breakfast, lunch (see hours of service for schedule)* form filling * housing help * shower and laundry facilities * Friday clothing bank * voluntary trusteeships for local residents * client support, including budgeting and addictions referral * Downtown Legal Services -- call for date and time, ext 240 * ID Clinic, Monday mornings <br><br>\n\n<b>Health services</b> -- nursing services -- Tue, Thu 10 am-12 noon * dental clinic -- call for eligibility criteria and appointment, ext 290 * Alcoholics Anonymous Sun 2:30 pm, Narcotics Anonymous Mon-Fri, statutory holidays at noon <br><br>\n\n<b>Spiritual Care</b> - Out of the Cold Program - Every Tuesday, November 6, 2018 to March 26, 2019 (ticket given out at 1:00 pm on Tuesday) <br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Homeless or socially isolated men and women * after school and summer programs for children and youth<br /><br />Residency Requirements: City of Toronto",
     "hours": "Administration -- Mon-Fri 9 am-5 pm<br><br>\n\n<b>Adult drop-in</b> -- Mon-Fri 9 am-12:30 pm, Sat and statutory holidays 9 am-1 pm * <b>breakfast</b> -- Mon-Fri 9 am * <b>lunch</b> -- Mon-Fri 10:30 am-11:45 pm * <b>community supper</b> --  Sunday 5:30 pm-6:15 pm",
     "phone_office": "416-504-3563",
     "phone_tollfree": "",
@@ -1648,7 +1820,11 @@
       "<b>Spiritual Care</b> - Out of the Cold Program - Every Tuesday, November 6, 2018 to March 26, 2019 (ticket given out at 1:00 pm on Tuesday)",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Homeless or socially isolated men and women",
+      "after school and summer programs for children and youth",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60721818",
@@ -1664,6 +1840,7 @@
     "site_longitude": "-79.374328",
     "category": "Clothing;Computer access;Crisis intervention and prevention;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;In-Person Crisis Intervention;In-person crisis services;Mental health;Personal care/health care;Transportation",
     "desc_program": "<b>Drop-in</b> -- emergency clothing and footwear * shower and laundry facilities * basic nursing care * meal program * dental clinic<br><br>\n\n<b>Client intervention and assistance</b> -- counselling and crisis support * friendly visiting and accompaniment * recreational activities<br><br>\n\n<b>Library</b> -- computers with free Internet access * mailing address and telephone service<br><br>\n\n<b>**All services to members only**</b><br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Men 50 years and older who are homeless, marginally housed or socially isolated<br /><br />Age Requirements: Ages: 50 year(s) and up; <br /><br />Residency Requirements: Downtown Toronto",
     "hours": "Mon-Sun 8 am-5 pm * <b>meal program</b> -- breakfast 8:15 am, lunch 12:15 pm, snack 3:30 pm",
     "phone_office": "416-366-5377",
     "phone_tollfree": "",
@@ -1691,7 +1868,11 @@
       "</b>",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Men 50 years and older who are homeless, marginally housed or socially isolated",
+      "Age Requirements: Ages: 50 year(s) and up;",
+      "Residency Requirements: Downtown Toronto"
+    ]
   },
   {
     "id_program": "60721825",
@@ -1707,6 +1888,7 @@
     "site_longitude": "-79.362522",
     "category": "Access and coordination of services;Addiction counselling;Addiction Supports;Addiction treatment;Assessment;Clothing;Community Health Centres;Crisis intervention and prevention;Family and individual support;Find a Health Professional;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;In-Person Crisis Intervention;In-person crisis services;Mental health;Support Groups;Transitional housing",
     "desc_program": "<b>Meal program</b> for persons who are homeless or disadvantaged Monday-Sunday 2-4 pm * <b>Drop-In Program</b> Monday-Sunday 9-11 am * coffee and meal * <b>men's clothing</b> distributed 9-11 am Monday-Friday -- hours may vary, call for details<br> <br> \n\n<b>Medical clinic</b> for persons who are homeless * Monday-Friday -- hours vary, call for details<br> <br> <b>Overnight shelter</b> for men 18 years and older * registration/intake Monday-Sunday 5:30-5:45 pm * capacity 96 * must vacate premises during the day * call for admission and discharge criteria<br> <br> \n\n<b>Housing workers/resettlement/crisis intervention counselling</b> -- Monday-Friday, by appointment only<br> <br> \n\n<b>AApricot (Addiction Assessment Psychotherapy Referral in Community of Toronto) program</b>, 416-869-3619 ext 238 -- assess, motivate and refer underserved substance users to appropriate services * Wednesdays 9 am-6 pm * operates in partnership with Fred Victor (see separate entry) and community physicians<br><br>\n\n<b>CATCH (Co-ordinated Access to Care for the Homeless)</b> --for persons who are homeless and not connected to services, with or without mental health or addiction problems * referrals through Medical clinic -- call for details<br><br>\n\n<b>DARE (Drug and Alcohol Recovery Enrichment) Program</b> -- for homeless adult men waiting to enter or who have completed a substance abuse rehabilitation program * referral by detox, rehabilitation centre or social service agency preferred * abstinence-based program<br> <br>\n\n<b>Gambling Addiction Program</b>, 416-869-3619 ext 245 or 260 -- case management and support groups for adults struggling with both homelessness and problem or pathological gambling<br><br>\n\n<b>Transition Services for Veterans</b> -- intensive case management for veterans who are homeless or at risk of homelessness * contact Veterans' Transition Worker at 416-896-3619 ex 276 for information<br><br>\n \n<b>Pastoral Care Program</b> -- counselling and support to meet spiritual needs * Monday-Friday 9-5<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Homeless and disadvantaged people",
     "hours": "",
     "phone_office": "416-869-3619",
     "phone_tollfree": "",
@@ -1743,7 +1925,9 @@
       "Monday-Friday 9-5",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Homeless and disadvantaged people"
+    ]
   },
   {
     "id_program": "60722184",
@@ -1759,6 +1943,7 @@
     "site_longitude": "-79.404947",
     "category": "Children's Programs;Community / Cultural Centres;Computer access;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Indigenous Peoples;In-Home Supports;Meals for seniors / people with disabilities;Personal care/health care;Transportation;Transportation / Parking Permits;Transportation for older adults;Transportation for people with disabilities;Volunteer Opportunities",
     "desc_program": "<b>Senior's program</b> -- outreach to Indigenous seniors and people with disabilities * social safety visits and reassurance check * congregate dining * friendly visiting * In-Home personal support -- personal care, light meal preparation, housekeeping, transportation, shopping assistance  <br> <br>\n\n<b>Cultural and recreational services</b> -- emphasis on Native culture * arts and crafts * Ojibwa and Cree language classes * gift shop * drumming and singing workshops, socials * Native Canadian Newsletter * Dodem Kanonhsa Cultural Facility (jointly administered with Indian and Northern Affairs) * women and men's circles * teaching circles * visiting Elder, mental health counsellor<br> <br> \n\n<b>Food services</b> -- community lunch Monday, Friday 12 noon -- $3 donation if employed, $2 donation if unemployed or student<br><br> \n\n<b>Youth services</b> -- youth program including sharing circle<br> <br> \n\n<b>Other services</b> -- information and referral * advocacy * urban orientation * meeting space for rent * Internet access * volunteer opportunities",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: Senior's Program -- Greater toronto Area * other City of Toronto programs",
     "hours": "Mon-Wed 9 am-8 pm, Thu 9 am-9 pm, Fri 9 am-6 pm, Sat 10 am-4 pm",
     "phone_office": "416-964-9087",
     "phone_tollfree": "",
@@ -1794,7 +1979,11 @@
       "Internet access",
       "volunteer opportunities"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: Senior's Program -- Greater toronto Area",
+      "other City of Toronto programs"
+    ]
   },
   {
     "id_program": "60723496",
@@ -1810,6 +1999,7 @@
     "site_longitude": "-79.440527",
     "category": "Access and coordination of services;Assessment;Community Health Centres;Computer access;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing options;Mental health;Personal care/health care;Supportive Housing;Supportive housing (semi-independent);Therapy and Counselling;Transportation",
     "desc_program": "<b>Drop-In</b> -- community centre * activity and recreation program * housing and   crisis intervention referrals * breakfast Monday-Thursday 9:15 am, Saturday-Sunday 11:15 am, lunch Monday-Thursday 11:30 am, Friday-Sunday 1 pm * primary care nurse -- Tuesday and Thursday 10 am-12 noon, Friday 2 pm-4 pm * telephone * showers * mailing address for members * internet<br> \n<br>\n<b>Case Management Program</b> -- one on one support for people experiencing mental health and/or addiction concerns * supports include accompaniment, referrals, advocacy, and skills building<br> \n<br>\n<b>Community Peer Program</b> -- offers accompaniment and advocacy services to people accessing the health care, mental health care, housing and legal systems<br> \n<br>\n<b>Supportive Housing</b> -- permanent supportive housing for psychiatric survivors who have experienced homelessness * 39 units<br> \n<br>Member agency of Toronto Drop-in Network (TDIN) * lead agency for the FoodReach program",
+    "eligibilty": "Open to all * priority to persons 18 years and older who have experienced mental health issues, addictions, homelessness or poverty<br /><br />Age Requirements: Ages: 18 year(s) and up; <br /><br />Residency Requirements: Parkdale",
     "hours": "Office -- Mon- Fri 9 am-5 pm<br><br>\nDrop-in -- Mon-Thu 9 am-1 pm; Fri 12:30 pm-4:30 pm, 6 pm-9 pm; Sat-Sun 11 am-3 pm",
     "phone_office": "416-537-2262",
     "phone_tollfree": "",
@@ -1839,7 +2029,12 @@
       "Member agency of Toronto Drop-in Network (TDIN)",
       "lead agency for the FoodReach program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "priority to persons 18 years and older who have experienced mental health issues, addictions, homelessness or poverty",
+      "Age Requirements: Ages: 18 year(s) and up;",
+      "Residency Requirements: Parkdale"
+    ]
   },
   {
     "id_program": "60724065",
@@ -1855,6 +2050,7 @@
     "site_longitude": "-79.404705",
     "category": "Camps;Free / Low Cost Meals;Free / Low-cost meals;School meal programs;Youth Centres / Groups",
     "desc_program": "Community supper * newcomers services -- conversational English * youth group -- 12-17 years * homework club, breakfast club, recreation and summer camp for children * young adult group * worship services",
+    "eligibilty": "Open to all",
     "hours": "Tue-Fri 9 am-5 pm<br><br>\n\nCommunity supper -- Sat 5:30 pm-7:30 pm * summer -- every other Sat 5:30 pm-7:30 pm",
     "phone_office": "416-703-8211",
     "phone_tollfree": "",
@@ -1875,7 +2071,9 @@
       "young adult group",
       "worship services"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all"
+    ]
   },
   {
     "id_program": "60724350",
@@ -1891,6 +2089,7 @@
     "site_longitude": "-79.372972",
     "category": "Addiction counselling;Alternative Therapies;Clothing;Community legal clinics;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;ID (identification);Justice and mental health programs;Recreation and leisure;Therapy and Counselling",
     "desc_program": "Drop-in services -- information and referral, counselling, advocacy, ID clinic * access to food, clothing, phones * mental health and justice workers * harm reduction equipment and support * Fair Change Legal Clinic * seasonal income tax preparation * creative arts programs and outings * community garden<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Homeless and marginally housed adults 16 years and older<br /><br />Age Requirements: Ages: 16 year(s) and up; <br /><br />Residency Requirements: Central Toronto",
     "hours": "Drop-in -- Mon-Fri 12 noon-4 pm * Support Services -- Mon-Fri 9:30 am-5:30 pm by appointment",
     "phone_office": "416-364-8228 ext 3318",
     "phone_tollfree": "",
@@ -1913,7 +2112,11 @@
       "community garden",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Homeless and marginally housed adults 16 years and older",
+      "Age Requirements: Ages: 16 year(s) and up;",
+      "Residency Requirements: Central Toronto"
+    ]
   },
   {
     "id_program": "60724352",
@@ -1929,6 +2132,7 @@
     "site_longitude": "-79.372972",
     "category": "Addiction Supports;Community Health Centres;Community legal services;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Housing options;Housing Search Assistance ;Justice and mental health programs;Mental health;Street outreach;Supportive Housing;Supportive housing (semi-independent);Tax Services;Therapy and Counselling",
     "desc_program": "Services include information and referral, housing and shelter supports and outreach, medical clinic, concurrent disorders support services * drop-in program * income tax clinic * Fair Change legal clinic * nursing clinic * mental health and justice program * harm reduction equipment and support * creative programs * catering<br><br>\n\n<b>Friends Restaurant</b> -- low-cost meals, credit available * brunch Monday-Friday 10 am-12 noon, supper Monday-Friday 4 pm-5:30 pm<br><br>\n\n<b>Housing</b> -- permanent, shared accommodation * private bedrooms and bathrooms * shared kitchens and living rooms * 24 hour support staff using facilitative management and community development to enhance tenant involvement",
+    "eligibilty": "Housing -- single adults 16 years and older who are homeless, at risk of becoming homeless, or are marginally housed * trans-positive services",
     "hours": "Office -- Mon-Fri 9:30 am-5:30 pm * program hours may vary",
     "phone_office": "416-364-8228",
     "phone_tollfree": "",
@@ -1957,7 +2161,10 @@
       "shared kitchens and living rooms",
       "24 hour support staff using facilitative management and community development to enhance tenant involvement"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Housing -- single adults 16 years and older who are homeless, at risk of becoming homeless, or are marginally housed",
+      "trans-positive services"
+    ]
   },
   {
     "id_program": "60724358",
@@ -1973,6 +2180,7 @@
     "site_longitude": "-79.375299",
     "category": "Access and coordination of services;Assessment;Counselling / Therapy;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Drop-in services * referrals, counselling, advocacy * case management * access to phone, showers * laundry facilities -- call for times * breakfast, lunch and supper, as well as refreshments, snacks * social and recreation activities * outings * support groups * harm reduction support and supplies<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Homeless and marginally housed women 18 years and older without children * trans-positive services * pet friendly environment<br /><br />Age Requirements: Ages: 18 year(s) and up;",
     "hours": "Mon-Sun 24 hours * <b>meals</b> -- breakfast 9 am, lunch 12 noon, supper 6 pm",
     "phone_office": "416-392-9292",
     "phone_tollfree": "",
@@ -1997,7 +2205,12 @@
       "harm reduction support and supplies",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Homeless and marginally housed women 18 years and older without children",
+      "trans-positive services",
+      "pet friendly environment",
+      "Age Requirements: Ages: 18 year(s) and up;"
+    ]
   },
   {
     "id_program": "60724974",
@@ -2013,6 +2226,7 @@
     "site_longitude": "-79.424169",
     "category": "Free / Low Cost Meals;Free / Low-cost meals",
     "desc_program": "Educational, spiritual, religious and cultural community services for Jewish Russian community * Weekly program for Russian speaking older adults * program includes light exercise, Kosher lunch and health information * Synagogue services",
+    "eligibilty": "Jewish individuals and families from the former Soviet Union * weekly exercise, lunch and wellness session for Russian speaking older adults",
     "hours": "Light Exercise Mon 1 pm * kosher lunch and health session Mon 2 pm",
     "phone_office": "416-222-7105",
     "phone_tollfree": "",
@@ -2030,7 +2244,10 @@
       "program includes light exercise, Kosher lunch and health information",
       "Synagogue services"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Jewish individuals and families from the former Soviet Union",
+      "weekly exercise, lunch and wellness session for Russian speaking older adults"
+    ]
   },
   {
     "id_program": "60725461",
@@ -2046,6 +2263,7 @@
     "site_longitude": "-79.36708",
     "category": "Access and coordination of services;Assessment;Community Health Centres;Community Mental Health Centres;Crisis intervention and prevention;Day programs;Free / Low Cost Meals;Free / Low-cost meals;In-Person Crisis Intervention;In-person crisis services;Mental health;Recreation and leisure;Street outreach;Therapy and Counselling",
     "desc_program": "Drop-in crisis centre * mental health case management and crisis intervention * recreation and craft activities * daily breakfast 8:30-10 am, and lunch 12 noon-1:30 pm * telephone * medical clinic -- Tuesday, Thursday afternoons * outreach services including substance abuse support * liaison with other community agencies and government services",
+    "eligibilty": "Women 16 years and older coping with isolation, addiction and/or mental health issues<br /><br />Age Requirements: Ages: 16 year(s) and up;",
     "hours": "Mon-Sun 8:30 am-4:30 pm * open statutory holidays",
     "phone_office": "416-928-3334",
     "phone_tollfree": "",
@@ -2067,7 +2285,10 @@
       "outreach services including substance abuse support",
       "liaison with other community agencies and government services"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Women 16 years and older coping with isolation, addiction and/or mental health issues",
+      "Age Requirements: Ages: 16 year(s) and up;"
+    ]
   },
   {
     "id_program": "60798799",
@@ -2083,6 +2304,7 @@
     "site_longitude": "-79.366179",
     "category": "Academic upgrading;Children's Programs;Community / Cultural Centres;Counselling / Therapy;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Housing / Assisted Living;Indigenous Peoples;Life and social skills training;Parenting Supports;Personal care/health care;Specialized Therapy / Rehabilitation;Support groups;Therapy and Counselling;Therapy and Counselling for Children and Youth;Transportation;Transportation / Parking Permits;Transportation for people with disabilities;Youth Mental Health",
     "desc_program": "Assistance with emergency problems * focus on Native cultural and spiritual awareness<br><br>\n\n<b>Gathering place</b> -- drop-in * social programs and events * crafts and hobby groups * meal program <br><br>\n\n<b>Life Long Care Program (LLCP)</b> -- transportation * friendly visiting * congregate dining * Aboriginal support * security reassurance * life skills outreach in the community<br><br> \n\n<b>Counselling unit</b> -- information, peer and cultural counselling and referral * self-help groups<br><br>\n\n<b>Child and Family</b> -- parenting group * prenatal nutrition program * community kitchen * cultural teachings and activities * health and physical development * educational support including tutoring<br><br>\n\n<b> Youth</b> -- individual support * mentoring * tutoring and homework help * nutrition and healthy lifestyles workshops * snacks and meals * cultural teachings and activities <br><br>\n\n<b>Education Sector</b> -- academic upgrading * basic computer training <br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Aboriginal people, including First Nations, Inuit and Metis * <b>Life Long Care Program (LLCP)</b> -- Aboriginal people with limited mobility related to a persistent medical condition or physical disability<br /><br />Residency Requirements: City of Toronto",
     "hours": "Hours vary -- call for details, some evening and weekend programs * <b>Gathering Place Drop In</b> -- Mon-Thu, Sat-Sun 7:30 am-4 pm, Fri 7:30 am-3 pm * <b>Meal Program</b> -- Breakfast Mon-Wed, Fri-Sun 9 am, Lunch Mon-Thu, Sun 12 noon-12:30 pm, Fri 1 pm-1:30 pm * Supper Mon-Thu 3:40 pm-4 pm",
     "phone_office": "416-360-4350",
     "phone_tollfree": "",
@@ -2127,7 +2349,11 @@
       "basic computer training",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Aboriginal people, including First Nations, Inuit and Metis",
+      "<b>Life Long Care Program (LLCP)</b> -- Aboriginal people with limited mobility related to a persistent medical condition or physical disability",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60798811",
@@ -2143,6 +2369,7 @@
     "site_longitude": "-79.381314",
     "category": "Children's Programs;Clothing;Community Health Centres;Crisis intervention and prevention;Crisis Lines;Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;ID (identification);In-Person Crisis Intervention;In-person crisis services;Legal information;Mental health;Street outreach;Test - Food Banks;Youth Helplines;Youth Shelters",
     "desc_program": "Crisis intervention centre * residential, non-residential and community support services * education * pastoral ministry * runaway prevention program * day program * community youth meal programs<br><br>\n\n<b>Community Support Services, 416-204-7037</b> -- drop-in for ex-residents and non-residents * hot meal or food package (member of Daily Bread Food Bank) * clothing * hygiene necessities * showers * assessment and referrals * counselling * health care * housing help * literacy * life skills * assistance in finding and keeping a job * legal resources * recreation * street outreach * ID clinic<br><br>\n\n<b>Health Care Services</b> -- primary medical care * diagnostic services * health education * assistance in obtaining medical coverage * referrals * access to family practice doctor and psychiatrist<br><br>\n\n<b><a href=\"http://Cov4Youth.ca\">Cov4Youth.ca</a></b>, help@covenanthouse.ca -- online information, fact sheets and advice on youth issues and homelessness * searchable resource directory of services<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Homeless and runaway youth 16-24 years<br /><br />Age Requirements: Ages: 16 year(s) - 24 year(s);",
     "hours": "Emergency Intake -- Mon-Sun 24 hours<br>\n<b>Drop-in</b> -- Mon-Sun 11:30 pm-7 pm<br>\n<b>Food bank</b> -- Fri 1:15 pm-6:45 pm<br>\n<b>Meal programs:</b>  Lunch -- Mon-Sun 1:15 pm-4 pm * Supper -- Mon-Sun 4 pm-6:45 pm<br>\n<b> Health Care Services</b>:  walk-in -- Mon-Fri 8 am-12 noon, 1 pm-3 pm; also Thu 3:30 pm-7 pm * primary care providers -- Mon-Tue mornings, Wed-Fri afternoons * psychiatrist -- Tue-Wed by appointment<br>\n<b>ID clinic</b> -- Thu 1 pm-3 pm, sign in by 2:30 pm",
     "phone_office": "416-598-4898",
     "phone_tollfree": "1-800-435-7308",
@@ -2195,7 +2422,10 @@
       "searchable resource directory of services",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Homeless and runaway youth 16-24 years",
+      "Age Requirements: Ages: 16 year(s) - 24 year(s);"
+    ]
   },
   {
     "id_program": "60799195",
@@ -2211,6 +2441,7 @@
     "site_longitude": "-79.372558",
     "category": "Baby Items;Clothing;Community legal services;Counselling;Crisis intervention and prevention;Employment Programs;Family Support Centres;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;Indigenous Peoples;Infant formula / Baby food;In-Person Crisis Intervention;In-person crisis services;Job Placement and Training;Mental health;Outreach / Prevention;Parent / Child programs;Parent Education;Pregnancy / Postnatal;Sexual assault support;Sexual Assault Supports;Test - Food Banks;Victims of abuse support programs",
     "desc_program": "Crisis intervention * information and referral * urban orientation * community outreach * food programs<br><br> \n\n<b>Aboriginal Healthy Babies Healthy Children</b> -- home visits for families with children birth-6 years * auntie approach * prenatal and postpartum support * early education support, links to community resources and referrals * <b>Pimaatsiwin</b> -- drop-in for mothers and children birth-6 years * parenting classes * prenatal programs * community kitchen, healthy families training and workshops<br><br> \n\n<b>Trauma Support</b> -- 416-525-9653 * case management * peer support * peer-led support circles * trauma counseling <br><br>\n\n<b>Community and Family Wellness Support</b> -- support, counselling and referrals specializing in legal assistance, ending violence and general assistance<br><br> \n\n<b>Cultural programming</b> -- women's and youth hand drumming, arts and crafts, beading, Full Moon Ceremonies, Traditional feasts, Ojibwe language class * fitness programs * cultural traditions, crafts, support groups, speakers <br><br> \n\n<b>Drop-in</b> -- showers, laundry, clothing, shoes, feminine hygiene products <br><br>\n\n<b>Food Bank</b> -- women and youth circles * for Aboriginal women and their families * drop in Wednesday 9:30 am-11:30 am * emergency supply of milk and diapers * member of Daily Bread Food Bank * <b>meal programs</b> -- lunch Monday to Friday<br><br> \n\n<b>Housing Program</b> -- information and referral * assistance finding and accessing safe, stable housing <br><br> \n\n<b>Investing in Women's Futures</b> -- self-employment and pre-employment training program * includes skill-building workshops, educational bridging programs, traditional counselling and activities * dress for success program and clothing bank",
+    "eligibilty": "Women of Aboriginal ancestry (Status, Non-Status, Métis, Inuit) or women with children of Aboriginal ancestry * meal programs open to all women * Aboriginal female youth of Aboriginal ancestry * must live in Greater Toronto Area<br /><br />Residency Requirements: Greater Toronto Area",
     "hours": "Mon-Fri 10 am-4:30 pm * some evening and weekend workshops<br><br>\n\n<b>Food Bank</b> -- Fri 10 am-12 noon * Meal Programs:  <b>Lunch</b> -- Mon-Fri 12:30 pm-1:30 pm * <b>Drop-in</b> -- Tue, Thu-Fri 10 am-4:30 pm",
     "phone_office": "416-963-9963",
     "phone_tollfree": "",
@@ -2261,7 +2492,13 @@
       "includes skill-building workshops, educational bridging programs, traditional counselling and activities",
       "dress for success program and clothing bank"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Women of Aboriginal ancestry (Status, Non-Status, Métis, Inuit) or women with children of Aboriginal ancestry",
+      "meal programs open to all women",
+      "Aboriginal female youth of Aboriginal ancestry",
+      "must live in Greater Toronto Area",
+      "Residency Requirements: Greater Toronto Area"
+    ]
   },
   {
     "id_program": "60801175",
@@ -2277,6 +2514,7 @@
     "site_longitude": "-79.308437",
     "category": "Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks",
     "desc_program": "Hot meal * food bank * member of Daily Bread Food Bank",
+    "eligibilty": "Anyone who is in need",
     "hours": "Food Bank and hot meal every Friday 5 pm-8 pm * Hot meal -- second Saturday of each month, 3 pm-6 pm",
     "phone_office": "416-690-5169",
     "phone_tollfree": "",
@@ -2293,7 +2531,9 @@
       "food bank",
       "member of Daily Bread Food Bank"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Anyone who is in need"
+    ]
   },
   {
     "id_program": "60801471",
@@ -2309,6 +2549,7 @@
     "site_longitude": "-79.368323",
     "category": "Access and coordination of services;Advocacy;Assessment;Camps;Career counselling;Child Care;Children's Programs;Counselling / Therapy;English as a second language;Family and individual support;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Housing Search Assistance ;Job Search Assistance;Meals for seniors / people with disabilities;Mental health;Parenting Supports;Support groups;Tax Services;Test - Food Banks",
     "desc_program": "Community centre * family support services including advocacy, care management, Christmas assistance, seasonal income tax clinic, veterinary clinic for families unable to afford preventive pet care * community kitchen * health promotion * computer classes * children and youth programs including after school programs, homework help and tutoring, sports, summer camps, March break day camps * women's programs including ESL classes * fathers group * volunteer program * Bible studies * child care -- see separate entry<br><br> \n\n<b>Adult social drop-in</b> -- includes meal, recreation programs and workshops<br><br>\n\n<b>Bridges Adult Program</b> -- chronic poverty initiative includes courses, workshops, mentoring, tutoring, case management and social events<br><br>\n\n<b>Counselling services</b> -- professional therapy for youth, adults, couples and families unable to afford counselling * psycho-educational groups on topics such as anger management, anxiety, depression, emotional wellness * Christian orientation provided as requested<br><br>\n\n<b>Drop-in programs</b> -- includes employment services and housing assistance<br><br>\n\n<b>Food bank</b> -- 2-3 days supply of unprepared, non-perishable food * appointment required<br><br>\n\n<b>Seniors program</b> -- weekly luncheon and drop-in * transportation available if needed<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Focus on individuals and families with low income * <b>Food bank</b> -- families and seniors only * Bridges Adult Program -- individuals 21-60 years, living with generational poverty * Seniors program -- 60 years and older<br /><br />Residency Requirements: <b>Food bank</b> -- Bloor St E (north) to Lake Shore Blvd E (south), Yonge St (west) to Don Valley Parkway (east) * <b>other services </b> -- downtown Toronto",
     "hours": "Mon-Fri 9 am-5 pm * program hours vary -- call to confirm seasonal program schedules<br><br>\n\n<b>Adult social drop-in</b> -- Tue, Thu 4 pm-9 pm (September to June), supper at 6 pm<br><br>\n\n<b>Food bank</b> -- Tue-Wed, Fri 10 am-12:30 pm, 1:45 pm-3:45 pm; Thu 1:45 pm-3:45 pm * also evening appointments Tue 6 pm-7:45 pm<br><br>\n\n<b>Care management</b> -- Mon-Fri 9 am-5 pm<br>\n<b>Counselling Services</b> -- by appointment<br>\n<b>Walk-in Counselling Clinic</b> -- Thu 4:30 pm-8:30 pm<br><br>\n\n<b>Bridges Adult Program</b> -- Tue 2 pm-8 pm, Wed 2 pm-4 pm<br>\n<b>Bridges Adult Learning Hub Drop-in</b> -- Thu 6:45 pm-8:15 pm<br>\n<b>Drop-in employment services</b> -- Wed 9:30 am-12:30 pm<br>\n<b>Drop-in housing assistance</b> -- Thu 4:30 pm-6 pm<br><br>\n\n<b>Homework Club</b> -- Mon-Fri 3:30 pm-6 pm<br>\n<b>Seniors program</b> -- every 2nd Tue 11 am-3 pm (September to June), includes lunch",
     "phone_office": "416-929-9614",
     "phone_tollfree": "1-800-416-5111",
@@ -2356,7 +2597,14 @@
       "transportation available if needed",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Focus on individuals and families with low income",
+      "<b>Food bank</b> -- families and seniors only",
+      "Bridges Adult Program -- individuals 21-60 years, living with generational poverty",
+      "Seniors program -- 60 years and older",
+      "Residency Requirements: <b>Food bank</b> -- Bloor St E (north) to Lake Shore Blvd E (south), Yonge St (west) to Don Valley Parkway (east)",
+      "<b>other services </b> -- downtown Toronto"
+    ]
   },
   {
     "id_program": "60801478",
@@ -2372,6 +2620,7 @@
     "site_longitude": "-79.398639",
     "category": "Clothing;Community legal services;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;ID (identification);Youth Shelters",
     "desc_program": "Drop-in centre * hot meals * informal and formal counselling  * shower and laundry facilities * access to emergency clothing * referrals and advocacy * legal advice * ID clinic * other specialized programs<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Street youth 16-24 years<br /><br />Age Requirements: Ages: 16 year(s) - 24 year(s); <br /><br />Residency Requirements: Downtown Toronto",
     "hours": "Office -- Mon-Fri 9 am-5 pm * appointments only Mon-Fri 9 am-12 noon * meals and programs -- Mon-Fri 12 noon-5 pm *  Out of the Cold evening meal -- October to May (see separate entry)",
     "phone_office": "416-929-9614",
     "phone_tollfree": "",
@@ -2397,7 +2646,11 @@
       "other specialized programs",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Street youth 16-24 years",
+      "Age Requirements: Ages: 16 year(s) - 24 year(s);",
+      "Residency Requirements: Downtown Toronto"
+    ]
   },
   {
     "id_program": "60802251",
@@ -2413,6 +2666,7 @@
     "site_longitude": "-79.296377",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 25 * supper available to both those staying overnight and to members of the public",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 5, 2018 to April 22, 2019 -- Mon 3 pm-8 am",
     "phone_office": "416-691-2222",
     "phone_tollfree": "",
@@ -2427,7 +2681,9 @@
       "Capacity 25",
       "supper available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802254",
@@ -2443,6 +2699,7 @@
     "site_longitude": "-79.391543",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 80 * supper available to both those staying overnight and to members of the public * First Aid Room * information available at <a href=\"http://www.stpatrickstoronto.ca\">www.stpatrickstoronto.ca</a>",
+    "eligibilty": "Adults 18 years and older * youth under 18 years are welcome for dinner, but cannot stay overnight unaccompanied by a parent or guardian",
     "hours": "November 18, 2018 to March 31, 2019 -- Sun 4 pm-7 am * First Aid Room -- 4 pm-6 pm",
     "phone_office": "416-598-3269",
     "phone_tollfree": "",
@@ -2460,7 +2717,10 @@
       "First Aid Room",
       "information available at <a href=\"http://www.stpatrickstoronto.ca\">www.stpatrickstoronto.ca</a>"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 18 years and older",
+      "youth under 18 years are welcome for dinner, but cannot stay overnight unaccompanied by a parent or guardian"
+    ]
   },
   {
     "id_program": "60802257",
@@ -2476,6 +2736,7 @@
     "site_longitude": "-79.278633",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 25 * supper available to both those staying overnight and to members of the public -- serves 50 * limited personal care packages available",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 9, 2018 to April 12, 2019 -- Fri 6:30 pm-8 am * dinner Fri 6:30 pm-8 pm",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2492,7 +2753,9 @@
       "supper available to both those staying overnight and to members of the public -- serves 50",
       "limited personal care packages available"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802260",
@@ -2508,6 +2771,7 @@
     "site_longitude": "-79.353728",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 45 * visiting nurse * supper and breakfast available to both those staying overnight and to members of the public",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 9, 2018 to March 29, 2019 -- Fri 5 pm-8 am",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2523,7 +2787,9 @@
       "visiting nurse",
       "supper and breakfast available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802266",
@@ -2539,6 +2805,7 @@
     "site_longitude": "-79.398093",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 65 * supper and breakfast available to overnight guests and those in need",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 3, 2018 to April 6, 2019 -- Sat 6 pm-8 am * tickets distributed at 4:30 pm on first come, first served basis",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2554,7 +2821,9 @@
       "Capacity 65",
       "supper and breakfast available to overnight guests and those in need"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802269",
@@ -2570,6 +2839,7 @@
     "site_longitude": "-79.33485",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 70 * visiting nurse * supper and breakfast available to both those staying overnight and to members of the public",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 19, 2018 to April 22, 2019 -- Mon 4 pm-8 am",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2585,7 +2855,9 @@
       "visiting nurse",
       "supper and breakfast available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802272",
@@ -2601,6 +2873,7 @@
     "site_longitude": "-79.395917",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "<b>For men only</b> * capacity 15 * supper available to both those staying overnight and to members of the public",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "January 3, 2019 to March 28, 2019 -- Thu 6 pm-7:30 am",
     "phone_office": "416-977-2530",
     "phone_tollfree": "",
@@ -2616,7 +2889,9 @@
       "capacity 15",
       "supper available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802275",
@@ -2632,6 +2907,7 @@
     "site_longitude": "-79.425178",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 45 * visiting nurse * breakfast for overnight guests only, bag lunches at departure * supper available to both those staying overnight and to members of the public * TTC token * emergency clothing",
+    "eligibilty": "Adults 16 years and older",
     "hours": "November 1, 2018 to March 29, 2019 -- Thu 6:30 pm-7 am * visiting nurse -- Thu 6:30 pm-8 pm",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2651,7 +2927,9 @@
       "TTC token",
       "emergency clothing"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults 16 years and older"
+    ]
   },
   {
     "id_program": "60802278",
@@ -2667,6 +2945,7 @@
     "site_longitude": "-79.505055",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "<b>Shelter for men</b> * capacity 20 * supper available to both those staying overnight and to members of the public * art program",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "November 23, 2018 to April 5, 2019 -- Fri 6 pm-8 am * supper -- doors open 6 pm",
     "phone_office": "416-233-1125",
     "phone_tollfree": "",
@@ -2684,7 +2963,9 @@
       "supper available to both those staying overnight and to members of the public",
       "art program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802281",
@@ -2700,6 +2981,7 @@
     "site_longitude": "-79.548921",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "<b>Shelter for men</b> * capacity 27 * breakfast available to men staying overnight only * supper available to both those staying overnight and to members of the public",
+    "eligibilty": "Men only<br /><br />Residency Requirements: City of Toronto",
     "hours": "November 18, 2018 to March 31, 2019 -- Sun 5 pm-8 am",
     "phone_office": "416-231-4014",
     "phone_tollfree": "",
@@ -2716,7 +2998,10 @@
       "breakfast available to men staying overnight only",
       "supper available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Men only",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802284",
@@ -2732,6 +3017,7 @@
     "site_longitude": "-79.437731",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 60 * supper and breakfast available to both those staying overnight and to members of the public",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "January 1, 2019 to March 19, 2019 -- Tue 5:15 pm-7 am",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2746,7 +3032,9 @@
       "Capacity 60",
       "supper and breakfast available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802287",
@@ -2762,6 +3050,7 @@
     "site_longitude": "-79.453551",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Capacity 30 * supper and breakfast available to both those staying overnight and to members of the public * visit <a href=\"http://www.beby.org/ootc.html\">website</a> for details",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "January 7, 2019 to February 25, 2019 -- Mon 6 pm-7 am",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2777,7 +3066,9 @@
       "supper and breakfast available to both those staying overnight and to members of the public",
       "visit <a href=\"http://www.beby.org/ootc.html\">website</a> for details"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802290",
@@ -2793,6 +3084,7 @@
     "site_longitude": "-79.504698",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "<b>Hostel for men</b> * capacity 25 * supper and breakfast available to both those staying overnight and to members of the public",
+    "eligibilty": "Men only<br /><br />Residency Requirements: City of Toronto",
     "hours": "November 19, 2018 to April 15, 2019 -- Mon 2 pm-8 am",
     "phone_office": "416-259-2659",
     "phone_tollfree": "",
@@ -2808,7 +3100,10 @@
       "capacity 25",
       "supper and breakfast available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Men only",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802296",
@@ -2824,6 +3119,7 @@
     "site_longitude": "-79.427334",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Shelter -- capacity 60 * visiting nurse * foot care * clothing * bag lunches * recreation * supper available to both those staying overnight and to members of the public",
+    "eligibilty": "Women, men and couples 21 years and older",
     "hours": "November 1, 2018 to March 28, 2019 -- Thu 4 pm-8 am * tickets distributed at 4 pm on first come, first served basis",
     "phone_office": "",
     "phone_tollfree": "",
@@ -2844,7 +3140,9 @@
       "recreation",
       "supper available to both those staying overnight and to members of the public"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Women, men and couples 21 years and older"
+    ]
   },
   {
     "id_program": "60802350",
@@ -2860,6 +3158,7 @@
     "site_longitude": "-79.427334",
     "category": "Children's Programs;Clothing;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Legal information",
     "desc_program": "Drop-in * breakfast, lunch * clothing * social and recreational programs * life skills * community and health information * peer advocates provide help with social assistance, housing and legal issues <br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Open to all, including homeless and socially isolated persons<br /><br />Residency Requirements: Toronto west of Yonge St",
     "hours": "<b>Summer Hours (Apr-Oct):</b> Mon, Wed, Fri 9 am-3 pm * <b>Winter Hours (Nov-Mar)</b>: Mon, Wed, Fri 8:30 am-3 pm <br><br>\n<b>Meals:</b> Cold Breakfast 9 am * Hot Breakfast 10 am * Hot Soup 12:30 pm * Hot Lunch 1 pm",
     "phone_office": "647-352-3513",
     "phone_tollfree": "",
@@ -2885,7 +3184,10 @@
       "peer advocates provide help with social assistance, housing and legal issues",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all, including homeless and socially isolated persons",
+      "Residency Requirements: Toronto west of Yonge St"
+    ]
   },
   {
     "id_program": "60802501",
@@ -2901,6 +3203,7 @@
     "site_longitude": "-79.433247",
     "category": "Addiction Supports;Clothing;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Volunteer Opportunities",
     "desc_program": "Morning drop-in * free coffee and lunch * social and recreation programs * access to phone, clothing * harm reduction program * advocacy and referrals to medical, legal, housing and social services * volunteer opportunities",
+    "eligibilty": "Women 18 years and older who are homeless, socially isolated, or who have low incomes<br /><br />Age Requirements: Ages: 18 year(s) and up; <br /><br />Residency Requirements: Parkdale area -- Bloor St W (north) to Springhurst Ave (south), Roncesvalles Ave (west) to Shaw St (east)",
     "hours": "Mon-Fri 9 am-1 pm",
     "phone_office": "416-588-3939",
     "phone_tollfree": "",
@@ -2920,7 +3223,11 @@
       "advocacy and referrals to medical, legal, housing and social services",
       "volunteer opportunities"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Women 18 years and older who are homeless, socially isolated, or who have low incomes",
+      "Age Requirements: Ages: 18 year(s) and up;",
+      "Residency Requirements: Parkdale area -- Bloor St W (north) to Springhurst Ave (south), Roncesvalles Ave (west) to Shaw St (east)"
+    ]
   },
   {
     "id_program": "60802504",
@@ -2936,6 +3243,7 @@
     "site_longitude": "-79.428873",
     "category": "Addiction Supports;Clothing;Community Health Centres;Computer access;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;Personal care/health care;Transportation;Volunteer Opportunities",
     "desc_program": "<b>Drop-In and Services</b> --  free coffee and daily meals * Sisters Kitchen * showers, laundry facilities * clothing and footwear * access to phone, internet and mailing address * pet friendly <br><br>\n\n<b>Support services</b> -- individual counselling * support groups * information and referral * advocacy, referrals and accompaniment to legal, housing, employment, education, emergency and social services * harm reduction support and supplies * income and education support * support groups including for older Cantonese, Mandarin and Spanish-speaking women * access to settlement worker <br><br>\n\n<b>Housing support</b> -- assistance applying for subsidized or market-rent housing * Housing Connections (see separate entry) Community Partner <br><br>\n\n<b>Health and wellness programs</b> -- trauma informed counselling * nurse * medical clinic * dental referral in partnership with Queen West Community Health Centre at the University of Toronto Dental Clinic * accompaniment to medical appointment <br><br>\n\nSocial and recreation activities * volunteer opportunities * speakers <br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Women 16 years and older who are homeless, socially isolated, or who have low incomes<br /><br />Age Requirements: Ages: 16 year(s) and up;",
     "hours": "Drop in-- Mon-Sun 24 hours * Meals -- breakfast, 9:30 am, lunch 12 noon, supper 8:30 pm",
     "phone_office": "416-926-1946",
     "phone_tollfree": "",
@@ -2974,7 +3282,10 @@
       "speakers",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Women 16 years and older who are homeless, socially isolated, or who have low incomes",
+      "Age Requirements: Ages: 16 year(s) and up;"
+    ]
   },
   {
     "id_program": "60802513",
@@ -2990,6 +3301,7 @@
     "site_longitude": "-79.3998",
     "category": "Clothing;Community information;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Support groups;Transitional Housing",
     "desc_program": "Information and referral * general social support <br><br>\n\n<b>Drop in and 24-Hour Respite Site</b> -- extended respite drop-in program * capacity 50 * breakfast, lunch, supper and snack * access to showers, printer, fax and computer * clothing bank * Companions on the Journey (peer support group -- Thu 11 am-12 noon * Art therapy group -- Tue 1 pm-4 pm * pets friendly<br><br>\n\n<b>Housing and casework support services</b> -- support through important appointment, access to mental health and addictions supports, obtaining ID, access government financial supports<br><br>\n\n<b>Transitional Housing for women</b> -- maximum stay 1 year * capacity 14 * One stop program -- residents share in care of house * residents create and implement a transition plan to independent living <br><br>\n\n<b>P.A.W.S. program</b> -- access to veterinary services including neutering, vaccinations and prescription medications",
+    "eligibilty": "Individuals and families facing poverty, homelessness or lack of opportunities and skills<br /><br />Residency Requirements: Dundas St (north) to Queen St (south), Bathurst St (west) to Spadina Ave (east)",
     "hours": "Office -- Mon-Fri 9 am-4:30 pm<br>\n<b>Community meals program</b> -- breakfast Mon-Sun 7 am-8 am, lunch Mon-Sun 11:30 am-1 pm, supper Mon-Sun 5 pm-6:30 pm<br>\n<b>Clothing bank</b> -- Mon, Wed, Fri 11 am-1 pm; Tue, Thu 1 pm-3 pm<br>\n<b>Drop in and 24-Hour Respite Site</b> -- Mon-Sun 24 hours",
     "phone_office": "416-203-1624 ; Central Intake 416-338-4766",
     "phone_tollfree": "",
@@ -3021,7 +3333,10 @@
       "residents create and implement a transition plan to independent living",
       "<b>P.A.W.S. program</b> -- access to veterinary services including neutering, vaccinations and prescription medications"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals and families facing poverty, homelessness or lack of opportunities and skills",
+      "Residency Requirements: Dundas St (north) to Queen St (south), Bathurst St (west) to Spadina Ave (east)"
+    ]
   },
   {
     "id_program": "60802824",
@@ -3037,6 +3352,7 @@
     "site_longitude": "-79.403963",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals",
     "desc_program": "Meal programs",
+    "eligibilty": "Residency Requirements: City of Toronto",
     "hours": "<b>Saturday and Sunday breakfast</b> -- throughout the year, Saturday 7:30 am-9 am, Sunday 6:30 am-8 am",
     "phone_office": "416-921-6350",
     "phone_tollfree": "",
@@ -3050,7 +3366,9 @@
     "ampl_program_details": [
       "Meal programs"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802865",
@@ -3066,6 +3384,7 @@
     "site_longitude": "-79.467153",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Street outreach",
     "desc_program": "<b>Mobile Jewish Response to Homelessness (MJRH)</b> -- nutritious meals, clothing, sleeping bags, hygiene and essential supplies to homeless persons <br><br>\n\n<b>Ve'ahavta Street Academy (VSA)</b> -- an 8-month essential life skills program including classroom workshops, vocational assessments and case management sessions <br><br>\n\n<b>Building Foundations for Women (BFW)</b> -- an 8-month life skills and personal development learning program * supports women experiencing poverty and other life challenges to build stable and active lives and move toward their employment and education goals <br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Toronto residents who have experienced poverty, marginalization or homelessness<br /><br />Age Requirements: Ages: 16 year(s) and up; <br /><br />Residency Requirements: City of Toronto",
     "hours": "Office -- Mon-Thu 9 am-5 pm, Fri 9 am-3:30 pm * Street Outreach -- Mon-Thu, Sat 6 pm-12 midnight, Sun 12 am noon-6 pm",
     "phone_office": "416-964-7698",
     "phone_tollfree": "1-877-582-5472",
@@ -3084,7 +3403,11 @@
       "supports women experiencing poverty and other life challenges to build stable and active lives and move toward their employment and education goals",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Toronto residents who have experienced poverty, marginalization or homelessness",
+      "Age Requirements: Ages: 16 year(s) and up;",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60802962",
@@ -3100,6 +3423,7 @@
     "site_longitude": "-79.520101",
     "category": "Addiction Supports;Clothing;Community Health Centres;Free / Low Cost Meals;Free / Low-cost meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;Street outreach",
     "desc_program": "Drop-in * hot meals * clothing, personal hygiene items * shower and laundry facilities  * information and referral * harm reduction including needle exchange * visiting nurse * sexual health worker * sex trade workers support group * housing help * form filling * outreach<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: Hwy 401 (north) to Eglinton Ave W (south), Scarlett Rd (west) to Jane St (east)",
     "hours": "Drop-in -- Mon, Fri-Sat 8 am-3 pm, Tue (for seniors) 8 am-7 pm, Wed (for men) 8 am-3 pm, Thu (for women) 8 am-3 pm <br><br>\n\nBreakfast -- Mon-Sat 9:30 am * Lunch -- Mon, Thu-Sat 12:30 pm * Supper -- Tue 6 pm call first",
     "phone_office": "416-241-9898",
     "phone_tollfree": "",
@@ -3128,7 +3452,10 @@
       "outreach",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: Hwy 401 (north) to Eglinton Ave W (south), Scarlett Rd (west) to Jane St (east)"
+    ]
   },
   {
     "id_program": "60930029",
@@ -3144,6 +3471,7 @@
     "site_longitude": "-79.381005",
     "category": "Addiction Supports;Counselling / Therapy;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Individual / Community Supports;LGBTQ+;Support Groups;Tax Services;Transgender Supports",
     "desc_program": "<b>Community meals</b> -- Sundays drop-in, meal trans programs  <br><br>\n\n<b>Community Support</b> -- trauma informed counselling services -- provides access to professionally trained and supervised volunteer counsellors * by appointment 416-392-4878 ext 4000 * Crystal Meth Anonymous * Sex and Love Addicts Anonymous (SLA) * <b>Wills clinic</b> -- legal services to draft wills, power of attorney and reported letters for Pro Bono lawyers * by appointment call 416-392-6878 ext 4001 * income tax clinic (March-April) <br><br>\n\n<b>Community-led -- Hassle Free Clinic</b> -- (see separate entry) <br><br>\n\n<b>Education and Training</b> -- customized training to help organizations create a LGBTQ inclusive environment * English as a second language (ESL) classes <br><br>\n\n<b>Older 2SLGBTQ drop-in</b> -- information, referrals, book clubs, service provides training and arts based programs for people 50 years and older * the Youth/Elders project * Older 2SLGBTQ Resource Centre",
+    "eligibilty": "Open to all",
     "hours": "Office -- Mon-Fri 8:30 am-10 pm, Sat 9 am-5 pm, Sun 10 am-5 pm * <b>Sundays drop-in</b> -- 10:30 am-1 pm * <b>Meal Trans</b> -- Mon 6 pm-9 pm (on Wednesdays after a long week-end) * <b>Older 2SLGBTQ Drop-In</b> – first Monday of the month 6 pm-8 pm, second, third, fourth Mondays 1 pm-4 pm",
     "phone_office": "416-392-6874",
     "phone_tollfree": "",
@@ -3173,7 +3501,9 @@
       "the Youth/Elders project",
       "Older 2SLGBTQ Resource Centre"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all"
+    ]
   },
   {
     "id_program": "60930043",
@@ -3189,6 +3519,7 @@
     "site_longitude": "-79.280922",
     "category": "Access and coordination of services;Addiction counselling;Addiction Supports;Assessment;Community Health Centres;Community legal services;Computer access;Counselling / Therapy;English as a second language;Family Support Centres;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Household Goods Donations;Housing Search Assistance ;Mental health;Parent / Child programs;Street outreach;Tax Services;Therapy and Counselling",
     "desc_program": "Commissioner of Oaths * community access services * community engagement projects * harm reduction approach * homeless drop-in and services * Ontario Early Years Centre * school supply drive * seniors programs <br><br>\n\n<b>Community Access Services</b> -- computer training * income tax clinic * internet access, fax, photocopier * Metro Voice Mail -- persons without telephones receive private phone number to retrieve messages from any touch-tone phone <br><br>\n\n<b>Addictions Support Worker</b> -- individual and community support or information about opiate use and addiction * counselling and case management<br><br>\n\n<b>Housing Help Worker</b> -- assists people to find affordable housing, applying for subsidized housing * Landlord Recruitment Specialist 416-321-6912 ext 247<br><br>\n\n<b>Financial Empowerment and Problem-Solving (FEPS) program</b> -- financial literacy workshops, income tax clinic, budgeting, mobile community financial worker <br><br>\n\n<b>Medical Clinic</b> -- biweekly for people who are homeless, street involved or marginally housed * not primary care * call 416-321-6912 ext 232 for appointment<br><br>\n\n<b>Massage Parlour and Micro-Brothel Outreach</b> -- for clients involved in sex work in massage parlours and micro-brothels in Scarborough * distribution of safer sex tools, community referrals and informal case management * access to sexual health testing appointments<br><br>\n\n<b>Homeless Drop-In and Services</b> -- breakfast, snacks and hot lunch * access to computer * foot care nurse biweekly * shower facilities * locker storage (up to 3 months) * information and referral * individual support and counselling * Street Outreach 416-684-6350 --  housing help for homeless individuals through Streets to Homes Program * Harm Reduction Supplies and Service (mobile and fixed site) -- including clean needles, crack pipes, condoms * counselling <br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Age Requirements: Ages: 18 year(s) and up; <br /><br />Residency Requirements: Steeles Ave E (north) to Lawrence Ave E (south), Victoria Park Ave (west) to Markham Rd (east) * Street Outreach and Harm Reduction Drop-In -- entire Scarborough area and parts of North York",
     "hours": "Mon-Fri 9 am-5 pm * <b>Street Outreach</b> -- Mon-Sat 9 am-4 pm * <b>Harm Reduction</b> -- Mon-Fri 9 am-5 pm * <b>Homeless Drop-in</b> -- Tue-Sat 9 am-4 pm",
     "phone_office": "416-321-6912",
     "phone_tollfree": "",
@@ -3238,7 +3569,11 @@
       "counselling",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Age Requirements: Ages: 18 year(s) and up;",
+      "Residency Requirements: Steeles Ave E (north) to Lawrence Ave E (south), Victoria Park Ave (west) to Markham Rd (east)",
+      "Street Outreach and Harm Reduction Drop-In -- entire Scarborough area and parts of North York"
+    ]
   },
   {
     "id_program": "60930046",
@@ -3254,6 +3589,7 @@
     "site_longitude": "-79.219681",
     "category": "Emergency Assistance;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Housing Payment Assistance;Housing Search Assistance ;Test - Food Banks",
     "desc_program": "<b>Food programs</b> * food bank * meal program -- breakfast, hot lunch, snacks * dinner (Wednesday only) <br><br>\n\n<b>Health programs</b> * foot care and general nurse * harm reduction supplies <br><br>\n\n<b>Housing programs</b> * housing assistance * laundry * rent bank <br><br>\n\nMember of Daily Bread Food Bank <br>\nMember Agency of Toronto Drop-In Network (TDIN)",
+    "eligibilty": "Clients must register in advance<br /><br />Age Requirements: Ages: 18 year(s) and up; <br /><br />Residency Requirements: Eglinton Ave E (north) to Lake Ontario (south), Midland Ave (west) to Markham Rd (east)",
     "hours": "Sun-Mon 9 am-3 pm, Wed 1 pm-7 pm, Thu 9 am-3 pm * <b>Food bank</b> -- Tue 10 am- 2 pm",
     "phone_office": "416-267-0115",
     "phone_tollfree": "",
@@ -3280,7 +3616,11 @@
       "Member of Daily Bread Food Bank",
       "Member Agency of Toronto Drop-In Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Clients must register in advance",
+      "Age Requirements: Ages: 18 year(s) and up;",
+      "Residency Requirements: Eglinton Ave E (north) to Lake Ontario (south), Midland Ave (west) to Markham Rd (east)"
+    ]
   },
   {
     "id_program": "60930061",
@@ -3296,6 +3636,7 @@
     "site_longitude": "-79.384047",
     "category": "Disability associations;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Job Search Assistance;Job search support / training;Recreation and leisure;Support groups;Tax Services;Therapy and Counselling;Volunteer Opportunities",
     "desc_program": "Support services including anonymous, confidential counselling for individuals, couples, and partners of individuals with HIV * referrals, buddy program, support groups, health and wellness programs * insurance benefits clinic * income tax clinic * weekly hot lunch programs -- registration required * workshops, community forums and social support events<br><br>\n\n<b>HIV Prevention Education and Outreach</b> -- information on HIV/STIs (sexually transmitted infections), safer sex and safer drug use * outreach to at-risk youth, and gay and bisexual men * free condoms and lubricant * discussion groups, workshops * service provider training<br><br>\n\n<b>Employment ACTion, www.employmentaction.org</b> -- for persons with HIV considering entering or re-entering the work force * career assessments * skills development * self-employment development * job placement * information sessions<br><br>\n\n<b>Positive Youth Outreach</b> -- peer-based support and education for youth 16-29 years living with HIV * social support * volunteer opportunities * outreach to at-risk youth<br><br>\n\n<b>Gay Men's Programs</b>:<br>\n<b>Community Counselling Program</b> -- counsellors available on site at ACT, bath houses, Maple Leaf Medical Clinic and Church Wellesley Health Centre * confidential mental health counselling for gay and bisexual men, and men who have sex with men (MSM) * <b>Gay Men's HIV Prevention Education and Outreach</b> * <b>Gay Men's Online Outreach</b><br><br>\n\n<b>Women's Programs</b>:<br>\n<b>WomenZone</b> -- social spaces and learning support for women with HIV * <b>Women's Coffee Night</b> -- informal social support for women with HIV<br><br>\n\nSome programs and services in collaboration with other community agencies",
+    "eligibilty": "Support and employment services -- individuals 16 years and older, who are living with HIV/AIDS * education and outreach programs -- focus on gay men, women and youth at risk for HIV * programs may vary<br /><br />Age Requirements: Ages: 16 year(s) and up; <br /><br />Residency Requirements: City of Toronto",
     "hours": "Mon-Thu 10 am-9 pm, Fri 10 am-5 pm * closed weekends and statutory holidays",
     "phone_office": "416-340-2437",
     "phone_tollfree": "",
@@ -3339,7 +3680,13 @@
       "<b>Women's Coffee Night</b> -- informal social support for women with HIV",
       "Some programs and services in collaboration with other community agencies"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Support and employment services -- individuals 16 years and older, who are living with HIV/AIDS",
+      "education and outreach programs -- focus on gay men, women and youth at risk for HIV",
+      "programs may vary",
+      "Age Requirements: Ages: 16 year(s) and up;",
+      "Residency Requirements: City of Toronto"
+    ]
   },
   {
     "id_program": "60930102",
@@ -3355,6 +3702,7 @@
     "site_longitude": "-79.447214",
     "category": "Access and coordination of services;Assessment;Counselling / Therapy;Crisis intervention and prevention;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Geriatric psychiatry;Home delivered meals;In-Person Crisis Intervention;In-person crisis services;Mental health;Personal care/health care;Respite;Seniors Centres;Social Activities;Volunteer Opportunities",
     "desc_program": "<b>Community support and outreach</b> -- friendly phone and in-person visiting, service navigation, social work clinics * <b>Safe Option Program</b> -- case management and crisis intervention for seniors experiencing abuse<br><br>\n\n<b>Food Services and Kosher meals on wheel</b> -- volunteers deliver complete meals, cold for regular days and frozen for long weekends * Café Europa <br><br>\n\n<b>Health Promotion and Wellness</b> -- health screening clinics, fitness and dance classes, weekly wellness lectures, nutritious programs, support groups * chiropody clinic<br><br>\n\n<b>Recreation and Education</b> -- lifelong learning lectures, arts and crafts, library, concerts, music programs, games, literary arts, discussion groups <br><br>\n\n<b>ETROG Hebrew program</b> -- weekly programs in Hebrew <br>\n<b>Russian golden age cultural program</b> <br><br>\n\n<b>Computer and Digital Media</b> -- programs for all levels including courses on social media, microsoft office",
+    "eligibilty": "Seniors 55 years and older<br /><br />Residency Requirements: Steeles Ave W (north) to Wilson Ave (south), Dufferin St (west) to Don Mills Rd (east) * friendly visiting -- Hwy 7 (north) to Eglinton Ave W (south), Dufferin St (west) to Yonge St (east) * <b>Meals on wheel</b> -- Steeles Ave (north) to Wilson Ave (south), Dufferin St (west) to Yonge St (east)",
     "hours": "Mon-Tue 8:30 am-4:30 pm, Wed 8:30-7 pm, Thu 8:30 am-9 pm, Fri 8:30 am-4 pm, Sun 8:30 am-4 pm",
     "phone_office": "416-225-2112",
     "phone_tollfree": "",
@@ -3377,7 +3725,12 @@
       "<b>Russian golden age cultural program</b>",
       "<b>Computer and Digital Media</b> -- programs for all levels including courses on social media, microsoft office"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Seniors 55 years and older",
+      "Residency Requirements: Steeles Ave W (north) to Wilson Ave (south), Dufferin St (west) to Don Mills Rd (east)",
+      "friendly visiting -- Hwy 7 (north) to Eglinton Ave W (south), Dufferin St (west) to Yonge St (east)",
+      "<b>Meals on wheel</b> -- Steeles Ave (north) to Wilson Ave (south), Dufferin St (west) to Yonge St (east)"
+    ]
   },
   {
     "id_program": "60930409",
@@ -3393,6 +3746,7 @@
     "site_longitude": "",
     "category": "Addiction counselling;Addiction Supports;Assessment;Camps;Child Care;Community Health Centres;Counselling / Therapy;Crisis intervention and prevention;Family Support Centres;Find a Health Professional;Find a Mental Health Professional;Free / Low Cost Meals;Free / Low-cost meals;Hospice / palliative care;In-Person Crisis Intervention;In-person crisis services;Mental health;Parent / Child programs;Parent Education;Personal care/health care;Refugees;Settlement services;Specialized Therapy / Rehabilitation;Street outreach;Therapy and Counselling;Therapy and Counselling for Children and Youth;Volunteer Opportunities;Youth Mental Health",
     "desc_program": "<b>Adult Services</b> -- for adults who may be isolated, marginalized, new to Canada, non-status, have experienced addiction issues, the psychiatric system, and/or are at risk of eviction * drop in <br><br>\n\n<b>Child and Youth Programs</b> -- for children 6-12 years * summer and March break day camps * after school recreation programs and field trips * homework club * for youth 11-24 years * social, recreation, education and arts activities * leadership training * life skills<br><br>\n\n<b>Community Dining</b> -- nutritious meals * nominal cost * access to community services * Monday and Wednesday supper (November-April)</b><br><br>\n\n<b>Community Health Centre 416-658-6812</b> -- call for appointment * individual and family medical and nursing services * palliative care * psychiatric services * counsellor therapists * mental health and addictions counsellor therapist * community dietitian * physiotherapist * doctor on call Monday-Sunday 24 hours * house calls when appropriate * health education and promotion * outreach to isolated persons * community action on identified community health issues * no Ontario Health Insurance required for general services -- some limitations apply<br><br>\n\n<b>Crisis Support and Intervention</b> -- Monday-Friday * call for an appointment<br><br>\n\n<b>EarlyON Child and Family Centre -- Davenport</b>, early learning and literacy * prenatal pregnancy supports * infant programs * parenting * parent relief * child minder training * school readiness * information and referral * Growing Up Healthy Downtown (see separate entry) -- for children birth-6 years<br><br>\n\n<b>Peer Street Outreach</b> -- Tuesday 3 pm-7 pm, Wednesday 11 am-3 pm * support * harm reduction supplies and information<br><br>\n\n<b>Seniors Services</b> -- 55 years and older * health education * advocacy * social, education and recreation activities * Italian  women's group * Spanish wellness group * arts, falls prevention, fitness, trips/outings<br><br>\n\n<b>Settlement Program</b> -- counselling and settlement services for status and non-status newcomers * workshops <br><br>\n\n<b>EdgeWest Youth Clinic</b> -- 416 652-4363 * positive health care * mental health support and referrals * sex-positive health information and services * birth control * STI testing <br><br>\n\nVolunteer opportunities",
+    "eligibilty": "Varies per program<br /><br />Residency Requirements: <b>Medical and community services</b> -- Lavender Rd, Rogers Rd, Rosecliffe Av, St Clair Av W (north) to Bloor St W (south), CN/CP tracks (west) to Bathurst St, Westmount Av (north of St Clair) (east) <br>\n<b>EdgeWest Youth Clinic </b> -- Eglinton (north), Bloor (South),  Islington (west), Bathurst (east)",
     "hours": "<b>Community services</b> -- Mon-Thu 9 am-9 pm, Fri 9 am-5 pm <br> \n<b>Community dining</b> -- throughout the year: supper Mon, Wed 4:30 pm-6 pm <br>\n<b>Drop in</b> -- Wed 1 pm-3 pm<br>\n<b>Medical services</b> -- Mon-Wed 9 am-8 pm, Thu 1 pm-5 pm, Fri 9 am-5 pm <br>\n<b>EdgeWest Youth Clinic</b> -- Mon, Wed 4 pm-8 pm, Sat 10 am-2 pm",
     "phone_office": "416-656-8025",
     "phone_tollfree": "",
@@ -3467,7 +3821,11 @@
       "STI testing",
       "Volunteer opportunities"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Varies per program",
+      "Residency Requirements: <b>Medical and community services</b> -- Lavender Rd, Rogers Rd, Rosecliffe Av, St Clair Av W (north) to Bloor St W (south), CN/CP tracks (west) to Bathurst St, Westmount Av (north of St Clair) (east)",
+      "<b>EdgeWest Youth Clinic </b> -- Eglinton (north), Bloor (South),  Islington (west), Bathurst (east)"
+    ]
   },
   {
     "id_program": "60930424",
@@ -3483,6 +3841,7 @@
     "site_longitude": "-79.358903",
     "category": "Camps;Children's Programs;Computer access;Counselling / Therapy;English as a second language;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;ID (identification);In-Home Supports;Personal care/health care;Refugees;Settlement services;Tax Services;Therapy and Counselling for Children and Youth;Transportation;Transportation to medical appointments;Youth Mental Health",
     "desc_program": "Social, recreation and education programs for low income residents of all ages * summer day camp * Growing Up Healthy Downtown (see separate entry) -- for children birth-6 years * English as a Second Language (ESL) classes * drop-in Monday-Friday 8:30 am-12 noon * breakfast program  Friday 9 am * assistance with budgeting, identification, government forms Monday-Friday 1 pm-4 pm * income tax clinic February-April * East Toronto Internet Access (ETIA) -- low-cost Internet access and training including email, for people who are homeless or who have low incomes * community development * youth health promotion worker<br><br>\n\n<b><a href=\" http://dixonhall.org/musicschool\" target=\"_blank\">Dixon Hall Music School</a></b> -- individual or group lessons * fees on a sliding scale <br><br> \n\n<b>Seniors</b> -- social, recreation and fitness programs * health education * home support services -- home help, van shopping, list shopping -- fee * escort to medical appointments, friendly visiting, telephone security check, client intervention and assistance -- free * Mandarin Outreach -- including settlement and newcomer services, social and cultural events, support groups and workshops<br><br>\n\n<b>Supportive Housing Programs for Seniors</b> -- includes personal care, essential homemaking, emergency response, and care coordination * 4 participating buildings -- Old York Tower, Performing Arts Lodge of Canada, Older Women's Network Co-op, New Hibret Co-op<br><br>\n\n<b>High Risk Youth Project</b> -- one-on-one peer counselling * social, recreational, and educational activities<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: Gerrard St E (north) to Lake Ontario (south), Sherbourne St (west) to River St (east) * may expand on a program-by-program basis",
     "hours": "Mon-Thu 8:30 am-8 pm, Fri 8:30 am-4:30 pm",
     "phone_office": "416-863-0499",
     "phone_tollfree": "",
@@ -3518,7 +3877,11 @@
       "social, recreational, and educational activities",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: Gerrard St E (north) to Lake Ontario (south), Sherbourne St (west) to River St (east)",
+      "may expand on a program-by-program basis"
+    ]
   },
   {
     "id_program": "60930427",
@@ -3534,6 +3897,7 @@
     "site_longitude": "-79.371327",
     "category": "Access and coordination of services;Assessment;Counselling / Therapy;Disability associations;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Geriatric psychiatry;Home delivered meals;Housing Search Assistance ;Personal care/health care;Therapy and Counselling;Transportation;Transportation / Parking Permits;Transportation for older adults;Transportation for people with disabilities",
     "desc_program": "Community support services -- meals on wheels Monday-Sunday * frozen meals, Chinese, vegetarian meals, special diets * Food for Life -- meals on wheels for persons living with HIV/AIDS (partnership with Toronto People with AIDS Foundation) * Meet and Eat -- congregate dining program for persons living with HIV/AIDS (partnership with AIDS Committee of Toronto) * critical housing support * transportation to doctor visits and other appointments (social, recreational), member of Toronto Ride * telephone security check<br><br> \nHousing Connections (see separate entry) Community Partner -- assistance with housing search and application process \n<br><br>\nCase Management Program -- client intervention and assistance, counselling, assistance in filling out forms, accompaniment, referrals * also available in Korean",
+    "eligibilty": "Seniors * adults living with disability or chronic illness<br /><br />Residency Requirements: CPR tracks (north) to Lake Ontario (south), Yonge St (west) to Don Valley Pkwy (east)",
     "hours": "Mon-Fri 8:30 am-4:30 pm * meals on wheels also -- Sat-Sun 10 am-2 pm",
     "phone_office": "416-863-0499",
     "phone_tollfree": "",
@@ -3557,7 +3921,11 @@
       "Case Management Program -- client intervention and assistance, counselling, assistance in filling out forms, accompaniment, referrals",
       "also available in Korean"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Seniors",
+      "adults living with disability or chronic illness",
+      "Residency Requirements: CPR tracks (north) to Lake Ontario (south), Yonge St (west) to Don Valley Pkwy (east)"
+    ]
   },
   {
     "id_program": "60930536",
@@ -3573,6 +3941,7 @@
     "site_longitude": "-79.530007",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Seniors Centres;Social Activities;Tax Services",
     "desc_program": "Social and recreational programs * day trips * income tax clinic * foot clinic * computer classes * community lunch",
+    "eligibilty": "Individuals * must be physically and mentally able to function independently while at the Centre<br /><br />Age Requirements: Ages: 55 year(s) and up; <br /><br />Residency Requirements: Etobicoke",
     "hours": "Mon-Fri 9 am-4 pm",
     "phone_office": "416-231-3431",
     "phone_tollfree": "",
@@ -3591,7 +3960,12 @@
       "computer classes",
       "community lunch"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Individuals",
+      "must be physically and mentally able to function independently while at the Centre",
+      "Age Requirements: Ages: 55 year(s) and up;",
+      "Residency Requirements: Etobicoke"
+    ]
   },
   {
     "id_program": "60930547",
@@ -3607,6 +3981,7 @@
     "site_longitude": "-79.468411",
     "category": "Addiction Supports;Clothing;Computer access;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Social Assistance;Tax Services",
     "desc_program": "Community drop-in program * advice on eviction, immigration, social assistance appeals * income tax clinic * free breakfast weekdays and lunch Monday to Sunday and holidays * Wednesday movie and dinner * Monday women's group, Tuesday men's group, each 3:30 pm-7 pm * clothing * condoms, needle exchange * health information and referral * access to computer, telephone * workshops<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Adults, especially those experiencing homelessness, addiction or mental health issues<br /><br />Residency Requirements: Eglinton Ave W (north) to St Clair Ave W (south), Scarlett Rd (west) to Weston Rd (east)",
     "hours": "Drop-in -- Mon-Fri 9 am-3 pm, Sat-Sun 9 am-3 pm, holidays 11 am-4 pm * breakfast -- Mon-Fri 9 am-10 am, Sat-Sun 10 am-11 am * lunch -- Sat-Sun 11 am-12 noon * dinner -- Wed 5:30 pm",
     "phone_office": "416-766-4634",
     "phone_tollfree": "",
@@ -3634,7 +4009,10 @@
       "workshops",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults, especially those experiencing homelessness, addiction or mental health issues",
+      "Residency Requirements: Eglinton Ave W (north) to St Clair Ave W (south), Scarlett Rd (west) to Weston Rd (east)"
+    ]
   },
   {
     "id_program": "60930915",
@@ -3650,6 +4028,7 @@
     "site_longitude": "-79.417461",
     "category": "Assessment;Community legal services;Free / Low Cost Meals;Free / Low-cost meals;Hearing impairment;Seniors Centres;Social Activities;Tax Services;Volunteer Opportunities",
     "desc_program": "Recreation * fitness centre and personal training * education * social and cultural programs * workshops * special events * lunchroom * library * esthetics clinic * day and overnight trips * financial counselling * foot care * hearing aid clinic * legal advice * computer classes * naturopathic clinic * dietitian clinic * income tax clinic * volunteer opportunities",
+    "eligibilty": "Age Requirements: Ages: 55 year(s) and up;",
     "hours": "Mon 9 am-5 pm, Tue-Thu 9 am-9 pm, Fri 9 am-5 pm, Sat-Sun 10 am-4 pm",
     "phone_office": "416-733-4111",
     "phone_tollfree": "",
@@ -3681,7 +4060,9 @@
       "income tax clinic",
       "volunteer opportunities"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Age Requirements: Ages: 55 year(s) and up;"
+    ]
   },
   {
     "id_program": "60931805",
@@ -3697,6 +4078,7 @@
     "site_longitude": "-79.487875",
     "category": "Clothing;Counselling / Therapy;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks;Volunteer Opportunities",
     "desc_program": "Emergency material assistance including food, clothing as available * counselling * bread program * community lunch * support groups * men only groups * women's and mother and child programs * Youth Arts program <br><br>\n\n<b>Christmas assistance program</b> (toys only) -- proof of ID for every household member, income and rent/lease agreement * volunteer opportunities",
+    "eligibilty": "Open to all in catchment area<br /><br />Residency Requirements: Food bank -- postal codes beginning with M6A, M6B, M6L, M6M, M6N, M9A, M9N and M9P",
     "hours": "<b>Food Bank</b> -- Mon 12:30 pm-3 pm ; Tue 9:30 am-12 noon ; Thu 9:30 am-12 noon * <b>community lunch</b> -- Mon 12 noon-1:30 pm * <b>bread program</b> -- Thu 9:30 am-10:30 am",
     "phone_office": "Food bank --416-766-1361 ext 1",
     "phone_tollfree": "",
@@ -3721,7 +4103,10 @@
       "<b>Christmas assistance program</b> (toys only) -- proof of ID for every household member, income and rent/lease agreement",
       "volunteer opportunities"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all in catchment area",
+      "Residency Requirements: Food bank -- postal codes beginning with M6A, M6B, M6L, M6M, M6N, M9A, M9N and M9P"
+    ]
   },
   {
     "id_program": "60931817",
@@ -3737,6 +4122,7 @@
     "site_longitude": "-79.429443",
     "category": "Camps;Crisis intervention and prevention;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;In-Person Crisis Intervention;In-person crisis services;Mental health;Test - Food Banks",
     "desc_program": "Emergency material assistance including food, household effects as available * crisis intervention * Saturday supper 4 pm-8 pm * Christmas assistance program -- proof of ID for every household member, income and rent/lease agreement * residential summer camp for children",
+    "eligibilty": "Open to all in catchment area<br /><br />Residency Requirements: Dupont St/St Clair Ave W (north) to Lake Ontario (south), Runnymede Rd (west) to Bathurst St (east)",
     "hours": "Tue-Thu 9 am-12 noon, 1 pm-4 pm; Fri 9 am-12 noon * food bank -- Wed-Thu 9:30 am-3 pm by appointment",
     "phone_office": "416-532-4511 ; Food Bank ext 100",
     "phone_tollfree": "",
@@ -3755,7 +4141,10 @@
       "Christmas assistance program -- proof of ID for every household member, income and rent/lease agreement",
       "residential summer camp for children"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all in catchment area",
+      "Residency Requirements: Dupont St/St Clair Ave W (north) to Lake Ontario (south), Runnymede Rd (west) to Bathurst St (east)"
+    ]
   },
   {
     "id_program": "60931829",
@@ -3771,6 +4160,7 @@
     "site_longitude": "-79.529606",
     "category": "Child Care;Children's Programs;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Parent / Child programs;Test - Food Banks",
     "desc_program": "Emergency food * weekly lunch -- Wednesday 11 am-1 pm (September-November, January-May) * parent and child program * after school club * Christmas assistance program -- must call for appointment",
+    "eligibilty": "Open to all in catchment area<br /><br />Residency Requirements: Rathburn Rd (north) to Lake Ontario (south), Etobicoke Creek (west) to Humber River (east)",
     "hours": "Food Bank -- by appointment only, Mon 10:30 am-12 noon, 1 pm-2:30 pm, Wed 11 am-12 noon, 1 pm-2:30 pm",
     "phone_office": "416-251-8372",
     "phone_tollfree": "",
@@ -3788,7 +4178,10 @@
       "after school club",
       "Christmas assistance program -- must call for appointment"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all in catchment area",
+      "Residency Requirements: Rathburn Rd (north) to Lake Ontario (south), Etobicoke Creek (west) to Humber River (east)"
+    ]
   },
   {
     "id_program": "60931835",
@@ -3804,6 +4197,7 @@
     "site_longitude": "-79.311038",
     "category": "Camps;Child Care;Clothing;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks",
     "desc_program": "Emergency material assistance including food, clothing, household effects as available  * community lunch * after school program * residential summer camp for children * Christmas assistance program",
+    "eligibilty": "Open to all in catchment area<br /><br />Residency Requirements: O'Connor Dr/St Clair Ave E (north) to Lake Shore Blvd (south), Greenwood Ave (west) to Warden Ave (east)",
     "hours": "Mon-Fri 8 am-4 pm * Food Bank -- Tue, Thu 8:30 am-11:30 am, 1 pm-3 pm * Community lunch -- Thu 12 noon;  Wed 12 noon for seniors only",
     "phone_office": "416-467-7664",
     "phone_tollfree": "",
@@ -3823,7 +4217,10 @@
       "residential summer camp for children",
       "Christmas assistance program"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all in catchment area",
+      "Residency Requirements: O'Connor Dr/St Clair Ave E (north) to Lake Shore Blvd (south), Greenwood Ave (west) to Warden Ave (east)"
+    ]
   },
   {
     "id_program": "60932011",
@@ -3839,6 +4236,7 @@
     "site_longitude": "-79.391825",
     "category": "Access and coordination of services;Assessment;Counselling / Therapy;Day programs;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Geriatric psychiatry;Home delivered meals;In-Home Supports;Life and social skills training;Personal care/health care;Recreation and leisure;Respite;Seniors Centres;Social Activities;Transportation;Transportation / Parking Permits;Transportation for older adults;Transportation for people with disabilities;Volunteer Opportunities",
     "desc_program": "Multiservice community and home support agency * adult day programs * case management, free * counselling * foot care clinic * Home at Last * information and referral * home care * meals on wheels * social and recreation activities * support groups, free * supportive housing services * transportation * volunteer opportunities\n<br><br>\n<b>Community Wellness Program</b> -- lunch Monday-Friday at various locations * <b>Meals on Wheels</b> -- Monday-Sunday, hot, frozen, kosher and vegetarian meals, Reach for 5 (fresh fruit and vegetables in partnership with Field to Table) * <b>Farmers Market</b> -- summer food program * low cost\n<br><br> \n<b>In-Home Services</b> -- home help, homemaking * respite care * caregiver relief * <b>Home at Last</b> -- hospital discharge assistance * <a href=\"http://www.seniorshousecalls.ca/ \"><b>House Calls</b></a> -- interdisciplinary health care for home-bound seniors, free\n<br><br>\n<b>Supportive Housing</b> -- services for residents at Montgomery Place, Moore Place,  George Barker Manor, and Janet Magee Manor -- Toronto Community Housing Corporation * services for residents with dementia at Ewart Angus SPRINT Homes -- see separate entry\n<br><br>\n<b>Transportation</b> -- to medical appointments, shopping, personal tasks, social activities * lead agency for <a href=\"http://torontoride.ca \"><b>Toronto Ride</b></a> -- assisted transportation for frail seniors and adults with disabilities in Toronto, a partnership of community support service agencies",
+    "eligibilty": "Seniors 65 years and older and adults with disabilities * Adult day programs -- seniors and adults who are physically frail and/or have a cognitive impairment that require a supervised setting<br /><br />Residency Requirements: Generally Hwy 401 (north) to Bloor St (south), Bathurst St (west) to Bayview Ave (east)<br><br>\n\nMeals on wheels -- Hwy 401 (north) to Lawrence Ave (south), Bathurst St (west) to Bayview Ave (east) * also Lawrence Ave E (north) to St Clair Ave E (south), Mt Pleasant Rd (west) to Bayview Ave (east) * also St Clair Ave (north) to Bloor St (south), Bathurst St (west) to Bayview Ave (east)",
     "hours": "Mon-Fri 9 am-5 pm",
     "phone_office": "416-481-6411",
     "phone_tollfree": "",
@@ -3878,7 +4276,14 @@
       "<b>Transportation</b> -- to medical appointments, shopping, personal tasks, social activities",
       "lead agency for <a href=\"http://torontoride.ca \"><b>Toronto Ride</b></a> -- assisted transportation for frail seniors and adults with disabilities in Toronto, a partnership of community support service agencies"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Seniors 65 years and older and adults with disabilities",
+      "Adult day programs -- seniors and adults who are physically frail and/or have a cognitive impairment that require a supervised setting",
+      "Residency Requirements: Generally Hwy 401 (north) to Bloor St (south), Bathurst St (west) to Bayview Ave (east)",
+      "Meals on wheels -- Hwy 401 (north) to Lawrence Ave (south), Bathurst St (west) to Bayview Ave (east)",
+      "also Lawrence Ave E (north) to St Clair Ave E (south), Mt Pleasant Rd (west) to Bayview Ave (east)",
+      "also St Clair Ave (north) to Bloor St (south), Bathurst St (west) to Bayview Ave (east)"
+    ]
   },
   {
     "id_program": "60932040",
@@ -3894,6 +4299,7 @@
     "site_longitude": "-79.402996",
     "category": "Access and coordination of services;Addiction Supports;Assessment;Community Health Centres;Computer access;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing options;Housing Search Assistance ;Mental health;Supportive Housing;Supportive housing (semi-independent);Therapy and Counselling;Transition and Future Planning;Volunteer Opportunities",
     "desc_program": "<b>Corner Drop-In</b> -- serves individuals who are homeless, who have low incomes and/or who are socially isolated * breakfast, lunch * showers, laundry, phones, mail services and computers * housing referral and support * Housing Connections Community Partner * voluntary trusteeship <br><br> \n\n<b>Health</b> -- mental health and harm reduction case management * safer drug use supplies * public health nurse Monday-Tuesday, Thursday-Friday * primary care Doctor for individuals who do not have primary health care, Wednesday * assessment and support of ODSP applications * information and referral for issues related to HIV/Hep C, legal, treatment and housing * relapse prevention group Tuesday <br><br> \n\n<b>Acudetox</b>, social action, mindfulness meditation and wellness group * <b> Social activities</b> -- Sunday afternoon movie * peer supports * social, recreational and volunteering opportunities <br><br> \n\n<b>L L Odette Place</b> -- supportive housing for chronically homeless men * application through CASH",
+    "eligibilty": "Open to all * <b>Corner Drop-In</b> -- serves individuals who are homeless, who have low incomes and/or who are socially isolated",
     "hours": "Mon-Fri 9 am-5 pm * <b>Corner Drop-In</b> -- Mon-Fri 7:30 am-11:30 am, Sun 8 am-11:30 am",
     "phone_office": "416-925-2103 ext 2240",
     "phone_tollfree": "",
@@ -3926,7 +4332,10 @@
       "<b>L L Odette Place</b> -- supportive housing for chronically homeless men",
       "application through CASH"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "<b>Corner Drop-In</b> -- serves individuals who are homeless, who have low incomes and/or who are socially isolated"
+    ]
   },
   {
     "id_program": "60932060",
@@ -3942,6 +4351,7 @@
     "site_longitude": "-79.45382",
     "category": "Food banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;ID (identification);Test - Food Banks",
     "desc_program": "Services, programs and advocacy to address the problems of food access and hunger * open to community ideas for use of resources * member of Daily Bread Food Bank<br><br>\n\nDrop-in * community dining * food bank * ID clinic * community gardening * community kitchens, bake oven * information and referral * community advocacy * Healthy Beginnings -- prenatal nutrition and support * Green Barn -- sustainable food production and education centre * Farmers Market * Good Food Market<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Residency Requirements: <b>Food Bank </b>-- St Clair Ave W (north) to Bloor St W (south), Runnymede Rd (west) to Oakwood Ave/Dovercourt Rd (east)<br><br>\n\n<b>Healthy Beginnings</b> -- call for catchment area",
     "hours": "Office -- Mon-Fri 9 am-4 pm * <b>Healthy Beginnings</b> -- Wed 10 am-1 pm * <b>Good Food Market</b> -- Tue 11 am-3 pm * <b>Community Advocacy</b> -- Mon-Tue, Thu-Fri 11 am-3 pm * <b>ID Clinic</b> -- Mon 9 am-10:30 pm * call or visit website for listing of program hours<br><br>\n\n<b>Drop-in</b> -- Mon-Tue, Thu-Fri 9 am-3 pm * <b>breakfast</b> -- Mon-Tue, Thu-Fri 9 am-10 am * <b>lunch</b> -- Mon-Tue, Thu-Fri 12 noon-1 pm<br><br>\n\n<b>Food bank</b> -- Mon, Thu-Fri 11 am-3 pm",
     "phone_office": "416-652-7867",
     "phone_tollfree": "",
@@ -3979,7 +4389,10 @@
       "Good Food Market",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Residency Requirements: <b>Food Bank </b>-- St Clair Ave W (north) to Bloor St W (south), Runnymede Rd (west) to Oakwood Ave/Dovercourt Rd (east)",
+      "<b>Healthy Beginnings</b> -- call for catchment area"
+    ]
   },
   {
     "id_program": "60932157",
@@ -3995,6 +4408,7 @@
     "site_longitude": "-79.289833",
     "category": "Access and coordination of services;Assessment;Children's Programs;Community information;Day programs;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Housing Search Assistance ;ID (identification);Life and social skills training;Parent / Child programs;Personal care/health care;Recreation and leisure;Tax Services;Transportation;Transportation for older adults",
     "desc_program": "Multiservice agency * community outreach, employment, education, homeless initiative, housing, recreation and social programs * information and referral * services for children, newcomers, seniors and youth\n<br><br>\n\n<b>Community Outreach</b> -- drop-in for families and children * income tax clinic, by appointment only * program activities * referrals\n<br><br>\n\n<b>Housing</b> -- supportive and non-supportive housing for adults 59 years and older, and one family building * see branch records for details * Housing Connections Community Partner (see separate entry) -- assistance with housing search and application process\n<br><br>\n<a href=\"http://www.neighbourhoodlink.org/partners-for-access-and-identification-paid/\"><b>Partners for Access and Identification (PAID)</b></a> -- assists homeless persons in obtaining Ontario health cards, Canadian birth certificates, birth registration, verification of status, social insurance numbers * referrals to community services * operates at various sites, schedule varies -- call 416-691-7407 for details\n<br><br>\n\n<b>Seniors services</b> -- Adult Day Program -- for persons with physical or cognitive impairment * Akwasti Program -- home care and related services for frail elderly persons who would otherwise qualify for long term care facilities * Chinese Programs -- recreational activities in Cantonese and Mandarin * home support -- case management, client intervention and assistance * friendly visiting, security checks * transportation and escort, priority for clients with medical appointments, participates in Toronto Ride -- free \n<br><br>\n\n<b>Seniors meals</b>  -- lunch every other Tuesday, dinner every other Thursday at Cecelia Murphy Building, 11 Coatsworth Cres * nominal fee  -- call for details * lunch every  third Wednesday, dinner every other Friday at East Toronto Seniors Centre, 2802 Danforth Ave  * nominal fee  --call for details\n<br><br>\n<b>Community meal for all</b> -- dinner every Thursday at Gower Park Place, 10 Gower Road * free * call for details\n<br><br>\nYouth and Newcomer services, Neighbourhood Link Employment services, Ontario Employment Services -- see separate entries",
+    "eligibilty": "Varies by program",
     "hours": "Mon-Fri 8 am-5 pm",
     "phone_office": "416-691-7407",
     "phone_tollfree": "",
@@ -4035,7 +4449,9 @@
       "call for details",
       "Youth and Newcomer services, Neighbourhood Link Employment services, Ontario Employment Services -- see separate entries"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Varies by program"
+    ]
   },
   {
     "id_program": "60932157",
@@ -4051,6 +4467,7 @@
     "site_longitude": "-79.289833",
     "category": "Access and coordination of services;Assessment;Children's Programs;Community information;Day programs;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Housing Search Assistance ;ID (identification);Life and social skills training;Parent / Child programs;Personal care/health care;Recreation and leisure;Tax Services;Transportation;Transportation for older adults",
     "desc_program": "Multiservice agency * community outreach, employment, education, homeless initiative, housing, recreation and social programs * information and referral * services for children, newcomers, seniors and youth\n<br><br>\n\n<b>Community Outreach</b> -- drop-in for families and children * income tax clinic, by appointment only * program activities * referrals\n<br><br>\n\n<b>Housing</b> -- supportive and non-supportive housing for adults 59 years and older, and one family building * see branch records for details * Housing Connections Community Partner (see separate entry) -- assistance with housing search and application process\n<br><br>\n<a href=\"http://www.neighbourhoodlink.org/partners-for-access-and-identification-paid/\"><b>Partners for Access and Identification (PAID)</b></a> -- assists homeless persons in obtaining Ontario health cards, Canadian birth certificates, birth registration, verification of status, social insurance numbers * referrals to community services * operates at various sites, schedule varies -- call 416-691-7407 for details\n<br><br>\n\n<b>Seniors services</b> -- Adult Day Program -- for persons with physical or cognitive impairment * Akwasti Program -- home care and related services for frail elderly persons who would otherwise qualify for long term care facilities * Chinese Programs -- recreational activities in Cantonese and Mandarin * home support -- case management, client intervention and assistance * friendly visiting, security checks * transportation and escort, priority for clients with medical appointments, participates in Toronto Ride -- free \n<br><br>\n\n<b>Seniors meals</b>  -- lunch every other Tuesday, dinner every other Thursday at Cecelia Murphy Building, 11 Coatsworth Cres * nominal fee  -- call for details * lunch every  third Wednesday, dinner every other Friday at East Toronto Seniors Centre, 2802 Danforth Ave  * nominal fee  --call for details\n<br><br>\n<b>Community meal for all</b> -- dinner every Thursday at Gower Park Place, 10 Gower Road * free * call for details\n<br><br>\nYouth and Newcomer services, Neighbourhood Link Employment services, Ontario Employment Services -- see separate entries",
+    "eligibilty": "Varies by program",
     "hours": "Mon-Fri 8 am-5 pm",
     "phone_office": "416-691-7407",
     "phone_tollfree": "",
@@ -4091,7 +4508,9 @@
       "call for details",
       "Youth and Newcomer services, Neighbourhood Link Employment services, Ontario Employment Services -- see separate entries"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Varies by program"
+    ]
   },
   {
     "id_program": "60932273",
@@ -4107,6 +4526,7 @@
     "site_longitude": "-79.351955",
     "category": "Access and coordination of services;Assessment;Community legal services;Family and individual support;Free / Low Cost Meals;Free / Low-cost meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;ID (identification)",
     "desc_program": "<b><a href=\" https://www.woodgreen.com/ServiceDetail.aspx?id=214\" target=\"_blank\">Lounge/Lobby program</a></b> -- food program * Shared Care (CAMH team) * access to phone * personal care * laundry <br> <br>\n\n<b>Concurrent Disorders and Harm Reduction Services</b> -- eviction prevention and landlord/tenant mediation * Advice Lawyer -- Legal Aid clinic for summary advice * ID clinic <br> <br>\n\n<b><a href=\" https://www.woodgreen.com/ServiceDetail.aspx?id=199\" target=\"_blank\">Housing Help Centre (InfoLink)</a></b> -- one-on-one housing search support * private landlord registry * hostel bed registry * information and referral * access to phone, fax * landlord information and education * <b>Housing Connections</b> (see separate entry) Community Partner -- assistance with housing search and application process <br> <br>\n\n<b><a href=\" https://www.woodgreen.com/ServiceDetail.aspx?id=194\" target=\"_blank\">First Step to Home</a></b> -- for homeless or street involved men 55 years and older * case management * harm reduction housing support/education * budget counselling <br> <br>\n\n<b><a href=\" https://www.woodgreen.com/ServiceDetail.aspx?id=200\" target=\"_blank\">Rooming House Emergency Relocation Project</a></b> -- for rooming house tenants <br> <br>\n\n<b>Friendship Club</b> a full range of activities including workshops and crafts<br><br>\n\n<b>Pet Food Bank</b> -- cat and dog food, nail trims, advice from pet care expert for low-income residents<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "For people who are at risk of becoming homeless, street involved, or currently homeless<br /><br />Residency Requirements: Former City of Toronto northern limits (north) to Lake Ontario (south), Sherbourne St (west) to Victoria Park Ave (east)",
     "hours": "Office -- Mon-Fri 9 am-5 pm <br>\n<b>Food</b> -- breakfast Mon-Fri 9 am * lunch Mon, Wed-Fri 1 pm * groceries and lunch bag Tue 11 am <br>\n<b>Personal care</b> -- shower Mon-Fri 9 am-2 pm * laundry Mon-Fri 9 am-2 pm <br>\n<b>Shared Care Health Clinic</b> -- Mon-Fri 9 am-4 pm <br>\n<b>Housing Help Drop-in</b> -- Mon-Fri 9 am-4 pm <br>\n<b>Legal Drop-in</b> -- every 3rd Thu of each month 10 am-12 pm <br>\n<b>ID clinic</b> -- Fri 11 am-1 pm (except last Fri of the month)<br>\n<b>Pet Food Bank</b> -- Mon, Wed 2 pm-3 pm",
     "phone_office": "416-645-6000 ext 2529",
     "phone_tollfree": "",
@@ -4152,7 +4572,10 @@
       "<b>Pet Food Bank</b> -- cat and dog food, nail trims, advice from pet care expert for low-income residents",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "For people who are at risk of becoming homeless, street involved, or currently homeless",
+      "Residency Requirements: Former City of Toronto northern limits (north) to Lake Ontario (south), Sherbourne St (west) to Victoria Park Ave (east)"
+    ]
   },
   {
     "id_program": "60932310",
@@ -4168,6 +4591,7 @@
     "site_longitude": "-79.398283",
     "category": "Addiction counselling;Career counselling;Clothing;Counselling / Therapy;Crisis intervention and prevention;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins;Housing Search Assistance ;ID (identification);In-Person Crisis Intervention;In-person crisis services;Job Search Assistance;Mental health;Therapy and Counselling;Youth Shelters",
     "desc_program": "Drop-in * breakfast, lunch * substance use counselling * ID clinic * employment counselling * mental health counselling and crisis intervention * visiting nurse * housing support services * clothing available (dependent on donations<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Youth and young adults 16-24 years<br /><br />Age Requirements: Ages: 16 year(s) - 24 year(s);",
     "hours": "Mon-Fri 9:30 am-5 pm * program hours vary -- call for details",
     "phone_office": "416-603-6366",
     "phone_tollfree": "",
@@ -4191,7 +4615,10 @@
       "clothing available (dependent on donations",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Youth and young adults 16-24 years",
+      "Age Requirements: Ages: 16 year(s) - 24 year(s);"
+    ]
   },
   {
     "id_program": "60933160",
@@ -4207,6 +4634,7 @@
     "site_longitude": "-79.437696",
     "category": "Community information;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Job search support / training;Refugees;Settlement services;Social Assistance;Test - Food Banks",
     "desc_program": "Community centre serving diverse groups including Spanish-speaking community * counselling, orientation, life skills for immigrants and newcomers * information and referral * job training courses * spiritual counselling * advocacy for social assistance * drop-in and community kitchen * monthly meetings for Spanish-speaking seniors<br><br> \n\n<b>Food Bank</b> -- emergency food * member of Daily Bread Food Bank",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: <b>Food Bank</b> -- Roger Rd (north) to Bloor St W (south), Keele St (west) to Bathurst St (east) * also Bloor St W (north) to Dundas St W (south), Roncevalles Ave (west) to Bathurst St (east)",
     "hours": "<b>Office</b> -- Mon-Thu 9 am-4 pm * <b>Drop-in</b> -- Tue 4 pm-7 pm, dinner at 5:30 pm * <b>Food bank</b> -- Wed 9:30 am-12:30 pm, initial intake assessment 10:30 am",
     "phone_office": "416-536-4431",
     "phone_tollfree": "",
@@ -4231,7 +4659,11 @@
       "<b>Food Bank</b> -- emergency food",
       "member of Daily Bread Food Bank"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: <b>Food Bank</b> -- Roger Rd (north) to Bloor St W (south), Keele St (west) to Bathurst St (east)",
+      "also Bloor St W (north) to Dundas St W (south), Roncevalles Ave (west) to Bathurst St (east)"
+    ]
   },
   {
     "id_program": "60933210",
@@ -4247,6 +4679,7 @@
     "site_longitude": "-79.440527",
     "category": "Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Homeless Shelters;Homeless Shelters / Drop-Ins",
     "desc_program": "Light meal * social and recreational activities * information and referral<br><br>Member agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Adults who are homeless, underhoused or socially isolated<br /><br />Residency Requirements: Parkdale",
     "hours": "Tue, Thu, Fri-Sat 10 am-4 pm; Wed 11:10 am-6 pm (first Wed of the month 11:30 am-4 pm)",
     "phone_office": "416-891-3616",
     "phone_tollfree": "",
@@ -4263,7 +4696,10 @@
       "information and referral",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Adults who are homeless, underhoused or socially isolated",
+      "Residency Requirements: Parkdale"
+    ]
   },
   {
     "id_program": "60933315",
@@ -4279,6 +4715,7 @@
     "site_longitude": "-79.286647",
     "category": "Computer access;Food Banks;Food Hampers;Free / Low Cost Meals;Free / Low-cost meals;Homeless meals;Test - Food Banks",
     "desc_program": "<b>Food Security Program</b> -- 416-694-1138 ext 164, Second Harvest, Monday 1 pm-2 pm * Out of the Cold, Monday 10 am-4 pm (see separate entry) * Drop-In Hot lunch Wednesday 12 noon-2 pm * Take-out lunch Thursday 12 noon-1 pm * Lunch (every other Thursday) 1 pm * Fresh Produce Market 10 am-3:30 pm <br><br>\n\n<b>Toronto East Quadrant Local Immigration Partnership (LIP)</b> -- service planning and strategic implementation of newcomer related programs and services <br><br>\n\n<b>Resource Access Centre</b> -- computers available for job search and research <br><br>\n\n<b>Active Boost</b> -- 416-694-1138 ext 165, education on fundamentals of nutrition and basic movements principals <br><br>\n\n<b>Women’s Recreational Programs</b> -- 416-694-1138 ext 124, recreational programs<br><br>\n\nMember agency of Toronto Drop-in Network (TDIN)",
+    "eligibilty": "Open to all<br /><br />Residency Requirements: Southwest Scarborough",
     "hours": "Mon-Fri 9:30 am-6 pm * also evening and weekend programs",
     "phone_office": "416-694-1138 ext 126",
     "phone_tollfree": "",
@@ -4303,7 +4740,10 @@
       "<b>Women’s Recreational Programs</b> -- 416-694-1138 ext 124, recreational programs",
       "Member agency of Toronto Drop-in Network (TDIN)"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all",
+      "Residency Requirements: Southwest Scarborough"
+    ]
   },
   {
     "id_program": "60933320",
@@ -4319,6 +4759,7 @@
     "site_longitude": "-79.278123",
     "category": "Computer access;Free / Low Cost Meals;Free / Low-cost meals;Home delivered meals;Personal care/health care;Transportation;Transportation / Parking Permits;Transportation for older adults;Transportation for people with disabilities",
     "desc_program": "Support services to build on client strengths, to build community, and to enable independent community living * participates in Toronto Ride<br><br>\n\nMediation to resolve landlord/tenant issues, civil disputes and organizational discord * CRS (Conflict Resolution Services) workshops and training programs * mediation certification programs  <br><br>\n\n<b>Recreation programs</b> -- 416-694-1138 ext 139 <br> \n<b>Friendship Club</b> Wednesday 10 am-2:30 pm <br>\n<b>IRIE group</b> (Intergenerational Health Information and Education) for Black, Caribbean and West Indian communities Thursday 9:30 am-1:30 pm <br>\n<b>Tai Chi</b> Thursday 2 pm-4 pm <br>\n<b>Friday Folk program</b> for adult 18 years and older with physical and developmental disabilities, Friday 10 am-2 pm <br><br>\n\n<b>Health services</b> -- <b>blood pressure clinic</b> first Wednesday 10:30 am-12 noon * <b>foot care</b> every 2nd and 4th Wednesday <br><br>\n\n<b>Meals on Wheels</b> -- 416-694-1138 ext 139, Monday- Friday 11:30 am-12:30 pm * hot meals delivered to seniors, disabled persons, persons with illness and persons recovering from medical procedures * includes hot, frozen, South Asian and Chinese meals * Good Food Box distribution -- see separate entry Food Share <br><br>\n\n<b>Resource Access Centre</b> -- computers available for job search and research <br><br>\n\n<b>Fresh Produce Market</b> Thursday 12 noon-4 pm",
+    "eligibilty": "Open to all ages and a wide variety of cultures<br /><br />Residency Requirements: Primary focus southwest Scarborough * some programs Scarborough-wide",
     "hours": "Mon-Fri 9 am-5 pm * also evening and weekend programs",
     "phone_office": "416-694-1138",
     "phone_tollfree": "",
@@ -4350,6 +4791,10 @@
       "<b>Resource Access Centre</b> -- computers available for job search and research",
       "<b>Fresh Produce Market</b> Thursday 12 noon-4 pm"
     ],
-    "ampl_eligibilty": []
+    "ampl_eligibilty": [
+      "Open to all ages and a wide variety of cultures",
+      "Residency Requirements: Primary focus southwest Scarborough",
+      "some programs Scarborough-wide"
+    ]
   }
 ]

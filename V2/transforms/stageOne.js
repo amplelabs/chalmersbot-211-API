@@ -30,7 +30,7 @@ stageOne.stageOneParser = async (raw211Data) => {
                 'site_longitude',
                 'category',
                 'desc_program',
-                'eligibility',
+                'eligibilty',
                 'hours',
                 'phone_office',
                 'phone_tollfree',
@@ -82,10 +82,9 @@ stageOne.destructure = (complexString) => {
     return parts;
 };
 
-
+// MET prefix is used for Toronto Metropolitan
 stageOne.getTorontoDataOnly = (destructuredData) => {
     return _.filter(destructuredData, (record) => {
-        // MET prefix is used for Toronto Metropolitan 
         return _.get(record, 'id_cioc', '').match(/MET/i);
     });
 }

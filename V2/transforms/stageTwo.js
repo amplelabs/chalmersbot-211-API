@@ -54,7 +54,7 @@ stageTwo.getHoursOfInterest = (hourDetails) => {
     hourDetails = _.filter(hourDetails, (hours) => {
         return !hours.match(/office/i);
     });
-    
+
     // Assume if there is only one record, that's for meals
     if (hourDetails.length === 1) {
         return hourDetails;

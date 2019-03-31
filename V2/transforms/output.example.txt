@@ -1,0 +1,23 @@
+/**
+  Expected json format for meal skill
+  {
+    "address": String,
+    "organizationName": String,
+    "program": String,
+    "phone_number": String,
+    "latitude": Number,
+    "longitude": Number,
+    "meals": [Meals]
+  }
+  Meals:
+  {
+    "startTime": TIME FORMAT STRING HH:MM Military Time,
+    "endTime": TIME FORMAT STRING HH:MM Military Time,
+    "dayOfWeek": [...Set("Mon","Tue","Wed","Thu","Fri","Sat","Sun")],
+    "type": "Breakfast|Lunch|Dinner|Snack",
+    "notes": String,
+    "gender": "male|female|mix"i|lgbtq",
+    "age": [lowerBound, upperBound],
+    "race": [RACES]
+  }
+*/

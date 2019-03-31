@@ -1,4 +1,4 @@
-// creates meals.json in expected fromat 
+// creates meals.json in expected fromat
 
 const _ = require('lodash');
 const moment = require('moment');
@@ -6,7 +6,20 @@ const moment = require('moment');
 // TODO: move ParseUtil to V2
 const parseUtil = require('../../lib/ParseUtil');
 
-const stageThree = {}; 
+const stageThree = {};
+
+stageThree.age = {
+    min: 0,
+    max: 150
+};
+
+stageThree.gender = {
+    notSpecified: 'not specified',
+    mix: 'mix',
+    male: 'male',
+    female: 'female',
+    lgbtq: 'lgbtq'
+};
 
 stageThree.createAmpleData = (destructuredData) => {
     let ampleData = stageThree.removeUnusableRecords(destructuredData);
@@ -19,7 +32,7 @@ stageThree.createAmpleData = (destructuredData) => {
         _.set(ampleRecord, 'latitude', _.toFinite(_.get(record, 'site_latitude')));
         _.set(ampleRecord, 'longitude', _.toFinite(_.get(record, 'site_longitude')));
         _.set(ampleRecord, 'website', _.get(record, 'website', ''));
-        
+
         let address = _.join(
             [
                 _.get(record, 'site_address', ''),
@@ -31,7 +44,6 @@ stageThree.createAmpleData = (destructuredData) => {
             ','
         );
 
-        // address = address.replace(/,\s*,/, '');
         _.set(ampleRecord, 'address', address);
         const meals = stageThree.createMeals(record);
         console.log(`total meals for org ${meals.length}`);
@@ -40,13 +52,12 @@ stageThree.createAmpleData = (destructuredData) => {
         return ampleRecord;
     });
 
-    console.log(`stage 3 returns ${ampleData.length} records`);
-    
-
     // remove bad records which haven't been parsed correctly yet.
     ampleData = _.filter(ampleData, (record) => {
         return ! _.includes(stageThree.badRecords, record.program);
     });
+
+    console.log(`stage 3 returns ${ampleData.length} records`);
 
     return ampleData;
 }
@@ -58,9 +69,16 @@ stageThree.createMeals = (record) => {
     const meals = [];
     const hoursDetails = _.get(record, 'ampl_hours_details');
 
+    const gender = stageThree.getGenderDetails(record);
+    const age = stageThree.getAgeDetails(record);
+
     _.forEach(hoursDetails, (hour) => {
         console.log(`creating meals for ${hour}`);
         const meal = stageThree.createMeal(hour);
+
+        _.set(meal, 'gender', gender);
+        _.set(meal, 'age', age);
+
         meals.push(meal);
     });
 
@@ -99,9 +117,9 @@ stageThree.createMeal = (hour) => {
             console.log(`dateRange, ${token}`);
             dayOfWeek.push(...stageThree.getDaysForRange(token));
             return;
-        } 
+        }
 
-        // 8 pm-10 pm 
+        // 8 pm-10 pm
         const additionalTokens = token.split('-');
 
         _.forEach(additionalTokens, (additionalToken) => {
@@ -146,7 +164,6 @@ stageThree.createMeal = (hour) => {
 
     console.log(`Unknown tokens ${JSON.stringify(unknownTokens)}`);
 
-
     _.set(meal, 'dayOfWeek', _.uniq(dayOfWeek));
 
     console.log(_.get(meal, 'dayOfWeek', ':('));
@@ -160,15 +177,12 @@ stageThree.createMeal = (hour) => {
     }
 
     const startTimeHHMM = startDate.format('HH:mm');
-    const endTimeHHMM = endDate.format('HH:mm'); 
+    const endTimeHHMM = endDate.format('HH:mm');
 
     _.set(meal, 'startTime', startTimeHHMM);
     _.set(meal, 'endTime', endTimeHHMM);
     _.set(meal, 'type', '');
     _.set(meal, 'notes', '');
-    _.set(meal, 'age', []);
-    _.set(meal, 'race', []);
-    _.set(meal, 'gender', '');
 
     console.log(`meal : ${JSON.stringify(meal)}`);
 
@@ -194,7 +208,53 @@ stageThree.filterMealsWithInvalidDates = (meals) => {
     return _.filter(meals, (meal) => {
         return meal.startTime !== 'Invalid date' && meal.endTime !== 'Invalid date';
     });
-}
+};
+
+stageThree.getGenderDetails = (record) => {
+    const eligibiltyRows = _.get(record, 'ampl_eligibilty');
+
+    let gender = stageThree.gender.notSpecified;
+
+    _.forEach(eligibiltyRows, (eligibilty) => {
+        if (eligibilty.match(/open.*all/i)) {
+            gender = stageThree.gender.mix;
+            return;
+        }
+
+        if (eligibilty.match(/\blgbtq\b/i)) {
+            gender = stageThree.gender.lgbtq;
+            return;
+        }
+
+        if (eligibilty.match(/\bmen\b.*only/i)) {
+            gender = stageThree.gender.male;
+            return;
+        }
+
+        if (eligibilty.match(/\bwomen\b.*only/i)) {
+            gender = stageThree.gender.female;
+            return;
+        }
+    });
+
+    return gender;
+};
+
+stageThree.getAgeDetails = (record) => {
+    const eligibiltyRows = _.get(record, 'ampl_eligibilty');
+    let age = [stageThree.age.min, stageThree.age.max];
+
+    _.forEach(eligibiltyRows, (eligibilty) => {
+        // there are no cases in data with an upper age limit
+        const match = eligibilty.match(/(\d\d).*(?:up|over)/i);
+        if (match && match[1]) {
+            age[0] = _.toFinite(match[1]);
+            return;
+        }
+    });
+
+    return age;
+};
 
 // These records have minor inconsistencies which can be fixed later on
 stageThree.badRecords = [
@@ -229,7 +289,8 @@ stageThree.badRecords = [
     'MET1219',
     'MET4852',
     'MET1219',
-    'MET7504'
+    'MET7504',
+    'MET5530'
 ]
 
 module.exports = stageThree;
