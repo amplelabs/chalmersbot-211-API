@@ -9,18 +9,13 @@
     "address": "Our Lady of Good Counsel; 867 College St,Toronto,ON,Canada,M6H 1A1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed"
-        ],
+        "dayOfWeek": ["Wed"],
         "startTime": "09:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -34,18 +29,13 @@
     "address": "Agincourt Church; 2885 Kennedy Rd,Toronto,ON,Canada,M1V 1S8",
     "meals": [
       {
-        "dayOfWeek": [
-          "Thu"
-        ],
+        "dayOfWeek": ["Thu"],
         "startTime": "18:30",
         "endTime": "20:30",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -59,18 +49,13 @@
     "address": "St Luke United Church; 353 Sherbourne St,Toronto,ON,Canada,M5A 2S3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "18:00",
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -84,18 +69,13 @@
     "address": "19 Trinity Square,Toronto,ON,Canada,M5G 1B1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "12:00",
         "endTime": "12:45",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -109,22 +89,13 @@
     "address": "100 McLevin Ave,Toronto,ON,Canada,M1B 5K1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Sat"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Sat"],
         "startTime": "11:00",
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -138,18 +109,13 @@
     "address": "509 Dundas St E,Toronto,ON,Canada,M5A 3V3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Thu"
-        ],
+        "dayOfWeek": ["Thu"],
         "startTime": "06:00",
         "endTime": "08:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -163,32 +129,22 @@
     "address": "Roncesvalles United Church; 214 Wright Ave,Toronto,ON,Canada,M6R 1L3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Sun"
-        ],
+        "dayOfWeek": ["Sun"],
         "startTime": "13:00",
         "endTime": "15:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Sun"
-        ],
+        "dayOfWeek": ["Sun"],
         "startTime": "17:30",
         "endTime": "18:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -202,18 +158,13 @@
     "address": "Mount Olive Seventh-Day Adventist Church; 1030 Albion Rd,Toronto,ON,Canada,M9V 1A7",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed"
-        ],
+        "dayOfWeek": ["Wed"],
         "startTime": "15:00",
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -227,18 +178,13 @@
     "address": "St Peter's Church, Parish Hall; 659 Markham St,Toronto,ON,Canada,M6G 2M1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon"
-        ],
+        "dayOfWeek": ["Mon"],
         "startTime": "17:00",
         "endTime": "21:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -252,18 +198,13 @@
     "address": "1307 Bloor St W,Toronto,ON,Canada,M6H 1P1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed"
-        ],
+        "dayOfWeek": ["Wed"],
         "startTime": "18:00",
         "endTime": "20:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -277,22 +218,13 @@
     "address": "162 Bloor St W,Toronto,ON,Canada,M5S 1M4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "08:00",
         "endTime": "11:45",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -306,18 +238,13 @@
     "address": "Willowdale Baptist Church; 15 Olive Ave,Toronto,ON,Canada,M2M 4N4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed"
-        ],
+        "dayOfWeek": ["Wed"],
         "startTime": "08:00",
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -331,22 +258,13 @@
     "address": "380 College St,Toronto,ON,Canada,M5T 1S6",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat"
-        ],
+        "dayOfWeek": ["Tue", "Wed", "Thu", "Fri", "Sat"],
         "startTime": "12:00",
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -360,51 +278,31 @@
     "address": "40 Oak St,Toronto,ON,Canada,M5A 2C6",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Fri"],
         "startTime": "09:00",
         "endTime": "10:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Thu",
-          "Fri",
-          "Sun"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Thu", "Fri", "Sun"],
         "startTime": "12:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Sat"
-        ],
+        "dayOfWeek": ["Sat"],
         "startTime": "17:00",
         "endTime": "19:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -418,18 +316,13 @@
     "address": "Recreation Room; 5 Wakunda Place,Toronto,ON,Canada,M4A 1A2",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "18:00",
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -443,39 +336,22 @@
     "address": "1322 Queen St W,Toronto,ON,Canada,M6K 1L4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sun"
-        ],
+        "dayOfWeek": ["Tue", "Wed", "Thu", "Fri", "Sun"],
         "startTime": "12:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "startTime": "16:30",
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -489,53 +365,31 @@
     "address": "155 Broadview Ave,Toronto,ON,Canada,M4M 2E9",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat"
-        ],
+        "dayOfWeek": ["Tue", "Wed", "Thu", "Fri", "Sat"],
         "startTime": "05:00",
         "endTime": "09:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Thu",
-          "Fri",
-          "Sat"
-        ],
+        "dayOfWeek": ["Thu", "Fri", "Sat"],
         "startTime": "11:30",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Wed",
-          "Sun"
-        ],
+        "dayOfWeek": ["Wed", "Sun"],
         "startTime": "16:30",
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -549,20 +403,13 @@
     "address": "193 Markham Rd,Toronto,ON,Canada,M1J 3C3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Wed", "Thu", "Fri"],
         "startTime": "10:00",
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -576,18 +423,13 @@
     "address": "Warden Woods Community Centre; 40 Teesdale Place,Toronto,ON,Canada,M1L 1L3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon"
-        ],
+        "dayOfWeek": ["Mon"],
         "startTime": "12:00",
         "endTime": "13:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -601,18 +443,13 @@
     "address": "Glenview Presbyterian Church; 1 Glenview Ave,Toronto,ON,Canada,M4R 1P5",
     "meals": [
       {
-        "dayOfWeek": [
-          "Sun"
-        ],
+        "dayOfWeek": ["Sun"],
         "startTime": "16:00",
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -626,18 +463,13 @@
     "address": "St Thomas Anglican Church, Parish Hall; 383 Huron St,Toronto,ON,Canada,M5S 2G5",
     "meals": [
       {
-        "dayOfWeek": [
-          "Fri"
-        ],
+        "dayOfWeek": ["Fri"],
         "startTime": "17:00",
         "endTime": "19:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -651,18 +483,13 @@
     "address": "St Andrew's Church; 73 Simcoe St,Toronto,ON,Canada,M5J 1W9",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "07:30",
         "endTime": "08:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -676,18 +503,13 @@
     "address": "St Andrew's Church; 73 Simcoe St,Toronto,ON,Canada,M5J 1W9",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon"
-        ],
+        "dayOfWeek": ["Mon"],
         "startTime": "17:00",
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          16,
-          150
-        ]
+        "gender": "mix",
+        "age": [16, 150]
       }
     ]
   },
@@ -706,11 +528,8 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -729,11 +548,8 @@
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -747,18 +563,13 @@
     "address": "Metropolitan United Church; 56 Queen St E,Toronto,ON,Canada,M5C 2Z3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Thu"
-        ],
+        "dayOfWeek": ["Thu"],
         "startTime": "01:00",
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -772,32 +583,22 @@
     "address": "St Basil's Catholic Church, University of St Michael's College; 50 St Joseph St,Toronto,ON,Canada,M5S 1J4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "10:30",
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Sun"
-        ],
+        "dayOfWeek": ["Sun"],
         "startTime": "14:30",
         "endTime": "15:30",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -811,18 +612,13 @@
     "address": "Calvary Church; 746 Pape Ave,Toronto,ON,Canada,M4K 3S7",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "18:00",
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -836,21 +632,13 @@
     "address": "365 Spadina Ave,Toronto,ON,Canada,M5T 2G3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "startTime": "17:00",
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -864,18 +652,13 @@
     "address": "Anglican Church of St Clement; 70 St Clements Ave,Toronto,ON,Canada,M4R 1H2",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed"
-        ],
+        "dayOfWeek": ["Wed"],
         "startTime": "09:30",
         "endTime": "12:30",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -889,18 +672,13 @@
     "address": "Knox Presbyterian Church; 630 Spadina Ave,Toronto,ON,Canada,M5S 2H4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "18:00",
         "endTime": "21:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -919,11 +697,8 @@
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -937,18 +712,13 @@
     "address": "Corpus Christi Catholic Church, Parish Hall; 16 Lockwood Rd,Toronto,ON,Canada,M4L 3T8",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon"
-        ],
+        "dayOfWeek": ["Mon"],
         "startTime": "15:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -962,18 +732,13 @@
     "address": "Beach Hebrew Institute; 109 Kenilworth Ave,Toronto,ON,Canada,M4L 3S4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Wed"
-        ],
+        "dayOfWeek": ["Wed"],
         "startTime": "11:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -987,18 +752,13 @@
     "address": "Beach United Church; 140 Wineva Ave,Toronto,ON,Canada,M4E 2T4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Thu"
-        ],
+        "dayOfWeek": ["Thu"],
         "startTime": "11:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1012,18 +772,13 @@
     "address": "Kingston Road United Church; 975 Kingston Rd,Toronto,ON,Canada,M4E 1T1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Fri"
-        ],
+        "dayOfWeek": ["Fri"],
         "startTime": "00:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1037,36 +792,22 @@
     "address": "552 Adelaide St W,Toronto,ON,Canada,M5V 3W8",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "10:30",
         "endTime": "23:45",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Sun"
-        ],
+        "dayOfWeek": ["Sun"],
         "startTime": "17:30",
         "endTime": "18:15",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1085,11 +826,8 @@
         "endTime": "15:30",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          50,
-          150
-        ]
+        "gender": "mix",
+        "age": [50, 150]
       }
     ]
   },
@@ -1103,24 +841,13 @@
     "address": "1499 Queen St W,Toronto,ON,Canada,M6R 1A3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "startTime": "09:00",
         "endTime": "15:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          18,
-          150
-        ]
+        "age": [18, 150]
       }
     ]
   },
@@ -1134,18 +861,13 @@
     "address": "602 Queen St W,Toronto,ON,Canada,M6J 1E3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Sat"
-        ],
+        "dayOfWeek": ["Sat"],
         "startTime": "17:30",
         "endTime": "19:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -1159,41 +881,22 @@
     "address": "439 Dundas St E,Toronto,ON,Canada,M5A 2B1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Fri",
-          "Sat",
-          "Sun",
-          "Thu"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Fri", "Sat", "Sun", "Thu"],
         "startTime": "09:00",
         "endTime": "13:30",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "startTime": "15:40",
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1207,44 +910,22 @@
     "address": "20 Gerrard St E,Toronto,ON,Canada,M5B 2P3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "startTime": "13:15",
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "startTime": "16:00",
         "endTime": "18:45",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1258,22 +939,13 @@
     "address": "191 Gerrard St E,Toronto,ON,Canada,M5A 2E5",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "12:30",
         "endTime": "13:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -1287,32 +959,22 @@
     "address": "Fellowship Hall; 2029 Gerrard St E,Toronto,ON,Canada,M4E 2B3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Fri"
-        ],
+        "dayOfWeek": ["Fri"],
         "startTime": "17:00",
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Sat"
-        ],
+        "dayOfWeek": ["Sat"],
         "startTime": "15:00",
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1326,33 +988,22 @@
     "address": "270 Gerrard St E,Toronto,ON,Canada,M5A 2G4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue",
-          "Thu"
-        ],
+        "dayOfWeek": ["Tue", "Thu"],
         "startTime": "16:00",
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          21,
-          150
-        ]
+        "gender": "mix",
+        "age": [21, 150]
       },
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "11:00",
         "endTime": "15:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          21,
-          150
-        ]
+        "gender": "mix",
+        "age": [21, 150]
       }
     ]
   },
@@ -1366,22 +1017,13 @@
     "address": "365 Spadina Ave,Toronto,ON,Canada,M5T 2G3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "12:00",
         "endTime": "17:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1395,18 +1037,13 @@
     "address": "Knox United Church, Christian Education Centre; 2575 Midland Ave,Toronto,ON,Canada,M1S 1R3",
     "meals": [
       {
-        "dayOfWeek": [
-          "Fri"
-        ],
+        "dayOfWeek": ["Fri"],
         "startTime": "18:30",
         "endTime": "20:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1430,22 +1067,13 @@
     "address": "Masaryk-Cowan Community Centre; 220 Cowan Ave,Toronto,ON,Canada,M6K 2N6",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "09:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          18,
-          150
-        ]
+        "gender": "mix",
+        "age": [18, 150]
       }
     ]
   },
@@ -1464,11 +1092,8 @@
         "endTime": "20:30",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          16,
-          150
-        ]
+        "gender": "mix",
+        "age": [16, 150]
       }
     ]
   },
@@ -1482,19 +1107,13 @@
     "address": ",Toronto,ON,Canada,",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Wed"
-        ],
+        "dayOfWeek": ["Mon", "Wed"],
         "startTime": "16:30",
         "endTime": "18:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1508,19 +1127,13 @@
     "address": "192 Carlton St,Toronto,ON,Canada,M5A 2K8",
     "meals": [
       {
-        "dayOfWeek": [
-          "Sat",
-          "Sun"
-        ],
+        "dayOfWeek": ["Sat", "Sun"],
         "startTime": "10:00",
         "endTime": "14:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1534,22 +1147,13 @@
     "address": "4968 Dundas St W,Toronto,ON,Canada,M9A 1B7",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "09:00",
         "endTime": "16:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          55,
-          150
-        ]
+        "gender": "mix",
+        "age": [55, 150]
       }
     ]
   },
@@ -1563,39 +1167,22 @@
     "address": "2468 Eglinton Ave W,Toronto,ON,Canada,M6M 5E2",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri",
-          "Sat",
-          "Sun"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "startTime": "09:00",
         "endTime": "11:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Sat",
-          "Sun"
-        ],
+        "dayOfWeek": ["Sat", "Sun"],
         "startTime": "11:00",
         "endTime": "12:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1609,18 +1196,13 @@
     "address": "The Salvation Army York Community Church; 1100 Weston Rd,Toronto,ON,Canada,M6N 3S4",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon"
-        ],
+        "dayOfWeek": ["Mon"],
         "startTime": "12:00",
         "endTime": "13:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -1634,19 +1216,13 @@
     "address": "5 Thirtieth St,Toronto,ON,Canada,M8W 3B7",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Wed"
-        ],
+        "dayOfWeek": ["Mon", "Wed"],
         "startTime": "10:30",
         "endTime": "14:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -1660,19 +1236,13 @@
     "address": "107 Cedarvale Ave,Toronto,ON,Canada,M4C 4J9",
     "meals": [
       {
-        "dayOfWeek": [
-          "Thu",
-          "Wed"
-        ],
+        "dayOfWeek": ["Thu", "Wed"],
         "startTime": "12:00",
         "endTime": "12:00",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   },
@@ -1686,22 +1256,13 @@
     "address": "140 Merton St,Toronto,ON,Canada,M4S 1A1",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Wed",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "startTime": "09:00",
         "endTime": "17:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1715,38 +1276,22 @@
     "address": "1884 Davenport Rd,Toronto,ON,Canada,M6N 4Y2",
     "meals": [
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Thu", "Fri"],
         "startTime": "09:00",
         "endTime": "10:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       },
       {
-        "dayOfWeek": [
-          "Mon",
-          "Tue",
-          "Thu",
-          "Fri"
-        ],
+        "dayOfWeek": ["Mon", "Tue", "Thu", "Fri"],
         "startTime": "12:00",
         "endTime": "13:00",
         "type": "",
         "notes": "",
-        "gender": "not specified",
-        "age": [
-          0,
-          150
-        ]
+        "gender": "mix",
+        "age": [0, 150]
       }
     ]
   },
@@ -1760,18 +1305,13 @@
     "address": "1219 Dufferin St,Toronto,ON,Canada,M6H 4C2",
     "meals": [
       {
-        "dayOfWeek": [
-          "Tue"
-        ],
+        "dayOfWeek": ["Tue"],
         "startTime": "16:00",
         "endTime": "17:30",
         "type": "",
         "notes": "",
         "gender": "mix",
-        "age": [
-          0,
-          150
-        ]
+        "age": [0, 150]
       }
     ]
   }
