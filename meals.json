@@ -13,9 +13,9 @@
         "dayOfWeek": ["Thu"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "10:00",
@@ -23,9 +23,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "17:00",
@@ -33,9 +33,9 @@
         "dayOfWeek": ["Tue", "Wed"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -53,9 +53,9 @@
         "dayOfWeek": ["Thu"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -73,9 +73,9 @@
         "dayOfWeek": ["Tue"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -93,9 +93,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "12:15",
@@ -103,9 +103,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "15:30",
@@ -113,9 +113,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"],
         "type": "Snack",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -134,8 +134,8 @@
         "type": "Breakfast",
         "notes": "",
         "gender": "female",
-        "age": "",
-        "race": []
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "12:00",
@@ -144,8 +144,8 @@
         "type": "Lunch",
         "notes": "",
         "gender": "female",
-        "age": "",
-        "race": []
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "18:00",
@@ -154,8 +154,8 @@
         "type": "Dinner",
         "notes": "",
         "gender": "female",
-        "age": "",
-        "race": []
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -173,9 +173,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "type": "Snack",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -193,9 +193,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -213,9 +213,9 @@
         "dayOfWeek": ["Tue", "Web", "Thu", "Sat", "Sun"],
         "type": "",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -230,22 +230,22 @@
       {
         "startTime": "13:15",
         "endTime": "16:00",
-        "dayfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "16:00",
         "endTime": "18:45",
-        "dayfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -263,9 +263,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -283,9 +283,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "11:30",
@@ -293,9 +293,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "17:00",
@@ -303,9 +303,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -323,9 +323,9 @@
         "dayOfWeek": ["Mon"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -343,9 +343,9 @@
         "dayOfWeek": ["Tue"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "14:30",
@@ -353,9 +353,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -373,9 +373,9 @@
         "dayOfWeek": ["Mon", "Fri"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "12:00",
@@ -383,9 +383,9 @@
         "dayOfWeek": ["Mon", "Tue"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "11:30",
@@ -393,9 +393,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "17:00",
@@ -403,9 +403,9 @@
         "dayOfWeek": ["Sat"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -423,9 +423,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "10:30",
@@ -433,9 +433,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "17:30",
@@ -443,9 +443,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -463,9 +463,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -483,9 +483,9 @@
         "dayOfWeek": ["Sat"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "06:00",
@@ -493,9 +493,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -513,9 +513,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "16:00",
@@ -523,9 +523,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "08:45",
@@ -533,9 +533,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -553,9 +553,9 @@
         "dayOfWeek": ["Tue"],
         "type": "",
         "notes": "",
-        "gender": "",
+        "gender": "mix",
         "age": [16, 25],
-        "race": []
+        "race": ""
       }
     ]
   },
@@ -573,9 +573,9 @@
         "dayOfWeek": ["Mon"],
         "type": "",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -593,9 +593,9 @@
         "dayOfWeek": ["Wed"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -613,9 +613,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "12:00",
@@ -623,9 +623,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "20:30",
@@ -633,9 +633,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -653,9 +653,9 @@
         "dayOfWeek": ["Sat"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "12:00",
@@ -663,9 +663,9 @@
         "dayOfWeek": ["Sat"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -683,9 +683,9 @@
         "dayOfWeek": ["Tue"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -703,9 +703,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "12:30",
@@ -713,9 +713,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -733,9 +733,9 @@
         "dayOfWeek": ["Mon"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "13:00",
@@ -743,9 +743,9 @@
         "dayOfWeek": ["Mon"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -763,9 +763,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "11:15",
@@ -773,9 +773,9 @@
         "dayOfWeek": ["Sat", "Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "11:30",
@@ -783,9 +783,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "13:00",
@@ -793,9 +793,9 @@
         "dayOfWeek": ["Fri", "Sat", "Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -803,19 +803,19 @@
     "address": "Holy Blossom Temple; 1950 Bathurst St, Toronto, M5P 3K9",
     "organizationName": "Out of the Cold. Overnight Shelters - Thursday Overnight Hostel, Holy Blossom Temple - Holy Blossom Temple",
     "program": "",
-    "phone_number": null,
+    "phone_number": "",
     "latitude": 43.698268,
     "longitude": -79.425178,
     "meals": [
       {
         "startTime": "09:15",
-        "endTime": "10:!5",
+        "endTime": "10:15",
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "11:15",
@@ -823,9 +823,9 @@
         "dayOfWeek": ["Sat", "Sun"],
         "type": "Breakfast",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "11:30",
@@ -833,9 +833,9 @@
         "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "13:00",
@@ -843,9 +843,9 @@
         "dayOfWeek": ["Fri", "Sat", "Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -863,9 +863,9 @@
         "dayOfWeek": ["Mon"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -883,9 +883,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Lunch",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       },
       {
         "startTime": "17:30",
@@ -893,9 +893,9 @@
         "dayOfWeek": ["Sun"],
         "type": "Dinner",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   },
@@ -913,9 +913,9 @@
         "dayOfWeek": ["Fri"],
         "type": "",
         "notes": "",
-        "gender": "",
-        "age": "",
-        "race": []
+        "gender": "mix",
+        "age": [],
+        "race": ""
       }
     ]
   }
